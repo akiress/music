@@ -1,0 +1,61 @@
+#N canvas 502 41 800 742 10;
+#X obj 525 57 soundfiler;
+#X msg 525 35 read -resize breaking-saucer.wav mysample;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X array mysample 18265 float 2;
+#X coords 0 1 18265 -1 200 140 1;
+#X restore 525 165 graph;
+#X floatatom 525 79 10 0 0 0 - - -;
+#X obj 22 667 tabread4~ mysample;
+#X obj 22 504 line~;
+#N canvas 796 299 147 133 convert-audio-to-events 0;
+#X obj 16 81 snapshot~;
+#X obj 74 9 loadbang;
+#X obj 74 31 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1 1
+;
+#X obj 74 51 metro 30;
+#X obj 16 103 outlet;
+#X obj 16 25 inlet~;
+#X connect 0 0 4 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 3 0 0 0;
+#X connect 5 0 0 0;
+#X restore 30 603 pd convert-audio-to-events;
+#X floatatom 30 625 8 0 0 0 - - -;
+#X msg 22 379 18265 414.172;
+#X obj 11 715 dac~;
+#X obj 22 690 *~ 0.05;
+#X obj 22 427 t a b;
+#X msg 49 448 0;
+#X text 82 433 This just makes it so that each time a list comes through
+\, first the message "0" gets sent to line (to reset its output to
+zero) \, and then the incoming list is passed along to control the
+sound.;
+#X text 112 377 <-- Click on me to hear the sound!;
+#X text 20 6 The trick in using tabread4~ to play back audio in a table
+(in this case the table called "mysample") is to calculate what messages
+to send to a line~ object connected to tabread4~.;
+#X text 37 555 <--- The output from line~/the input to tabread4~ is
+an audio signal representing the audio sample that should curently
+be played back out of the the table.;
+#X text 606 713 Patch made by Edgar Berdahl;
+#X text 509 16 audio WAV file into the table called mysample;
+#X text 510 3 First click on the message below to load an;
+#X text 22 303 When passed a list of two numbers \, line~ works like
+this: over the duration of the time specified by the second number
+in milliseconds \, line~ ramps its output from the current output value
+to the first number in the list.;
+#X text 590 78 Size of loaded sound in samples;
+#X connect 0 0 3 0;
+#X connect 1 0 0 0;
+#X connect 4 0 10 0;
+#X connect 5 0 4 0;
+#X connect 5 0 6 0;
+#X connect 6 0 7 0;
+#X connect 8 0 11 0;
+#X connect 10 0 9 0;
+#X connect 10 0 9 1;
+#X connect 11 0 5 0;
+#X connect 11 1 12 0;
+#X connect 12 0 5 0;
