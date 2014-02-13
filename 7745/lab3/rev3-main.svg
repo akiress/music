@@ -1,745 +1,1242 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW Home & Student X6 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="32in" height="18in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 32000 18000"
- xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <style type="text/css">
-   <![CDATA[
-    .str0 {stroke:red;stroke-width:3}
-    .fil1 {fill:none}
-    .fil0 {fill:none;fill-rule:nonzero}
-   ]]>
-  </style>
- </defs>
- <g id="Layer_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <line class="fil0 str0" x1="25049" y1="4959" x2="25049" y2= "4431" />
-  <line class="fil0 str0" x1="24849" y1="4431" x2="25049" y2= "4431" />
-  <line class="fil0 str0" x1="24849" y1="4431" x2="24849" y2= "3903" />
-  <line class="fil0 str0" x1="24849" y1="3903" x2="25049" y2= "3903" />
-  <line class="fil0 str0" x1="25049" y1="3903" x2="25049" y2= "3375" />
-  <line class="fil0 str0" x1="24849" y1="3375" x2="25049" y2= "3375" />
-  <line class="fil0 str0" x1="24849" y1="3375" x2="24849" y2= "2847" />
-  <line class="fil0 str0" x1="24849" y1="2847" x2="25049" y2= "2847" />
-  <line class="fil0 str0" x1="25049" y1="2847" x2="25049" y2= "2320" />
-  <line class="fil0 str0" x1="24849" y1="2320" x2="25049" y2= "2320" />
-  <line class="fil0 str0" x1="24849" y1="2320" x2="24849" y2= "1792" />
-  <line class="fil0 str0" x1="24849" y1="1792" x2="25049" y2= "1792" />
-  <line class="fil0 str0" x1="25049" y1="1792" x2="25049" y2= "1264" />
-  <line class="fil0 str0" x1="24849" y1="1264" x2="25049" y2= "1264" />
-  <line class="fil0 str0" x1="24849" y1="1264" x2="24849" y2= "736" />
-  <line class="fil0 str0" x1="24849" y1="736" x2="25049" y2= "736" />
-  <line class="fil0 str0" x1="25049" y1="736" x2="25049" y2= "409" />
-  <line class="fil0 str0" x1="18399" y1="4959" x2="18399" y2= "4431" />
-  <line class="fil0 str0" x1="18399" y1="4431" x2="18799" y2= "4431" />
-  <line class="fil0 str0" x1="18799" y1="4431" x2="18799" y2= "3903" />
-  <line class="fil0 str0" x1="18399" y1="3903" x2="18799" y2= "3903" />
-  <line class="fil0 str0" x1="18399" y1="3903" x2="18399" y2= "3375" />
-  <line class="fil0 str0" x1="18399" y1="3375" x2="18799" y2= "3375" />
-  <line class="fil0 str0" x1="18799" y1="3375" x2="18799" y2= "2847" />
-  <line class="fil0 str0" x1="18399" y1="2847" x2="18799" y2= "2847" />
-  <line class="fil0 str0" x1="18399" y1="2847" x2="18399" y2= "2320" />
-  <line class="fil0 str0" x1="18399" y1="2320" x2="18799" y2= "2320" />
-  <line class="fil0 str0" x1="18799" y1="2320" x2="18799" y2= "1792" />
-  <line class="fil0 str0" x1="18399" y1="1792" x2="18799" y2= "1792" />
-  <line class="fil0 str0" x1="18399" y1="1792" x2="18399" y2= "1264" />
-  <line class="fil0 str0" x1="18399" y1="1264" x2="18799" y2= "1264" />
-  <line class="fil0 str0" x1="18799" y1="1264" x2="18799" y2= "736" />
-  <line class="fil0 str0" x1="18399" y1="736" x2="18799" y2= "736" />
-  <line class="fil0 str0" x1="18399" y1="736" x2="18399" y2= "409" />
-  <line class="fil0 str0" x1="25049" y1="4959" x2="24537" y2= "4959" />
-  <line class="fil0 str0" x1="24537" y1="4759" x2="24537" y2= "4959" />
-  <line class="fil0 str0" x1="24537" y1="4759" x2="24026" y2= "4759" />
-  <line class="fil0 str0" x1="24026" y1="4759" x2="24026" y2= "4959" />
-  <line class="fil0 str0" x1="24026" y1="4959" x2="23514" y2= "4959" />
-  <line class="fil0 str0" x1="23514" y1="4759" x2="23514" y2= "4959" />
-  <line class="fil0 str0" x1="23514" y1="4759" x2="23003" y2= "4759" />
-  <line class="fil0 str0" x1="23003" y1="4759" x2="23003" y2= "4959" />
-  <line class="fil0 str0" x1="23003" y1="4959" x2="22491" y2= "4959" />
-  <line class="fil0 str0" x1="22491" y1="4759" x2="22491" y2= "4959" />
-  <line class="fil0 str0" x1="22491" y1="4759" x2="21980" y2= "4759" />
-  <line class="fil0 str0" x1="21980" y1="4759" x2="21980" y2= "4959" />
-  <line class="fil0 str0" x1="21980" y1="4959" x2="21468" y2= "4959" />
-  <line class="fil0 str0" x1="21468" y1="4759" x2="21468" y2= "4959" />
-  <line class="fil0 str0" x1="21468" y1="4759" x2="20957" y2= "4759" />
-  <line class="fil0 str0" x1="20957" y1="4759" x2="20957" y2= "4959" />
-  <line class="fil0 str0" x1="20957" y1="4959" x2="20445" y2= "4959" />
-  <line class="fil0 str0" x1="20445" y1="4759" x2="20445" y2= "4959" />
-  <line class="fil0 str0" x1="20445" y1="4759" x2="19934" y2= "4759" />
-  <line class="fil0 str0" x1="19934" y1="4759" x2="19934" y2= "4959" />
-  <line class="fil0 str0" x1="19934" y1="4959" x2="19422" y2= "4959" />
-  <line class="fil0 str0" x1="19422" y1="4759" x2="19422" y2= "4959" />
-  <line class="fil0 str0" x1="19422" y1="4759" x2="18910" y2= "4759" />
-  <line class="fil0 str0" x1="18910" y1="4759" x2="18910" y2= "4959" />
-  <line class="fil0 str0" x1="18910" y1="4959" x2="18399" y2= "4959" />
-  <line class="fil0 str0" x1="25049" y1="409" x2="24537" y2= "409" />
-  <line class="fil0 str0" x1="24537" y1="209" x2="24537" y2= "409" />
-  <line class="fil0 str0" x1="24537" y1="209" x2="24026" y2= "209" />
-  <line class="fil0 str0" x1="24026" y1="209" x2="24026" y2= "409" />
-  <line class="fil0 str0" x1="24026" y1="409" x2="23514" y2= "409" />
-  <line class="fil0 str0" x1="23514" y1="209" x2="23514" y2= "409" />
-  <line class="fil0 str0" x1="23514" y1="209" x2="23003" y2= "209" />
-  <line class="fil0 str0" x1="23003" y1="209" x2="23003" y2= "409" />
-  <line class="fil0 str0" x1="23003" y1="409" x2="22491" y2= "409" />
-  <line class="fil0 str0" x1="22491" y1="209" x2="22491" y2= "409" />
-  <line class="fil0 str0" x1="22491" y1="209" x2="21980" y2= "209" />
-  <line class="fil0 str0" x1="21980" y1="209" x2="21980" y2= "409" />
-  <line class="fil0 str0" x1="21980" y1="409" x2="21468" y2= "409" />
-  <line class="fil0 str0" x1="21468" y1="209" x2="21468" y2= "409" />
-  <line class="fil0 str0" x1="21468" y1="209" x2="20957" y2= "209" />
-  <line class="fil0 str0" x1="20957" y1="209" x2="20957" y2= "409" />
-  <line class="fil0 str0" x1="20957" y1="409" x2="20445" y2= "409" />
-  <line class="fil0 str0" x1="20445" y1="209" x2="20445" y2= "409" />
-  <line class="fil0 str0" x1="20445" y1="209" x2="19934" y2= "209" />
-  <line class="fil0 str0" x1="19934" y1="209" x2="19934" y2= "409" />
-  <line class="fil0 str0" x1="19934" y1="409" x2="19422" y2= "409" />
-  <line class="fil0 str0" x1="19422" y1="209" x2="19422" y2= "409" />
-  <line class="fil0 str0" x1="19422" y1="209" x2="18910" y2= "209" />
-  <line class="fil0 str0" x1="18910" y1="209" x2="18910" y2= "409" />
-  <line class="fil0 str0" x1="18910" y1="409" x2="18399" y2= "409" />
-  <line class="fil0 str0" x1="431" y1="9765" x2="746" y2= "9765" />
-  <line class="fil0 str0" x1="746" y1="9765" x2="746" y2= "9965" />
-  <line class="fil0 str0" x1="746" y1="9965" x2="1262" y2= "9965" />
-  <line class="fil0 str0" x1="1262" y1="9765" x2="1262" y2= "9965" />
-  <line class="fil0 str0" x1="1262" y1="9765" x2="1778" y2= "9765" />
-  <line class="fil0 str0" x1="1778" y1="9765" x2="1778" y2= "9965" />
-  <line class="fil0 str0" x1="1778" y1="9965" x2="2293" y2= "9965" />
-  <line class="fil0 str0" x1="2293" y1="9765" x2="2293" y2= "9965" />
-  <line class="fil0 str0" x1="2293" y1="9765" x2="2809" y2= "9765" />
-  <line class="fil0 str0" x1="2809" y1="9765" x2="2809" y2= "9965" />
-  <line class="fil0 str0" x1="2809" y1="9965" x2="3325" y2= "9965" />
-  <line class="fil0 str0" x1="3325" y1="9765" x2="3325" y2= "9965" />
-  <line class="fil0 str0" x1="3325" y1="9765" x2="3841" y2= "9765" />
-  <line class="fil0 str0" x1="3841" y1="9765" x2="3841" y2= "9965" />
-  <line class="fil0 str0" x1="3841" y1="9965" x2="4356" y2= "9965" />
-  <line class="fil0 str0" x1="4356" y1="9765" x2="4356" y2= "9965" />
-  <line class="fil0 str0" x1="4356" y1="9765" x2="4872" y2= "9765" />
-  <line class="fil0 str0" x1="4872" y1="9765" x2="4872" y2= "9965" />
-  <line class="fil0 str0" x1="4872" y1="9965" x2="5388" y2= "9965" />
-  <line class="fil0 str0" x1="5388" y1="9765" x2="5388" y2= "9965" />
-  <line class="fil0 str0" x1="5388" y1="9765" x2="5903" y2= "9765" />
-  <line class="fil0 str0" x1="5903" y1="9765" x2="5903" y2= "9965" />
-  <line class="fil0 str0" x1="5903" y1="9965" x2="6419" y2= "9965" />
-  <line class="fil0 str0" x1="6419" y1="9765" x2="6419" y2= "9965" />
-  <line class="fil0 str0" x1="6419" y1="9765" x2="6935" y2= "9765" />
-  <line class="fil0 str0" x1="6935" y1="9765" x2="6935" y2= "9965" />
-  <line class="fil0 str0" x1="6935" y1="9965" x2="7451" y2= "9965" />
-  <line class="fil0 str0" x1="7451" y1="9765" x2="7451" y2= "9965" />
-  <line class="fil0 str0" x1="7451" y1="9765" x2="7966" y2= "9765" />
-  <line class="fil0 str0" x1="7966" y1="9765" x2="7966" y2= "9965" />
-  <line class="fil0 str0" x1="7966" y1="9965" x2="8482" y2= "9965" />
-  <line class="fil0 str0" x1="8482" y1="9765" x2="8482" y2= "9965" />
-  <line class="fil0 str0" x1="8482" y1="9765" x2="8998" y2= "9765" />
-  <line class="fil0 str0" x1="8998" y1="9765" x2="8998" y2= "9965" />
-  <line class="fil0 str0" x1="8998" y1="9965" x2="9513" y2= "9965" />
-  <line class="fil0 str0" x1="9513" y1="9765" x2="9513" y2= "9965" />
-  <line class="fil0 str0" x1="9513" y1="9765" x2="10029" y2= "9765" />
-  <line class="fil0 str0" x1="10029" y1="9765" x2="10029" y2= "9965" />
-  <line class="fil0 str0" x1="10029" y1="9965" x2="10545" y2= "9965" />
-  <line class="fil0 str0" x1="10545" y1="9765" x2="10545" y2= "9965" />
-  <line class="fil0 str0" x1="10545" y1="9765" x2="11061" y2= "9765" />
-  <line class="fil0 str0" x1="11061" y1="9765" x2="11061" y2= "9965" />
-  <line class="fil0 str0" x1="11061" y1="9965" x2="11576" y2= "9965" />
-  <line class="fil0 str0" x1="11576" y1="9765" x2="11576" y2= "9965" />
-  <line class="fil0 str0" x1="11576" y1="9765" x2="12092" y2= "9765" />
-  <line class="fil0 str0" x1="12092" y1="9765" x2="12092" y2= "9965" />
-  <line class="fil0 str0" x1="12092" y1="9965" x2="12608" y2= "9965" />
-  <line class="fil0 str0" x1="12608" y1="9765" x2="12608" y2= "9965" />
-  <line class="fil0 str0" x1="12608" y1="9765" x2="13123" y2= "9765" />
-  <line class="fil0 str0" x1="13123" y1="9765" x2="13123" y2= "9965" />
-  <line class="fil0 str0" x1="13123" y1="9965" x2="13639" y2= "9965" />
-  <line class="fil0 str0" x1="13639" y1="9765" x2="13639" y2= "9965" />
-  <line class="fil0 str0" x1="13639" y1="9765" x2="14155" y2= "9765" />
-  <line class="fil0 str0" x1="14155" y1="9765" x2="14155" y2= "9965" />
-  <line class="fil0 str0" x1="14155" y1="9965" x2="14671" y2= "9965" />
-  <line class="fil0 str0" x1="14671" y1="9765" x2="14671" y2= "9965" />
-  <line class="fil0 str0" x1="14671" y1="9765" x2="15186" y2= "9765" />
-  <line class="fil0 str0" x1="15186" y1="9765" x2="15186" y2= "9965" />
-  <line class="fil0 str0" x1="15186" y1="9965" x2="15702" y2= "9965" />
-  <line class="fil0 str0" x1="15702" y1="9765" x2="15702" y2= "9965" />
-  <line class="fil0 str0" x1="15702" y1="9765" x2="16218" y2= "9765" />
-  <line class="fil0 str0" x1="16218" y1="9765" x2="16218" y2= "9965" />
-  <line class="fil0 str0" x1="16218" y1="9965" x2="16733" y2= "9965" />
-  <line class="fil0 str0" x1="16733" y1="9765" x2="16733" y2= "9965" />
-  <line class="fil0 str0" x1="16733" y1="9765" x2="17249" y2= "9765" />
-  <line class="fil0 str0" x1="17249" y1="9765" x2="17249" y2= "9965" />
-  <line class="fil0 str0" x1="17249" y1="9965" x2="17765" y2= "9965" />
-  <line class="fil0 str0" x1="17765" y1="9765" x2="17765" y2= "9965" />
-  <line class="fil0 str0" x1="17765" y1="9765" x2="18081" y2= "9765" />
-  <line class="fil0 str0" x1="431" y1="5415" x2="746" y2= "5415" />
-  <line class="fil0 str0" x1="746" y1="5215" x2="746" y2= "5415" />
-  <line class="fil0 str0" x1="746" y1="5215" x2="1262" y2= "5215" />
-  <line class="fil0 str0" x1="1262" y1="5215" x2="1262" y2= "5415" />
-  <line class="fil0 str0" x1="1262" y1="5415" x2="1778" y2= "5415" />
-  <line class="fil0 str0" x1="1778" y1="5215" x2="1778" y2= "5415" />
-  <line class="fil0 str0" x1="1778" y1="5215" x2="2293" y2= "5215" />
-  <line class="fil0 str0" x1="2293" y1="5215" x2="2293" y2= "5415" />
-  <line class="fil0 str0" x1="2293" y1="5415" x2="2809" y2= "5415" />
-  <line class="fil0 str0" x1="2809" y1="5215" x2="2809" y2= "5415" />
-  <line class="fil0 str0" x1="2809" y1="5215" x2="3325" y2= "5215" />
-  <line class="fil0 str0" x1="3325" y1="5215" x2="3325" y2= "5415" />
-  <line class="fil0 str0" x1="3325" y1="5415" x2="3841" y2= "5415" />
-  <line class="fil0 str0" x1="3841" y1="5215" x2="3841" y2= "5415" />
-  <line class="fil0 str0" x1="3841" y1="5215" x2="4356" y2= "5215" />
-  <line class="fil0 str0" x1="4356" y1="5215" x2="4356" y2= "5415" />
-  <line class="fil0 str0" x1="4356" y1="5415" x2="4872" y2= "5415" />
-  <line class="fil0 str0" x1="4872" y1="5215" x2="4872" y2= "5415" />
-  <line class="fil0 str0" x1="4872" y1="5215" x2="5388" y2= "5215" />
-  <line class="fil0 str0" x1="5388" y1="5215" x2="5388" y2= "5415" />
-  <line class="fil0 str0" x1="5388" y1="5415" x2="5903" y2= "5415" />
-  <line class="fil0 str0" x1="5903" y1="5215" x2="5903" y2= "5415" />
-  <line class="fil0 str0" x1="5903" y1="5215" x2="6419" y2= "5215" />
-  <line class="fil0 str0" x1="6419" y1="5215" x2="6419" y2= "5415" />
-  <line class="fil0 str0" x1="6419" y1="5415" x2="6935" y2= "5415" />
-  <line class="fil0 str0" x1="6935" y1="5215" x2="6935" y2= "5415" />
-  <line class="fil0 str0" x1="6935" y1="5215" x2="7451" y2= "5215" />
-  <line class="fil0 str0" x1="7451" y1="5215" x2="7451" y2= "5415" />
-  <line class="fil0 str0" x1="7451" y1="5415" x2="7966" y2= "5415" />
-  <line class="fil0 str0" x1="7966" y1="5215" x2="7966" y2= "5415" />
-  <line class="fil0 str0" x1="7966" y1="5215" x2="8482" y2= "5215" />
-  <line class="fil0 str0" x1="8482" y1="5215" x2="8482" y2= "5415" />
-  <line class="fil0 str0" x1="8482" y1="5415" x2="8998" y2= "5415" />
-  <line class="fil0 str0" x1="8998" y1="5215" x2="8998" y2= "5415" />
-  <line class="fil0 str0" x1="8998" y1="5215" x2="9513" y2= "5215" />
-  <line class="fil0 str0" x1="9513" y1="5215" x2="9513" y2= "5415" />
-  <line class="fil0 str0" x1="9513" y1="5415" x2="10029" y2= "5415" />
-  <line class="fil0 str0" x1="10029" y1="5215" x2="10029" y2= "5415" />
-  <line class="fil0 str0" x1="10029" y1="5215" x2="10545" y2= "5215" />
-  <line class="fil0 str0" x1="10545" y1="5215" x2="10545" y2= "5415" />
-  <line class="fil0 str0" x1="10545" y1="5415" x2="11061" y2= "5415" />
-  <line class="fil0 str0" x1="11061" y1="5215" x2="11061" y2= "5415" />
-  <line class="fil0 str0" x1="11061" y1="5215" x2="11576" y2= "5215" />
-  <line class="fil0 str0" x1="11576" y1="5215" x2="11576" y2= "5415" />
-  <line class="fil0 str0" x1="11576" y1="5415" x2="12092" y2= "5415" />
-  <line class="fil0 str0" x1="12092" y1="5215" x2="12092" y2= "5415" />
-  <line class="fil0 str0" x1="12092" y1="5215" x2="12608" y2= "5215" />
-  <line class="fil0 str0" x1="12608" y1="5215" x2="12608" y2= "5415" />
-  <line class="fil0 str0" x1="12608" y1="5415" x2="13123" y2= "5415" />
-  <line class="fil0 str0" x1="13123" y1="5215" x2="13123" y2= "5415" />
-  <line class="fil0 str0" x1="13123" y1="5215" x2="13639" y2= "5215" />
-  <line class="fil0 str0" x1="13639" y1="5215" x2="13639" y2= "5415" />
-  <line class="fil0 str0" x1="13639" y1="5415" x2="14155" y2= "5415" />
-  <line class="fil0 str0" x1="14155" y1="5215" x2="14155" y2= "5415" />
-  <line class="fil0 str0" x1="14155" y1="5215" x2="14671" y2= "5215" />
-  <line class="fil0 str0" x1="14671" y1="5215" x2="14671" y2= "5415" />
-  <line class="fil0 str0" x1="14671" y1="5415" x2="15186" y2= "5415" />
-  <line class="fil0 str0" x1="15186" y1="5215" x2="15186" y2= "5415" />
-  <line class="fil0 str0" x1="15186" y1="5215" x2="15702" y2= "5215" />
-  <line class="fil0 str0" x1="15702" y1="5215" x2="15702" y2= "5415" />
-  <line class="fil0 str0" x1="15702" y1="5415" x2="16218" y2= "5415" />
-  <line class="fil0 str0" x1="16218" y1="5215" x2="16218" y2= "5415" />
-  <line class="fil0 str0" x1="16218" y1="5215" x2="16733" y2= "5215" />
-  <line class="fil0 str0" x1="16733" y1="5215" x2="16733" y2= "5415" />
-  <line class="fil0 str0" x1="16733" y1="5415" x2="17249" y2= "5415" />
-  <line class="fil0 str0" x1="17249" y1="5215" x2="17249" y2= "5415" />
-  <line class="fil0 str0" x1="17249" y1="5215" x2="17765" y2= "5215" />
-  <line class="fil0 str0" x1="17765" y1="5215" x2="17765" y2= "5415" />
-  <line class="fil0 str0" x1="17765" y1="5415" x2="18081" y2= "5415" />
-  <line class="fil0 str0" x1="431" y1="9765" x2="431" y2= "9438" />
-  <line class="fil0 str0" x1="431" y1="9438" x2="231" y2= "9438" />
-  <line class="fil0 str0" x1="231" y1="9438" x2="231" y2= "8910" />
-  <line class="fil0 str0" x1="431" y1="8910" x2="231" y2= "8910" />
-  <line class="fil0 str0" x1="431" y1="8910" x2="431" y2= "8382" />
-  <line class="fil0 str0" x1="431" y1="8382" x2="231" y2= "8382" />
-  <line class="fil0 str0" x1="231" y1="8382" x2="231" y2= "7854" />
-  <line class="fil0 str0" x1="431" y1="7854" x2="231" y2= "7854" />
-  <line class="fil0 str0" x1="431" y1="7854" x2="431" y2= "7326" />
-  <line class="fil0 str0" x1="431" y1="7326" x2="231" y2= "7326" />
-  <line class="fil0 str0" x1="231" y1="7326" x2="231" y2= "6799" />
-  <line class="fil0 str0" x1="431" y1="6799" x2="231" y2= "6799" />
-  <line class="fil0 str0" x1="431" y1="6799" x2="431" y2= "6271" />
-  <line class="fil0 str0" x1="431" y1="6271" x2="231" y2= "6271" />
-  <line class="fil0 str0" x1="231" y1="6271" x2="231" y2= "5743" />
-  <line class="fil0 str0" x1="431" y1="5743" x2="231" y2= "5743" />
-  <line class="fil0 str0" x1="431" y1="5743" x2="431" y2= "5415" />
-  <line class="fil0 str0" x1="18081" y1="9765" x2="18081" y2= "9438" />
-  <line class="fil0 str0" x1="18281" y1="9438" x2="18081" y2= "9438" />
-  <line class="fil0 str0" x1="18281" y1="9438" x2="18281" y2= "8910" />
-  <line class="fil0 str0" x1="18281" y1="8910" x2="18081" y2= "8910" />
-  <line class="fil0 str0" x1="18081" y1="8910" x2="18081" y2= "8382" />
-  <line class="fil0 str0" x1="18281" y1="8382" x2="18081" y2= "8382" />
-  <line class="fil0 str0" x1="18281" y1="8382" x2="18281" y2= "7854" />
-  <line class="fil0 str0" x1="18281" y1="7854" x2="18081" y2= "7854" />
-  <line class="fil0 str0" x1="18081" y1="7854" x2="18081" y2= "7326" />
-  <line class="fil0 str0" x1="18281" y1="7326" x2="18081" y2= "7326" />
-  <line class="fil0 str0" x1="18281" y1="7326" x2="18281" y2= "6799" />
-  <line class="fil0 str0" x1="18281" y1="6799" x2="18081" y2= "6799" />
-  <line class="fil0 str0" x1="18081" y1="6799" x2="18081" y2= "6271" />
-  <line class="fil0 str0" x1="18281" y1="6271" x2="18081" y2= "6271" />
-  <line class="fil0 str0" x1="18281" y1="6271" x2="18281" y2= "5743" />
-  <line class="fil0 str0" x1="18281" y1="5743" x2="18081" y2= "5743" />
-  <line class="fil0 str0" x1="18081" y1="5743" x2="18081" y2= "5415" />
-  <line class="fil0 str0" x1="312" y1="16791" x2="828" y2= "16791" />
-  <line class="fil0 str0" x1="828" y1="16591" x2="828" y2= "16791" />
-  <line class="fil0 str0" x1="828" y1="16591" x2="1343" y2= "16591" />
-  <line class="fil0 str0" x1="1343" y1="16591" x2="1343" y2= "16791" />
-  <line class="fil0 str0" x1="1343" y1="16791" x2="1859" y2= "16791" />
-  <line class="fil0 str0" x1="1859" y1="16591" x2="1859" y2= "16791" />
-  <line class="fil0 str0" x1="1859" y1="16591" x2="2375" y2= "16591" />
-  <line class="fil0 str0" x1="2375" y1="16591" x2="2375" y2= "16791" />
-  <line class="fil0 str0" x1="2375" y1="16791" x2="2890" y2= "16791" />
-  <line class="fil0 str0" x1="2890" y1="16591" x2="2890" y2= "16791" />
-  <line class="fil0 str0" x1="2890" y1="16591" x2="3406" y2= "16591" />
-  <line class="fil0 str0" x1="3406" y1="16591" x2="3406" y2= "16791" />
-  <line class="fil0 str0" x1="3406" y1="16791" x2="3922" y2= "16791" />
-  <line class="fil0 str0" x1="3922" y1="16591" x2="3922" y2= "16791" />
-  <line class="fil0 str0" x1="3922" y1="16591" x2="4438" y2= "16591" />
-  <line class="fil0 str0" x1="4438" y1="16591" x2="4438" y2= "16791" />
-  <line class="fil0 str0" x1="4438" y1="16791" x2="4953" y2= "16791" />
-  <line class="fil0 str0" x1="4953" y1="16591" x2="4953" y2= "16791" />
-  <line class="fil0 str0" x1="4953" y1="16591" x2="5469" y2= "16591" />
-  <line class="fil0 str0" x1="5469" y1="16591" x2="5469" y2= "16791" />
-  <line class="fil0 str0" x1="5469" y1="16791" x2="5985" y2= "16791" />
-  <line class="fil0 str0" x1="5985" y1="16591" x2="5985" y2= "16791" />
-  <line class="fil0 str0" x1="5985" y1="16591" x2="6500" y2= "16591" />
-  <line class="fil0 str0" x1="6500" y1="16591" x2="6500" y2= "16791" />
-  <line class="fil0 str0" x1="6500" y1="16791" x2="7016" y2= "16791" />
-  <line class="fil0 str0" x1="7016" y1="16591" x2="7016" y2= "16791" />
-  <line class="fil0 str0" x1="7016" y1="16591" x2="7532" y2= "16591" />
-  <line class="fil0 str0" x1="7532" y1="16591" x2="7532" y2= "16791" />
-  <line class="fil0 str0" x1="7532" y1="16791" x2="8048" y2= "16791" />
-  <line class="fil0 str0" x1="8048" y1="16591" x2="8048" y2= "16791" />
-  <line class="fil0 str0" x1="8048" y1="16591" x2="8563" y2= "16591" />
-  <line class="fil0 str0" x1="8563" y1="16591" x2="8563" y2= "16791" />
-  <line class="fil0 str0" x1="8563" y1="16791" x2="9079" y2= "16791" />
-  <line class="fil0 str0" x1="9079" y1="16591" x2="9079" y2= "16791" />
-  <line class="fil0 str0" x1="9079" y1="16591" x2="9595" y2= "16591" />
-  <line class="fil0 str0" x1="9595" y1="16591" x2="9595" y2= "16791" />
-  <line class="fil0 str0" x1="9595" y1="16791" x2="10110" y2= "16791" />
-  <line class="fil0 str0" x1="10110" y1="16591" x2="10110" y2= "16791" />
-  <line class="fil0 str0" x1="10110" y1="16591" x2="10626" y2= "16591" />
-  <line class="fil0 str0" x1="10626" y1="16591" x2="10626" y2= "16791" />
-  <line class="fil0 str0" x1="10626" y1="16791" x2="11142" y2= "16791" />
-  <line class="fil0 str0" x1="11142" y1="16591" x2="11142" y2= "16791" />
-  <line class="fil0 str0" x1="11142" y1="16591" x2="11658" y2= "16591" />
-  <line class="fil0 str0" x1="11658" y1="16591" x2="11658" y2= "16791" />
-  <line class="fil0 str0" x1="11658" y1="16791" x2="12173" y2= "16791" />
-  <line class="fil0 str0" x1="12173" y1="16591" x2="12173" y2= "16791" />
-  <line class="fil0 str0" x1="12173" y1="16591" x2="12689" y2= "16591" />
-  <line class="fil0 str0" x1="12689" y1="16591" x2="12689" y2= "16791" />
-  <line class="fil0 str0" x1="12689" y1="16791" x2="13205" y2= "16791" />
-  <line class="fil0 str0" x1="13205" y1="16591" x2="13205" y2= "16791" />
-  <line class="fil0 str0" x1="13205" y1="16591" x2="13720" y2= "16591" />
-  <line class="fil0 str0" x1="13720" y1="16591" x2="13720" y2= "16791" />
-  <line class="fil0 str0" x1="13720" y1="16791" x2="14236" y2= "16791" />
-  <line class="fil0 str0" x1="14236" y1="16591" x2="14236" y2= "16791" />
-  <line class="fil0 str0" x1="14236" y1="16591" x2="14752" y2= "16591" />
-  <line class="fil0 str0" x1="14752" y1="16591" x2="14752" y2= "16791" />
-  <line class="fil0 str0" x1="14752" y1="16791" x2="15268" y2= "16791" />
-  <line class="fil0 str0" x1="15268" y1="16591" x2="15268" y2= "16791" />
-  <line class="fil0 str0" x1="15268" y1="16591" x2="15783" y2= "16591" />
-  <line class="fil0 str0" x1="15783" y1="16591" x2="15783" y2= "16791" />
-  <line class="fil0 str0" x1="15783" y1="16791" x2="16299" y2= "16791" />
-  <line class="fil0 str0" x1="16299" y1="16591" x2="16299" y2= "16791" />
-  <line class="fil0 str0" x1="16299" y1="16591" x2="16815" y2= "16591" />
-  <line class="fil0 str0" x1="16815" y1="16591" x2="16815" y2= "16791" />
-  <line class="fil0 str0" x1="16815" y1="16791" x2="17330" y2= "16791" />
-  <line class="fil0 str0" x1="17330" y1="16591" x2="17330" y2= "16791" />
-  <line class="fil0 str0" x1="17330" y1="16591" x2="17846" y2= "16591" />
-  <line class="fil0 str0" x1="17846" y1="16591" x2="17846" y2= "16791" />
-  <line class="fil0 str0" x1="17846" y1="16791" x2="18162" y2= "16791" />
-  <line class="fil0 str0" x1="312" y1="10141" x2="828" y2= "10141" />
-  <line class="fil0 str0" x1="828" y1="10140" x2="828" y2= "10540" />
-  <line class="fil0 str0" x1="828" y1="10540" x2="1343" y2= "10540" />
-  <line class="fil0 str0" x1="1343" y1="10140" x2="1343" y2= "10540" />
-  <line class="fil0 str0" x1="1343" y1="10141" x2="1859" y2= "10141" />
-  <line class="fil0 str0" x1="1859" y1="10140" x2="1859" y2= "10540" />
-  <line class="fil0 str0" x1="1859" y1="10540" x2="2375" y2= "10540" />
-  <line class="fil0 str0" x1="2375" y1="10140" x2="2375" y2= "10540" />
-  <line class="fil0 str0" x1="2375" y1="10141" x2="2890" y2= "10141" />
-  <line class="fil0 str0" x1="2890" y1="10140" x2="2890" y2= "10540" />
-  <line class="fil0 str0" x1="2890" y1="10540" x2="3406" y2= "10540" />
-  <line class="fil0 str0" x1="3406" y1="10140" x2="3406" y2= "10540" />
-  <line class="fil0 str0" x1="3406" y1="10141" x2="3922" y2= "10141" />
-  <line class="fil0 str0" x1="3922" y1="10140" x2="3922" y2= "10540" />
-  <line class="fil0 str0" x1="3922" y1="10540" x2="4438" y2= "10540" />
-  <line class="fil0 str0" x1="4438" y1="10140" x2="4438" y2= "10540" />
-  <line class="fil0 str0" x1="4438" y1="10141" x2="4953" y2= "10141" />
-  <line class="fil0 str0" x1="4953" y1="10140" x2="4953" y2= "10540" />
-  <line class="fil0 str0" x1="4953" y1="10540" x2="5469" y2= "10540" />
-  <line class="fil0 str0" x1="5469" y1="10140" x2="5469" y2= "10540" />
-  <line class="fil0 str0" x1="5469" y1="10141" x2="5985" y2= "10141" />
-  <line class="fil0 str0" x1="5985" y1="10140" x2="5985" y2= "10540" />
-  <line class="fil0 str0" x1="5985" y1="10540" x2="6500" y2= "10540" />
-  <line class="fil0 str0" x1="6500" y1="10140" x2="6500" y2= "10540" />
-  <line class="fil0 str0" x1="6500" y1="10141" x2="7016" y2= "10141" />
-  <line class="fil0 str0" x1="7016" y1="10140" x2="7016" y2= "10540" />
-  <line class="fil0 str0" x1="7016" y1="10540" x2="7532" y2= "10540" />
-  <line class="fil0 str0" x1="7532" y1="10140" x2="7532" y2= "10540" />
-  <line class="fil0 str0" x1="7532" y1="10141" x2="8048" y2= "10141" />
-  <line class="fil0 str0" x1="8048" y1="10140" x2="8048" y2= "10540" />
-  <line class="fil0 str0" x1="8048" y1="10540" x2="8563" y2= "10540" />
-  <line class="fil0 str0" x1="8563" y1="10140" x2="8563" y2= "10540" />
-  <line class="fil0 str0" x1="8563" y1="10141" x2="9079" y2= "10141" />
-  <line class="fil0 str0" x1="9079" y1="10140" x2="9079" y2= "10540" />
-  <line class="fil0 str0" x1="9079" y1="10540" x2="9595" y2= "10540" />
-  <line class="fil0 str0" x1="9595" y1="10140" x2="9595" y2= "10540" />
-  <line class="fil0 str0" x1="9595" y1="10141" x2="10110" y2= "10141" />
-  <line class="fil0 str0" x1="10110" y1="10140" x2="10110" y2= "10540" />
-  <line class="fil0 str0" x1="10110" y1="10540" x2="10626" y2= "10540" />
-  <line class="fil0 str0" x1="10626" y1="10140" x2="10626" y2= "10540" />
-  <line class="fil0 str0" x1="10626" y1="10141" x2="11142" y2= "10141" />
-  <line class="fil0 str0" x1="11142" y1="10140" x2="11142" y2= "10540" />
-  <line class="fil0 str0" x1="11142" y1="10540" x2="11658" y2= "10540" />
-  <line class="fil0 str0" x1="11658" y1="10140" x2="11658" y2= "10540" />
-  <line class="fil0 str0" x1="11658" y1="10141" x2="12173" y2= "10141" />
-  <line class="fil0 str0" x1="12173" y1="10140" x2="12173" y2= "10540" />
-  <line class="fil0 str0" x1="12173" y1="10540" x2="12689" y2= "10540" />
-  <line class="fil0 str0" x1="12689" y1="10140" x2="12689" y2= "10540" />
-  <line class="fil0 str0" x1="12689" y1="10141" x2="13205" y2= "10141" />
-  <line class="fil0 str0" x1="13205" y1="10140" x2="13205" y2= "10540" />
-  <line class="fil0 str0" x1="13205" y1="10540" x2="13720" y2= "10540" />
-  <line class="fil0 str0" x1="13720" y1="10140" x2="13720" y2= "10540" />
-  <line class="fil0 str0" x1="13720" y1="10141" x2="14236" y2= "10141" />
-  <line class="fil0 str0" x1="14236" y1="10140" x2="14236" y2= "10540" />
-  <line class="fil0 str0" x1="14236" y1="10540" x2="14752" y2= "10540" />
-  <line class="fil0 str0" x1="14752" y1="10140" x2="14752" y2= "10540" />
-  <line class="fil0 str0" x1="14752" y1="10141" x2="15268" y2= "10141" />
-  <line class="fil0 str0" x1="15268" y1="10140" x2="15268" y2= "10540" />
-  <line class="fil0 str0" x1="15268" y1="10540" x2="15783" y2= "10540" />
-  <line class="fil0 str0" x1="15783" y1="10140" x2="15783" y2= "10540" />
-  <line class="fil0 str0" x1="15783" y1="10141" x2="16299" y2= "10141" />
-  <line class="fil0 str0" x1="16299" y1="10140" x2="16299" y2= "10540" />
-  <line class="fil0 str0" x1="16299" y1="10540" x2="16815" y2= "10540" />
-  <line class="fil0 str0" x1="16815" y1="10140" x2="16815" y2= "10540" />
-  <line class="fil0 str0" x1="16815" y1="10141" x2="17330" y2= "10141" />
-  <line class="fil0 str0" x1="17330" y1="10140" x2="17330" y2= "10540" />
-  <line class="fil0 str0" x1="17330" y1="10540" x2="17846" y2= "10540" />
-  <line class="fil0 str0" x1="17846" y1="10140" x2="17846" y2= "10540" />
-  <line class="fil0 str0" x1="17846" y1="10141" x2="18162" y2= "10141" />
-  <line class="fil0 str0" x1="312" y1="16791" x2="312" y2= "16279" />
-  <line class="fil0 str0" x1="512" y1="16279" x2="312" y2= "16279" />
-  <line class="fil0 str0" x1="512" y1="16279" x2="512" y2= "15768" />
-  <line class="fil0 str0" x1="512" y1="15768" x2="312" y2= "15768" />
-  <line class="fil0 str0" x1="312" y1="15768" x2="312" y2= "15256" />
-  <line class="fil0 str0" x1="512" y1="15256" x2="312" y2= "15256" />
-  <line class="fil0 str0" x1="512" y1="15256" x2="512" y2= "14744" />
-  <line class="fil0 str0" x1="512" y1="14744" x2="312" y2= "14744" />
-  <line class="fil0 str0" x1="312" y1="14744" x2="312" y2= "14233" />
-  <line class="fil0 str0" x1="512" y1="14233" x2="312" y2= "14233" />
-  <line class="fil0 str0" x1="512" y1="14233" x2="512" y2= "13721" />
-  <line class="fil0 str0" x1="512" y1="13721" x2="312" y2= "13721" />
-  <line class="fil0 str0" x1="312" y1="13721" x2="312" y2= "13210" />
-  <line class="fil0 str0" x1="512" y1="13210" x2="312" y2= "13210" />
-  <line class="fil0 str0" x1="512" y1="13210" x2="512" y2= "12698" />
-  <line class="fil0 str0" x1="512" y1="12698" x2="312" y2= "12698" />
-  <line class="fil0 str0" x1="312" y1="12698" x2="312" y2= "12187" />
-  <line class="fil0 str0" x1="512" y1="12187" x2="312" y2= "12187" />
-  <line class="fil0 str0" x1="512" y1="12187" x2="512" y2= "11675" />
-  <line class="fil0 str0" x1="512" y1="11675" x2="312" y2= "11675" />
-  <line class="fil0 str0" x1="312" y1="11675" x2="312" y2= "11164" />
-  <line class="fil0 str0" x1="512" y1="11164" x2="312" y2= "11164" />
-  <line class="fil0 str0" x1="512" y1="11164" x2="512" y2= "10652" />
-  <line class="fil0 str0" x1="512" y1="10652" x2="312" y2= "10652" />
-  <line class="fil0 str0" x1="312" y1="10652" x2="312" y2= "10141" />
-  <line class="fil0 str0" x1="18162" y1="16791" x2="18162" y2= "16279" />
-  <line class="fil0 str0" x1="18362" y1="16279" x2="18162" y2= "16279" />
-  <line class="fil0 str0" x1="18362" y1="16279" x2="18362" y2= "15768" />
-  <line class="fil0 str0" x1="18362" y1="15768" x2="18162" y2= "15768" />
-  <line class="fil0 str0" x1="18162" y1="15768" x2="18162" y2= "15256" />
-  <line class="fil0 str0" x1="18362" y1="15256" x2="18162" y2= "15256" />
-  <line class="fil0 str0" x1="18362" y1="15256" x2="18362" y2= "14744" />
-  <line class="fil0 str0" x1="18362" y1="14744" x2="18162" y2= "14744" />
-  <line class="fil0 str0" x1="18162" y1="14744" x2="18162" y2= "14233" />
-  <line class="fil0 str0" x1="18362" y1="14233" x2="18162" y2= "14233" />
-  <line class="fil0 str0" x1="18362" y1="14233" x2="18362" y2= "13721" />
-  <line class="fil0 str0" x1="18362" y1="13721" x2="18162" y2= "13721" />
-  <line class="fil0 str0" x1="18162" y1="13721" x2="18162" y2= "13210" />
-  <line class="fil0 str0" x1="18362" y1="13210" x2="18162" y2= "13210" />
-  <line class="fil0 str0" x1="18362" y1="13210" x2="18362" y2= "12698" />
-  <line class="fil0 str0" x1="18362" y1="12698" x2="18162" y2= "12698" />
-  <line class="fil0 str0" x1="18162" y1="12698" x2="18162" y2= "12187" />
-  <line class="fil0 str0" x1="18362" y1="12187" x2="18162" y2= "12187" />
-  <line class="fil0 str0" x1="18362" y1="12187" x2="18362" y2= "11675" />
-  <line class="fil0 str0" x1="18362" y1="11675" x2="18162" y2= "11675" />
-  <line class="fil0 str0" x1="18162" y1="11675" x2="18162" y2= "11164" />
-  <line class="fil0 str0" x1="18362" y1="11164" x2="18162" y2= "11164" />
-  <line class="fil0 str0" x1="18362" y1="11164" x2="18362" y2= "10652" />
-  <line class="fil0 str0" x1="18362" y1="10652" x2="18162" y2= "10652" />
-  <line class="fil0 str0" x1="18162" y1="10652" x2="18162" y2= "10141" />
-  <circle class="fil1 str0" transform="matrix(7.48958E-014 0.942635 -0.942635 7.48958E-014 2641.39 7586.98)" r="2016"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 4151.39 9076.71)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 4151.39 6056.71)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 1131.39 9076.71)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 1131.39 6056.71)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.48958E-014 0.942635 -0.942635 7.48958E-014 15848.9 7578.87)" r="2016"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 17358.9 9068.61)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 17358.9 6048.61)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 14338.9 9068.61)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 14338.9 6048.61)" r="78"/>
-  <line class="fil0 str0" x1="372" y1="4713" x2="688" y2= "4713" />
-  <line class="fil0 str0" x1="688" y1="4713" x2="688" y2= "4913" />
-  <line class="fil0 str0" x1="688" y1="4913" x2="1204" y2= "4913" />
-  <line class="fil0 str0" x1="1204" y1="4713" x2="1204" y2= "4913" />
-  <line class="fil0 str0" x1="1204" y1="4713" x2="1719" y2= "4713" />
-  <line class="fil0 str0" x1="1719" y1="4713" x2="1719" y2= "4913" />
-  <line class="fil0 str0" x1="1719" y1="4913" x2="2235" y2= "4913" />
-  <line class="fil0 str0" x1="2235" y1="4713" x2="2235" y2= "4913" />
-  <line class="fil0 str0" x1="2235" y1="4713" x2="2751" y2= "4713" />
-  <line class="fil0 str0" x1="2751" y1="4713" x2="2751" y2= "4913" />
-  <line class="fil0 str0" x1="2751" y1="4913" x2="3266" y2= "4913" />
-  <line class="fil0 str0" x1="3266" y1="4713" x2="3266" y2= "4913" />
-  <line class="fil0 str0" x1="3266" y1="4713" x2="3782" y2= "4713" />
-  <line class="fil0 str0" x1="3782" y1="4713" x2="3782" y2= "4913" />
-  <line class="fil0 str0" x1="3782" y1="4913" x2="4298" y2= "4913" />
-  <line class="fil0 str0" x1="4298" y1="4713" x2="4298" y2= "4913" />
-  <line class="fil0 str0" x1="4298" y1="4713" x2="4814" y2= "4713" />
-  <line class="fil0 str0" x1="4814" y1="4713" x2="4814" y2= "4913" />
-  <line class="fil0 str0" x1="4814" y1="4913" x2="5329" y2= "4913" />
-  <line class="fil0 str0" x1="5329" y1="4713" x2="5329" y2= "4913" />
-  <line class="fil0 str0" x1="5329" y1="4713" x2="5845" y2= "4713" />
-  <line class="fil0 str0" x1="5845" y1="4713" x2="5845" y2= "4913" />
-  <line class="fil0 str0" x1="5845" y1="4913" x2="6361" y2= "4913" />
-  <line class="fil0 str0" x1="6361" y1="4713" x2="6361" y2= "4913" />
-  <line class="fil0 str0" x1="6361" y1="4713" x2="6876" y2= "4713" />
-  <line class="fil0 str0" x1="6876" y1="4713" x2="6876" y2= "4913" />
-  <line class="fil0 str0" x1="6876" y1="4913" x2="7392" y2= "4913" />
-  <line class="fil0 str0" x1="7392" y1="4713" x2="7392" y2= "4913" />
-  <line class="fil0 str0" x1="7392" y1="4713" x2="7908" y2= "4713" />
-  <line class="fil0 str0" x1="7908" y1="4713" x2="7908" y2= "4913" />
-  <line class="fil0 str0" x1="7908" y1="4913" x2="8424" y2= "4913" />
-  <line class="fil0 str0" x1="8424" y1="4713" x2="8424" y2= "4913" />
-  <line class="fil0 str0" x1="8424" y1="4713" x2="8939" y2= "4713" />
-  <line class="fil0 str0" x1="8939" y1="4713" x2="8939" y2= "4913" />
-  <line class="fil0 str0" x1="8939" y1="4913" x2="9455" y2= "4913" />
-  <line class="fil0 str0" x1="9455" y1="4713" x2="9455" y2= "4913" />
-  <line class="fil0 str0" x1="9455" y1="4713" x2="9971" y2= "4713" />
-  <line class="fil0 str0" x1="9971" y1="4713" x2="9971" y2= "4913" />
-  <line class="fil0 str0" x1="9971" y1="4913" x2="10486" y2= "4913" />
-  <line class="fil0 str0" x1="10486" y1="4713" x2="10486" y2= "4913" />
-  <line class="fil0 str0" x1="10486" y1="4713" x2="11002" y2= "4713" />
-  <line class="fil0 str0" x1="11002" y1="4713" x2="11002" y2= "4913" />
-  <line class="fil0 str0" x1="11002" y1="4913" x2="11518" y2= "4913" />
-  <line class="fil0 str0" x1="11518" y1="4713" x2="11518" y2= "4913" />
-  <line class="fil0 str0" x1="11518" y1="4713" x2="12034" y2= "4713" />
-  <line class="fil0 str0" x1="12034" y1="4713" x2="12034" y2= "4913" />
-  <line class="fil0 str0" x1="12034" y1="4913" x2="12549" y2= "4913" />
-  <line class="fil0 str0" x1="12549" y1="4713" x2="12549" y2= "4913" />
-  <line class="fil0 str0" x1="12549" y1="4713" x2="13065" y2= "4713" />
-  <line class="fil0 str0" x1="13065" y1="4713" x2="13065" y2= "4913" />
-  <line class="fil0 str0" x1="13065" y1="4913" x2="13581" y2= "4913" />
-  <line class="fil0 str0" x1="13581" y1="4713" x2="13581" y2= "4913" />
-  <line class="fil0 str0" x1="13581" y1="4713" x2="14096" y2= "4713" />
-  <line class="fil0 str0" x1="14096" y1="4713" x2="14096" y2= "4913" />
-  <line class="fil0 str0" x1="14096" y1="4913" x2="14612" y2= "4913" />
-  <line class="fil0 str0" x1="14612" y1="4713" x2="14612" y2= "4913" />
-  <line class="fil0 str0" x1="14612" y1="4713" x2="15128" y2= "4713" />
-  <line class="fil0 str0" x1="15128" y1="4713" x2="15128" y2= "4913" />
-  <line class="fil0 str0" x1="15128" y1="4913" x2="15644" y2= "4913" />
-  <line class="fil0 str0" x1="15644" y1="4713" x2="15644" y2= "4913" />
-  <line class="fil0 str0" x1="15644" y1="4713" x2="16159" y2= "4713" />
-  <line class="fil0 str0" x1="16159" y1="4713" x2="16159" y2= "4913" />
-  <line class="fil0 str0" x1="16159" y1="4913" x2="16675" y2= "4913" />
-  <line class="fil0 str0" x1="16675" y1="4713" x2="16675" y2= "4913" />
-  <line class="fil0 str0" x1="16675" y1="4713" x2="17191" y2= "4713" />
-  <line class="fil0 str0" x1="17191" y1="4713" x2="17191" y2= "4913" />
-  <line class="fil0 str0" x1="17191" y1="4913" x2="17706" y2= "4913" />
-  <line class="fil0 str0" x1="17706" y1="4713" x2="17706" y2= "4913" />
-  <line class="fil0 str0" x1="17706" y1="4713" x2="18022" y2= "4713" />
-  <line class="fil0 str0" x1="372" y1="363" x2="688" y2= "363" />
-  <line class="fil0 str0" x1="688" y1="163" x2="688" y2= "363" />
-  <line class="fil0 str0" x1="688" y1="163" x2="1204" y2= "163" />
-  <line class="fil0 str0" x1="1204" y1="163" x2="1204" y2= "363" />
-  <line class="fil0 str0" x1="1204" y1="363" x2="1719" y2= "363" />
-  <line class="fil0 str0" x1="1719" y1="163" x2="1719" y2= "363" />
-  <line class="fil0 str0" x1="1719" y1="163" x2="2235" y2= "163" />
-  <line class="fil0 str0" x1="2235" y1="163" x2="2235" y2= "363" />
-  <line class="fil0 str0" x1="2235" y1="363" x2="2751" y2= "363" />
-  <line class="fil0 str0" x1="2751" y1="163" x2="2751" y2= "363" />
-  <line class="fil0 str0" x1="2751" y1="163" x2="3266" y2= "163" />
-  <line class="fil0 str0" x1="3266" y1="163" x2="3266" y2= "363" />
-  <line class="fil0 str0" x1="3266" y1="363" x2="3782" y2= "363" />
-  <line class="fil0 str0" x1="3782" y1="163" x2="3782" y2= "363" />
-  <line class="fil0 str0" x1="3782" y1="163" x2="4298" y2= "163" />
-  <line class="fil0 str0" x1="4298" y1="163" x2="4298" y2= "363" />
-  <line class="fil0 str0" x1="4298" y1="363" x2="4814" y2= "363" />
-  <line class="fil0 str0" x1="4814" y1="163" x2="4814" y2= "363" />
-  <line class="fil0 str0" x1="4814" y1="163" x2="5329" y2= "163" />
-  <line class="fil0 str0" x1="5329" y1="163" x2="5329" y2= "363" />
-  <line class="fil0 str0" x1="5329" y1="363" x2="5845" y2= "363" />
-  <line class="fil0 str0" x1="5845" y1="163" x2="5845" y2= "363" />
-  <line class="fil0 str0" x1="5845" y1="163" x2="6361" y2= "163" />
-  <line class="fil0 str0" x1="6361" y1="163" x2="6361" y2= "363" />
-  <line class="fil0 str0" x1="6361" y1="363" x2="6876" y2= "363" />
-  <line class="fil0 str0" x1="6876" y1="163" x2="6876" y2= "363" />
-  <line class="fil0 str0" x1="6876" y1="163" x2="7392" y2= "163" />
-  <line class="fil0 str0" x1="7392" y1="163" x2="7392" y2= "363" />
-  <line class="fil0 str0" x1="7392" y1="363" x2="7908" y2= "363" />
-  <line class="fil0 str0" x1="7908" y1="163" x2="7908" y2= "363" />
-  <line class="fil0 str0" x1="7908" y1="163" x2="8424" y2= "163" />
-  <line class="fil0 str0" x1="8424" y1="163" x2="8424" y2= "363" />
-  <line class="fil0 str0" x1="8424" y1="363" x2="8939" y2= "363" />
-  <line class="fil0 str0" x1="8939" y1="163" x2="8939" y2= "363" />
-  <line class="fil0 str0" x1="8939" y1="163" x2="9455" y2= "163" />
-  <line class="fil0 str0" x1="9455" y1="163" x2="9455" y2= "363" />
-  <line class="fil0 str0" x1="9455" y1="363" x2="9971" y2= "363" />
-  <line class="fil0 str0" x1="9971" y1="163" x2="9971" y2= "363" />
-  <line class="fil0 str0" x1="9971" y1="163" x2="10486" y2= "163" />
-  <line class="fil0 str0" x1="10486" y1="163" x2="10486" y2= "363" />
-  <line class="fil0 str0" x1="10486" y1="363" x2="11002" y2= "363" />
-  <line class="fil0 str0" x1="11002" y1="163" x2="11002" y2= "363" />
-  <line class="fil0 str0" x1="11002" y1="163" x2="11518" y2= "163" />
-  <line class="fil0 str0" x1="11518" y1="163" x2="11518" y2= "363" />
-  <line class="fil0 str0" x1="11518" y1="363" x2="12034" y2= "363" />
-  <line class="fil0 str0" x1="12034" y1="163" x2="12034" y2= "363" />
-  <line class="fil0 str0" x1="12034" y1="163" x2="12549" y2= "163" />
-  <line class="fil0 str0" x1="12549" y1="163" x2="12549" y2= "363" />
-  <line class="fil0 str0" x1="12549" y1="363" x2="13065" y2= "363" />
-  <line class="fil0 str0" x1="13065" y1="163" x2="13065" y2= "363" />
-  <line class="fil0 str0" x1="13065" y1="163" x2="13581" y2= "163" />
-  <line class="fil0 str0" x1="13581" y1="163" x2="13581" y2= "363" />
-  <line class="fil0 str0" x1="13581" y1="363" x2="14096" y2= "363" />
-  <line class="fil0 str0" x1="14096" y1="163" x2="14096" y2= "363" />
-  <line class="fil0 str0" x1="14096" y1="163" x2="14612" y2= "163" />
-  <line class="fil0 str0" x1="14612" y1="163" x2="14612" y2= "363" />
-  <line class="fil0 str0" x1="14612" y1="363" x2="15128" y2= "363" />
-  <line class="fil0 str0" x1="15128" y1="163" x2="15128" y2= "363" />
-  <line class="fil0 str0" x1="15128" y1="163" x2="15644" y2= "163" />
-  <line class="fil0 str0" x1="15644" y1="163" x2="15644" y2= "363" />
-  <line class="fil0 str0" x1="15644" y1="363" x2="16159" y2= "363" />
-  <line class="fil0 str0" x1="16159" y1="163" x2="16159" y2= "363" />
-  <line class="fil0 str0" x1="16159" y1="163" x2="16675" y2= "163" />
-  <line class="fil0 str0" x1="16675" y1="163" x2="16675" y2= "363" />
-  <line class="fil0 str0" x1="16675" y1="363" x2="17191" y2= "363" />
-  <line class="fil0 str0" x1="17191" y1="163" x2="17191" y2= "363" />
-  <line class="fil0 str0" x1="17191" y1="163" x2="17706" y2= "163" />
-  <line class="fil0 str0" x1="17706" y1="163" x2="17706" y2= "363" />
-  <line class="fil0 str0" x1="17706" y1="363" x2="18022" y2= "363" />
-  <line class="fil0 str0" x1="372" y1="4713" x2="372" y2= "4386" />
-  <line class="fil0 str0" x1="372" y1="4386" x2="172" y2= "4386" />
-  <line class="fil0 str0" x1="172" y1="4386" x2="172" y2= "3858" />
-  <line class="fil0 str0" x1="372" y1="3858" x2="172" y2= "3858" />
-  <line class="fil0 str0" x1="372" y1="3858" x2="372" y2= "3330" />
-  <line class="fil0 str0" x1="372" y1="3330" x2="172" y2= "3330" />
-  <line class="fil0 str0" x1="172" y1="3330" x2="172" y2= "2802" />
-  <line class="fil0 str0" x1="372" y1="2802" x2="172" y2= "2802" />
-  <line class="fil0 str0" x1="372" y1="2802" x2="372" y2= "2275" />
-  <line class="fil0 str0" x1="372" y1="2275" x2="172" y2= "2275" />
-  <line class="fil0 str0" x1="172" y1="2275" x2="172" y2= "1747" />
-  <line class="fil0 str0" x1="372" y1="1747" x2="172" y2= "1747" />
-  <line class="fil0 str0" x1="372" y1="1747" x2="372" y2= "1219" />
-  <line class="fil0 str0" x1="372" y1="1219" x2="172" y2= "1219" />
-  <line class="fil0 str0" x1="172" y1="1219" x2="172" y2= "691" />
-  <line class="fil0 str0" x1="372" y1="691" x2="172" y2= "691" />
-  <line class="fil0 str0" x1="372" y1="691" x2="372" y2= "363" />
-  <line class="fil0 str0" x1="18022" y1="4713" x2="18022" y2= "4386" />
-  <line class="fil0 str0" x1="18222" y1="4386" x2="18022" y2= "4386" />
-  <line class="fil0 str0" x1="18222" y1="4386" x2="18222" y2= "3858" />
-  <line class="fil0 str0" x1="18222" y1="3858" x2="18022" y2= "3858" />
-  <line class="fil0 str0" x1="18022" y1="3858" x2="18022" y2= "3330" />
-  <line class="fil0 str0" x1="18222" y1="3330" x2="18022" y2= "3330" />
-  <line class="fil0 str0" x1="18222" y1="3330" x2="18222" y2= "2802" />
-  <line class="fil0 str0" x1="18222" y1="2802" x2="18022" y2= "2802" />
-  <line class="fil0 str0" x1="18022" y1="2802" x2="18022" y2= "2275" />
-  <line class="fil0 str0" x1="18222" y1="2275" x2="18022" y2= "2275" />
-  <line class="fil0 str0" x1="18222" y1="2275" x2="18222" y2= "1747" />
-  <line class="fil0 str0" x1="18222" y1="1747" x2="18022" y2= "1747" />
-  <line class="fil0 str0" x1="18022" y1="1747" x2="18022" y2= "1219" />
-  <line class="fil0 str0" x1="18222" y1="1219" x2="18022" y2= "1219" />
-  <line class="fil0 str0" x1="18222" y1="1219" x2="18222" y2= "691" />
-  <line class="fil0 str0" x1="18222" y1="691" x2="18022" y2= "691" />
-  <line class="fil0 str0" x1="18022" y1="691" x2="18022" y2= "363" />
-  <circle class="fil1 str0" transform="matrix(7.48958E-014 0.942635 -0.942635 7.48958E-014 15790.6 2526.99)" r="2016"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 17300.6 4016.72)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 17300.6 996.724)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 14280.6 4016.72)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 14280.6 996.724)" r="78"/>
-  <rect class="fil1 str0" x="4819" y="11661" width="1200" height="104"/>
-  <rect class="fil1 str0" x="12313" y="11672" width="1200" height="104"/>
-  <rect class="fil1 str0" x="8683" y="11662" width="1200" height="104"/>
-  <rect class="fil1 str0" transform="matrix(2.03401E-014 -0.767998 1 2.64845E-014 21820.7 3136.49)" width="1563" height="104"/>
-  <line class="fil0 str0" x1="25071" y1="9898" x2="25071" y2= "9370" />
-  <line class="fil0 str0" x1="24871" y1="9370" x2="25071" y2= "9370" />
-  <line class="fil0 str0" x1="24871" y1="9370" x2="24871" y2= "8842" />
-  <line class="fil0 str0" x1="24871" y1="8842" x2="25071" y2= "8842" />
-  <line class="fil0 str0" x1="25071" y1="8842" x2="25071" y2= "8314" />
-  <line class="fil0 str0" x1="24871" y1="8314" x2="25071" y2= "8314" />
-  <line class="fil0 str0" x1="24871" y1="8314" x2="24871" y2= "7786" />
-  <line class="fil0 str0" x1="24871" y1="7786" x2="25071" y2= "7786" />
-  <line class="fil0 str0" x1="25071" y1="7786" x2="25071" y2= "7259" />
-  <line class="fil0 str0" x1="24871" y1="7259" x2="25071" y2= "7259" />
-  <line class="fil0 str0" x1="24871" y1="7259" x2="24871" y2= "6731" />
-  <line class="fil0 str0" x1="24871" y1="6731" x2="25071" y2= "6731" />
-  <line class="fil0 str0" x1="25071" y1="6731" x2="25071" y2= "6203" />
-  <line class="fil0 str0" x1="24871" y1="6203" x2="25071" y2= "6203" />
-  <line class="fil0 str0" x1="24871" y1="6203" x2="24871" y2= "5675" />
-  <line class="fil0 str0" x1="24871" y1="5675" x2="25071" y2= "5675" />
-  <line class="fil0 str0" x1="25071" y1="5675" x2="25071" y2= "5348" />
-  <line class="fil0 str0" x1="18421" y1="9898" x2="18421" y2= "9370" />
-  <line class="fil0 str0" x1="18421" y1="9370" x2="18821" y2= "9370" />
-  <line class="fil0 str0" x1="18821" y1="9370" x2="18821" y2= "8842" />
-  <line class="fil0 str0" x1="18421" y1="8842" x2="18821" y2= "8842" />
-  <line class="fil0 str0" x1="18421" y1="8842" x2="18421" y2= "8314" />
-  <line class="fil0 str0" x1="18421" y1="8314" x2="18821" y2= "8314" />
-  <line class="fil0 str0" x1="18821" y1="8314" x2="18821" y2= "7786" />
-  <line class="fil0 str0" x1="18421" y1="7786" x2="18821" y2= "7786" />
-  <line class="fil0 str0" x1="18421" y1="7786" x2="18421" y2= "7259" />
-  <line class="fil0 str0" x1="18421" y1="7259" x2="18821" y2= "7259" />
-  <line class="fil0 str0" x1="18821" y1="7259" x2="18821" y2= "6731" />
-  <line class="fil0 str0" x1="18421" y1="6731" x2="18821" y2= "6731" />
-  <line class="fil0 str0" x1="18421" y1="6731" x2="18421" y2= "6203" />
-  <line class="fil0 str0" x1="18421" y1="6203" x2="18821" y2= "6203" />
-  <line class="fil0 str0" x1="18821" y1="6203" x2="18821" y2= "5675" />
-  <line class="fil0 str0" x1="18421" y1="5675" x2="18821" y2= "5675" />
-  <line class="fil0 str0" x1="18421" y1="5675" x2="18421" y2= "5348" />
-  <line class="fil0 str0" x1="25071" y1="9898" x2="24560" y2= "9898" />
-  <line class="fil0 str0" x1="24560" y1="9698" x2="24560" y2= "9898" />
-  <line class="fil0 str0" x1="24560" y1="9698" x2="24048" y2= "9698" />
-  <line class="fil0 str0" x1="24048" y1="9698" x2="24048" y2= "9898" />
-  <line class="fil0 str0" x1="24048" y1="9898" x2="23536" y2= "9898" />
-  <line class="fil0 str0" x1="23536" y1="9698" x2="23536" y2= "9898" />
-  <line class="fil0 str0" x1="23536" y1="9698" x2="23025" y2= "9698" />
-  <line class="fil0 str0" x1="23025" y1="9698" x2="23025" y2= "9898" />
-  <line class="fil0 str0" x1="23025" y1="9898" x2="22513" y2= "9898" />
-  <line class="fil0 str0" x1="22513" y1="9698" x2="22513" y2= "9898" />
-  <line class="fil0 str0" x1="22513" y1="9698" x2="22002" y2= "9698" />
-  <line class="fil0 str0" x1="22002" y1="9698" x2="22002" y2= "9898" />
-  <line class="fil0 str0" x1="22002" y1="9898" x2="21490" y2= "9898" />
-  <line class="fil0 str0" x1="21490" y1="9698" x2="21490" y2= "9898" />
-  <line class="fil0 str0" x1="21490" y1="9698" x2="20979" y2= "9698" />
-  <line class="fil0 str0" x1="20979" y1="9698" x2="20979" y2= "9898" />
-  <line class="fil0 str0" x1="20979" y1="9898" x2="20467" y2= "9898" />
-  <line class="fil0 str0" x1="20467" y1="9698" x2="20467" y2= "9898" />
-  <line class="fil0 str0" x1="20467" y1="9698" x2="19956" y2= "9698" />
-  <line class="fil0 str0" x1="19956" y1="9698" x2="19956" y2= "9898" />
-  <line class="fil0 str0" x1="19956" y1="9898" x2="19444" y2= "9898" />
-  <line class="fil0 str0" x1="19444" y1="9698" x2="19444" y2= "9898" />
-  <line class="fil0 str0" x1="19444" y1="9698" x2="18933" y2= "9698" />
-  <line class="fil0 str0" x1="18933" y1="9698" x2="18933" y2= "9898" />
-  <line class="fil0 str0" x1="18933" y1="9898" x2="18421" y2= "9898" />
-  <line class="fil0 str0" x1="25071" y1="5348" x2="24560" y2= "5348" />
-  <line class="fil0 str0" x1="24560" y1="5148" x2="24560" y2= "5348" />
-  <line class="fil0 str0" x1="24560" y1="5148" x2="24048" y2= "5148" />
-  <line class="fil0 str0" x1="24048" y1="5148" x2="24048" y2= "5348" />
-  <line class="fil0 str0" x1="24048" y1="5348" x2="23536" y2= "5348" />
-  <line class="fil0 str0" x1="23536" y1="5148" x2="23536" y2= "5348" />
-  <line class="fil0 str0" x1="23536" y1="5148" x2="23025" y2= "5148" />
-  <line class="fil0 str0" x1="23025" y1="5148" x2="23025" y2= "5348" />
-  <line class="fil0 str0" x1="23025" y1="5348" x2="22513" y2= "5348" />
-  <line class="fil0 str0" x1="22513" y1="5148" x2="22513" y2= "5348" />
-  <line class="fil0 str0" x1="22513" y1="5148" x2="22002" y2= "5148" />
-  <line class="fil0 str0" x1="22002" y1="5148" x2="22002" y2= "5348" />
-  <line class="fil0 str0" x1="22002" y1="5348" x2="21490" y2= "5348" />
-  <line class="fil0 str0" x1="21490" y1="5148" x2="21490" y2= "5348" />
-  <line class="fil0 str0" x1="21490" y1="5148" x2="20979" y2= "5148" />
-  <line class="fil0 str0" x1="20979" y1="5148" x2="20979" y2= "5348" />
-  <line class="fil0 str0" x1="20979" y1="5348" x2="20467" y2= "5348" />
-  <line class="fil0 str0" x1="20467" y1="5148" x2="20467" y2= "5348" />
-  <line class="fil0 str0" x1="20467" y1="5148" x2="19956" y2= "5148" />
-  <line class="fil0 str0" x1="19956" y1="5148" x2="19956" y2= "5348" />
-  <line class="fil0 str0" x1="19956" y1="5348" x2="19444" y2= "5348" />
-  <line class="fil0 str0" x1="19444" y1="5148" x2="19444" y2= "5348" />
-  <line class="fil0 str0" x1="19444" y1="5148" x2="18933" y2= "5148" />
-  <line class="fil0 str0" x1="18933" y1="5148" x2="18933" y2= "5348" />
-  <line class="fil0 str0" x1="18933" y1="5348" x2="18421" y2= "5348" />
-  <rect class="fil1 str0" transform="matrix(2.03401E-014 -0.767998 1 2.64845E-014 21843 8075.52)" width="1563" height="104"/>
-  <circle class="fil1 str0" transform="matrix(7.48958E-014 0.942635 -0.942635 7.48958E-014 2583.06 2535.1)" r="2016"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 4093.06 4024.83)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 4093.06 1004.83)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 1073.06 4024.83)" r="78"/>
-  <circle class="fil1 str0" transform="matrix(7.62784E-014 0.960036 -0.960036 7.62784E-014 1073.06 1004.83)" r="78"/>
-  <circle class="fil1 str0" cx="24046" cy="3841" r="156"/>
- </g>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2304 1296" enable-background="new 0 0 2304 1296" xml:space="preserve">
+<g id="Layer_x0020_1">
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="357" x2="1805.1" y2="319"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="319" x2="1805.1" y2="319"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="319" x2="1790.7" y2="281"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="281" x2="1805.1" y2="281"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="281" x2="1805.1" y2="243"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="243" x2="1805.1" y2="243"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="243" x2="1790.7" y2="205"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="205" x2="1805.1" y2="205"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="205" x2="1805.1" y2="167"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="167" x2="1805.1" y2="167"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="167" x2="1790.7" y2="129"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="129" x2="1805.1" y2="129"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="129" x2="1805.1" y2="91"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="91" x2="1805.1" y2="91"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="91" x2="1790.7" y2="53"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="53" x2="1805.1" y2="53"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="53" x2="1805.1" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="357" x2="1326.3" y2="319"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="319" x2="1355.1" y2="319"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="319" x2="1355.1" y2="281"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="281" x2="1355.1" y2="281"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="281" x2="1326.3" y2="243"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="243" x2="1355.1" y2="243"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="243" x2="1355.1" y2="205"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="205" x2="1355.1" y2="205"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="205" x2="1326.3" y2="167"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="167" x2="1355.1" y2="167"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="167" x2="1355.1" y2="129"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="129" x2="1355.1" y2="129"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="129" x2="1326.3" y2="91"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="91" x2="1355.1" y2="91"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="91" x2="1355.1" y2="53"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="53" x2="1355.1" y2="53"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="53" x2="1326.3" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="357" x2="1768.2" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.2" y1="342.6" x2="1768.2" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.2" y1="342.6" x2="1731.5" y2="342.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="342.6" x2="1731.5" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="357" x2="1694.6" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="342.6" x2="1694.6" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="342.6" x2="1657.8" y2="342.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="342.6" x2="1657.8" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="357" x2="1620.9" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="342.6" x2="1620.9" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="342.6" x2="1584.1" y2="342.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="342.6" x2="1584.1" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="357" x2="1547.3" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="342.6" x2="1547.3" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="342.6" x2="1510.5" y2="342.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="342.6" x2="1510.5" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="357" x2="1473.6" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="342.6" x2="1473.6" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="342.6" x2="1436.8" y2="342.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="342.6" x2="1436.8" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="357" x2="1400" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="342.6" x2="1400" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="342.6" x2="1363.1" y2="342.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.1" y1="342.6" x2="1363.1" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.1" y1="357" x2="1326.3" y2="357"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="29.4" x2="1768.2" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.2" y1="15" x2="1768.2" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.2" y1="15" x2="1731.5" y2="15"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="15" x2="1731.5" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="29.4" x2="1694.6" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="15" x2="1694.6" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="15" x2="1657.8" y2="15"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="15" x2="1657.8" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="29.4" x2="1620.9" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="15" x2="1620.9" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="15" x2="1584.1" y2="15"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="15" x2="1584.1" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="29.4" x2="1547.3" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="15" x2="1547.3" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="15" x2="1510.5" y2="15"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="15" x2="1510.5" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="29.4" x2="1473.6" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="15" x2="1473.6" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="15" x2="1436.8" y2="15"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="15" x2="1436.8" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="29.4" x2="1400" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="15" x2="1400" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="15" x2="1363.1" y2="15"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.1" y1="15" x2="1363.1" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.1" y1="29.4" x2="1326.3" y2="29.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="703.1" x2="53.7" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="53.7" y1="703.1" x2="53.7" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="53.7" y1="717.5" x2="90.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="90.9" y1="703.1" x2="90.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="90.9" y1="703.1" x2="128" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="128" y1="703.1" x2="128" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="128" y1="717.5" x2="165.1" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="165.1" y1="703.1" x2="165.1" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="165.1" y1="703.1" x2="202.2" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="202.2" y1="703.1" x2="202.2" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="202.2" y1="717.5" x2="239.4" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="239.4" y1="703.1" x2="239.4" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="239.4" y1="703.1" x2="276.6" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="276.6" y1="703.1" x2="276.6" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="276.6" y1="717.5" x2="313.6" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="313.6" y1="703.1" x2="313.6" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="313.6" y1="703.1" x2="350.8" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="350.8" y1="703.1" x2="350.8" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="350.8" y1="717.5" x2="387.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="387.9" y1="703.1" x2="387.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="387.9" y1="703.1" x2="425" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="425" y1="703.1" x2="425" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="425" y1="717.5" x2="462.2" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="462.2" y1="703.1" x2="462.2" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="462.2" y1="703.1" x2="499.3" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="499.3" y1="703.1" x2="499.3" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="499.3" y1="717.5" x2="536.5" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="536.5" y1="703.1" x2="536.5" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="536.5" y1="703.1" x2="573.6" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="573.6" y1="703.1" x2="573.6" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="573.6" y1="717.5" x2="610.7" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="610.7" y1="703.1" x2="610.7" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="610.7" y1="703.1" x2="647.9" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="647.9" y1="703.1" x2="647.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="647.9" y1="717.5" x2="684.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="684.9" y1="703.1" x2="684.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="684.9" y1="703.1" x2="722.1" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="722.1" y1="703.1" x2="722.1" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="722.1" y1="717.5" x2="759.2" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="759.2" y1="703.1" x2="759.2" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="759.2" y1="703.1" x2="796.4" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="796.4" y1="703.1" x2="796.4" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="796.4" y1="717.5" x2="833.5" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="833.5" y1="703.1" x2="833.5" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="833.5" y1="703.1" x2="870.6" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="870.6" y1="703.1" x2="870.6" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="870.6" y1="717.5" x2="907.8" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="907.8" y1="703.1" x2="907.8" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="907.8" y1="703.1" x2="944.9" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="944.9" y1="703.1" x2="944.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="944.9" y1="717.5" x2="982" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="982" y1="703.1" x2="982" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="982" y1="703.1" x2="1019.2" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1019.2" y1="703.1" x2="1019.2" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1019.2" y1="717.5" x2="1056.3" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1056.3" y1="703.1" x2="1056.3" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1056.3" y1="703.1" x2="1093.4" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1093.4" y1="703.1" x2="1093.4" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1093.4" y1="717.5" x2="1130.5" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1130.5" y1="703.1" x2="1130.5" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1130.5" y1="703.1" x2="1167.7" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1167.7" y1="703.1" x2="1167.7" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1167.7" y1="717.5" x2="1204.8" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1204.8" y1="703.1" x2="1204.8" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1204.8" y1="703.1" x2="1241.9" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1241.9" y1="703.1" x2="1241.9" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1241.9" y1="717.5" x2="1279.1" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1279.1" y1="703.1" x2="1279.1" y2="717.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1279.1" y1="703.1" x2="1301.8" y2="703.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="389.9" x2="53.7" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="53.7" y1="375.5" x2="53.7" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="53.7" y1="375.5" x2="90.9" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="90.9" y1="375.5" x2="90.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="90.9" y1="389.9" x2="128" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="128" y1="375.5" x2="128" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="128" y1="375.5" x2="165.1" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="165.1" y1="375.5" x2="165.1" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="165.1" y1="389.9" x2="202.2" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="202.2" y1="375.5" x2="202.2" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="202.2" y1="375.5" x2="239.4" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="239.4" y1="375.5" x2="239.4" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="239.4" y1="389.9" x2="276.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="276.6" y1="375.5" x2="276.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="276.6" y1="375.5" x2="313.6" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="313.6" y1="375.5" x2="313.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="313.6" y1="389.9" x2="350.8" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="350.8" y1="375.5" x2="350.8" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="350.8" y1="375.5" x2="387.9" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="387.9" y1="375.5" x2="387.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="387.9" y1="389.9" x2="425" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="425" y1="375.5" x2="425" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="425" y1="375.5" x2="462.2" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="462.2" y1="375.5" x2="462.2" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="462.2" y1="389.9" x2="499.3" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="499.3" y1="375.5" x2="499.3" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="499.3" y1="375.5" x2="536.5" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="536.5" y1="375.5" x2="536.5" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="536.5" y1="389.9" x2="573.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="573.6" y1="375.5" x2="573.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="573.6" y1="375.5" x2="610.7" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="610.7" y1="375.5" x2="610.7" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="610.7" y1="389.9" x2="647.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="647.9" y1="375.5" x2="647.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="647.9" y1="375.5" x2="684.9" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="684.9" y1="375.5" x2="684.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="684.9" y1="389.9" x2="722.1" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="722.1" y1="375.5" x2="722.1" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="722.1" y1="375.5" x2="759.2" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="759.2" y1="375.5" x2="759.2" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="759.2" y1="389.9" x2="796.4" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="796.4" y1="375.5" x2="796.4" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="796.4" y1="375.5" x2="833.5" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="833.5" y1="375.5" x2="833.5" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="833.5" y1="389.9" x2="870.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="870.6" y1="375.5" x2="870.6" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="870.6" y1="375.5" x2="907.8" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="907.8" y1="375.5" x2="907.8" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="907.8" y1="389.9" x2="944.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="944.9" y1="375.5" x2="944.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="944.9" y1="375.5" x2="982" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="982" y1="375.5" x2="982" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="982" y1="389.9" x2="1019.2" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1019.2" y1="375.5" x2="1019.2" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1019.2" y1="375.5" x2="1056.3" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1056.3" y1="375.5" x2="1056.3" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1056.3" y1="389.9" x2="1093.4" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1093.4" y1="375.5" x2="1093.4" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1093.4" y1="375.5" x2="1130.5" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1130.5" y1="375.5" x2="1130.5" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1130.5" y1="389.9" x2="1167.7" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1167.7" y1="375.5" x2="1167.7" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1167.7" y1="375.5" x2="1204.8" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1204.8" y1="375.5" x2="1204.8" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1204.8" y1="389.9" x2="1241.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1241.9" y1="375.5" x2="1241.9" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1241.9" y1="375.5" x2="1279.1" y2="375.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1279.1" y1="375.5" x2="1279.1" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1279.1" y1="389.9" x2="1301.8" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="703.1" x2="31" y2="679.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="679.5" x2="16.6" y2="679.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="16.6" y1="679.5" x2="16.6" y2="641.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="641.5" x2="16.6" y2="641.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="641.5" x2="31" y2="603.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="603.5" x2="16.6" y2="603.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="16.6" y1="603.5" x2="16.6" y2="565.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="565.5" x2="16.6" y2="565.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="565.5" x2="31" y2="527.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="527.5" x2="16.6" y2="527.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="16.6" y1="527.5" x2="16.6" y2="489.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="489.5" x2="16.6" y2="489.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="489.5" x2="31" y2="451.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="451.5" x2="16.6" y2="451.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="16.6" y1="451.5" x2="16.6" y2="413.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="413.5" x2="16.6" y2="413.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="31" y1="413.5" x2="31" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1301.8" y1="703.1" x2="1301.8" y2="679.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="679.5" x2="1301.8" y2="679.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="679.5" x2="1316.2" y2="641.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="641.5" x2="1301.8" y2="641.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1301.8" y1="641.5" x2="1301.8" y2="603.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="603.5" x2="1301.8" y2="603.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="603.5" x2="1316.2" y2="565.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="565.5" x2="1301.8" y2="565.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1301.8" y1="565.5" x2="1301.8" y2="527.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="527.5" x2="1301.8" y2="527.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="527.5" x2="1316.2" y2="489.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="489.5" x2="1301.8" y2="489.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1301.8" y1="489.5" x2="1301.8" y2="451.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="451.5" x2="1301.8" y2="451.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="451.5" x2="1316.2" y2="413.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1316.2" y1="413.5" x2="1301.8" y2="413.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1301.8" y1="413.5" x2="1301.8" y2="389.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="1209" x2="59.6" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="59.6" y1="1194.6" x2="59.6" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="59.6" y1="1194.6" x2="96.7" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="96.7" y1="1194.6" x2="96.7" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="96.7" y1="1209" x2="133.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="133.8" y1="1194.6" x2="133.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="133.8" y1="1194.6" x2="171" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="171" y1="1194.6" x2="171" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="171" y1="1209" x2="208.1" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="208.1" y1="1194.6" x2="208.1" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="208.1" y1="1194.6" x2="245.2" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="245.2" y1="1194.6" x2="245.2" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="245.2" y1="1209" x2="282.4" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="282.4" y1="1194.6" x2="282.4" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="282.4" y1="1194.6" x2="319.5" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="319.5" y1="1194.6" x2="319.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="319.5" y1="1209" x2="356.6" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="356.6" y1="1194.6" x2="356.6" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="356.6" y1="1194.6" x2="393.8" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="393.8" y1="1194.6" x2="393.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="393.8" y1="1209" x2="430.9" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="430.9" y1="1194.6" x2="430.9" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="430.9" y1="1194.6" x2="468" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="468" y1="1194.6" x2="468" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="468" y1="1209" x2="505.2" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="505.2" y1="1194.6" x2="505.2" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="505.2" y1="1194.6" x2="542.3" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="542.3" y1="1194.6" x2="542.3" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="542.3" y1="1209" x2="579.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="579.5" y1="1194.6" x2="579.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="579.5" y1="1194.6" x2="616.5" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="616.5" y1="1194.6" x2="616.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="616.5" y1="1209" x2="653.7" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="653.7" y1="1194.6" x2="653.7" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="653.7" y1="1194.6" x2="690.8" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="690.8" y1="1194.6" x2="690.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="690.8" y1="1209" x2="727.9" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="727.9" y1="1194.6" x2="727.9" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="727.9" y1="1194.6" x2="765.1" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="765.1" y1="1194.6" x2="765.1" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="765.1" y1="1209" x2="802.2" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="802.2" y1="1194.6" x2="802.2" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="802.2" y1="1194.6" x2="839.4" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="839.4" y1="1194.6" x2="839.4" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="839.4" y1="1209" x2="876.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="876.5" y1="1194.6" x2="876.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="876.5" y1="1194.6" x2="913.6" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="913.6" y1="1194.6" x2="913.6" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="913.6" y1="1209" x2="950.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="950.8" y1="1194.6" x2="950.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="950.8" y1="1194.6" x2="987.8" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="987.8" y1="1194.6" x2="987.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="987.8" y1="1209" x2="1025" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1025" y1="1194.6" x2="1025" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1025" y1="1194.6" x2="1062.1" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1062.1" y1="1194.6" x2="1062.1" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1062.1" y1="1209" x2="1099.3" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1099.3" y1="1194.6" x2="1099.3" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1099.3" y1="1194.6" x2="1136.4" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1136.4" y1="1194.6" x2="1136.4" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1136.4" y1="1209" x2="1173.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1173.5" y1="1194.6" x2="1173.5" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1173.5" y1="1194.6" x2="1210.7" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1210.7" y1="1194.6" x2="1210.7" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1210.7" y1="1209" x2="1247.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1247.8" y1="1194.6" x2="1247.8" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1247.8" y1="1194.6" x2="1284.9" y2="1194.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1284.9" y1="1194.6" x2="1284.9" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1284.9" y1="1209" x2="1307.7" y2="1209"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="730.2" x2="59.6" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="59.6" y1="730.1" x2="59.6" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="59.6" y1="758.9" x2="96.7" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="96.7" y1="730.1" x2="96.7" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="96.7" y1="730.2" x2="133.8" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="133.8" y1="730.1" x2="133.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="133.8" y1="758.9" x2="171" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="171" y1="730.1" x2="171" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="171" y1="730.2" x2="208.1" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="208.1" y1="730.1" x2="208.1" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="208.1" y1="758.9" x2="245.2" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="245.2" y1="730.1" x2="245.2" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="245.2" y1="730.2" x2="282.4" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="282.4" y1="730.1" x2="282.4" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="282.4" y1="758.9" x2="319.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="319.5" y1="730.1" x2="319.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="319.5" y1="730.2" x2="356.6" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="356.6" y1="730.1" x2="356.6" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="356.6" y1="758.9" x2="393.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="393.8" y1="730.1" x2="393.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="393.8" y1="730.2" x2="430.9" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="430.9" y1="730.1" x2="430.9" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="430.9" y1="758.9" x2="468" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="468" y1="730.1" x2="468" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="468" y1="730.2" x2="505.2" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="505.2" y1="730.1" x2="505.2" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="505.2" y1="758.9" x2="542.3" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="542.3" y1="730.1" x2="542.3" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="542.3" y1="730.2" x2="579.5" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="579.5" y1="730.1" x2="579.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="579.5" y1="758.9" x2="616.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="616.5" y1="730.1" x2="616.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="616.5" y1="730.2" x2="653.7" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="653.7" y1="730.1" x2="653.7" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="653.7" y1="758.9" x2="690.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="690.8" y1="730.1" x2="690.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="690.8" y1="730.2" x2="727.9" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="727.9" y1="730.1" x2="727.9" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="727.9" y1="758.9" x2="765.1" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="765.1" y1="730.1" x2="765.1" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="765.1" y1="730.2" x2="802.2" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="802.2" y1="730.1" x2="802.2" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="802.2" y1="758.9" x2="839.4" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="839.4" y1="730.1" x2="839.4" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="839.4" y1="730.2" x2="876.5" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="876.5" y1="730.1" x2="876.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="876.5" y1="758.9" x2="913.6" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="913.6" y1="730.1" x2="913.6" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="913.6" y1="730.2" x2="950.8" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="950.8" y1="730.1" x2="950.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="950.8" y1="758.9" x2="987.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="987.8" y1="730.1" x2="987.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="987.8" y1="730.2" x2="1025" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1025" y1="730.1" x2="1025" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1025" y1="758.9" x2="1062.1" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1062.1" y1="730.1" x2="1062.1" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1062.1" y1="730.2" x2="1099.3" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1099.3" y1="730.1" x2="1099.3" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1099.3" y1="758.9" x2="1136.4" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1136.4" y1="730.1" x2="1136.4" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1136.4" y1="730.2" x2="1173.5" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1173.5" y1="730.1" x2="1173.5" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1173.5" y1="758.9" x2="1210.7" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1210.7" y1="730.1" x2="1210.7" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1210.7" y1="730.2" x2="1247.8" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1247.8" y1="730.1" x2="1247.8" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1247.8" y1="758.9" x2="1284.9" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1284.9" y1="730.1" x2="1284.9" y2="758.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1284.9" y1="730.2" x2="1307.7" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="1209" x2="22.5" y2="1172.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1172.1" x2="22.5" y2="1172.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1172.1" x2="36.9" y2="1135.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1135.3" x2="22.5" y2="1135.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="1135.3" x2="22.5" y2="1098.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1098.4" x2="22.5" y2="1098.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1098.4" x2="36.9" y2="1061.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1061.6" x2="22.5" y2="1061.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="1061.6" x2="22.5" y2="1024.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1024.8" x2="22.5" y2="1024.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="1024.8" x2="36.9" y2="987.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="987.9" x2="22.5" y2="987.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="987.9" x2="22.5" y2="951.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="951.1" x2="22.5" y2="951.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="951.1" x2="36.9" y2="914.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="914.3" x2="22.5" y2="914.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="914.3" x2="22.5" y2="877.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="877.5" x2="22.5" y2="877.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="877.5" x2="36.9" y2="840.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="840.6" x2="22.5" y2="840.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="840.6" x2="22.5" y2="803.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="803.8" x2="22.5" y2="803.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="803.8" x2="36.9" y2="766.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="36.9" y1="766.9" x2="22.5" y2="766.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="22.5" y1="766.9" x2="22.5" y2="730.2"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="1209" x2="1307.7" y2="1172.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1172.1" x2="1307.7" y2="1172.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1172.1" x2="1322.1" y2="1135.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1135.3" x2="1307.7" y2="1135.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="1135.3" x2="1307.7" y2="1098.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1098.4" x2="1307.7" y2="1098.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1098.4" x2="1322.1" y2="1061.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1061.6" x2="1307.7" y2="1061.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="1061.6" x2="1307.7" y2="1024.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1024.8" x2="1307.7" y2="1024.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="1024.8" x2="1322.1" y2="987.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="987.9" x2="1307.7" y2="987.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="987.9" x2="1307.7" y2="951.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="951.1" x2="1307.7" y2="951.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="951.1" x2="1322.1" y2="914.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="914.3" x2="1307.7" y2="914.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="914.3" x2="1307.7" y2="877.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="877.5" x2="1307.7" y2="877.5"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="877.5" x2="1322.1" y2="840.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="840.6" x2="1307.7" y2="840.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="840.6" x2="1307.7" y2="803.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="803.8" x2="1307.7" y2="803.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="803.8" x2="1322.1" y2="766.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1322.1" y1="766.9" x2="1307.7" y2="766.9"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1307.7" y1="766.9" x2="1307.7" y2="730.2"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="190.2" cy="546.3" r="136.8"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="298.9" cy="653.5" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="298.9" cy="436.1" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="81.5" cy="653.5" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="81.5" cy="436.1" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1141.1" cy="545.7" r="136.8"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1249.8" cy="652.9" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1249.8" cy="435.5" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1032.4" cy="652.9" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1032.4" cy="435.5" r="5.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="339.3" x2="49.5" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="49.5" y1="339.3" x2="49.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="49.5" y1="353.7" x2="86.7" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="86.7" y1="339.3" x2="86.7" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="86.7" y1="339.3" x2="123.8" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="123.8" y1="339.3" x2="123.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="123.8" y1="353.7" x2="160.9" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="160.9" y1="339.3" x2="160.9" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="160.9" y1="339.3" x2="198.1" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="198.1" y1="339.3" x2="198.1" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="198.1" y1="353.7" x2="235.2" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="235.2" y1="339.3" x2="235.2" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="235.2" y1="339.3" x2="272.3" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="272.3" y1="339.3" x2="272.3" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="272.3" y1="353.7" x2="309.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="309.5" y1="339.3" x2="309.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="309.5" y1="339.3" x2="346.6" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="346.6" y1="339.3" x2="346.6" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="346.6" y1="353.7" x2="383.7" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="383.7" y1="339.3" x2="383.7" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="383.7" y1="339.3" x2="420.8" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="420.8" y1="339.3" x2="420.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="420.8" y1="353.7" x2="458" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="458" y1="339.3" x2="458" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="458" y1="339.3" x2="495.1" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="495.1" y1="339.3" x2="495.1" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="495.1" y1="353.7" x2="532.2" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="532.2" y1="339.3" x2="532.2" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="532.2" y1="339.3" x2="569.4" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="569.4" y1="339.3" x2="569.4" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="569.4" y1="353.7" x2="606.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="606.5" y1="339.3" x2="606.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="606.5" y1="339.3" x2="643.6" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="643.6" y1="339.3" x2="643.6" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="643.6" y1="353.7" x2="680.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="680.8" y1="339.3" x2="680.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="680.8" y1="339.3" x2="717.9" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="717.9" y1="339.3" x2="717.9" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="717.9" y1="353.7" x2="755" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="755" y1="339.3" x2="755" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="755" y1="339.3" x2="792.1" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="792.1" y1="339.3" x2="792.1" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="792.1" y1="353.7" x2="829.3" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="829.3" y1="339.3" x2="829.3" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="829.3" y1="339.3" x2="866.4" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="866.4" y1="339.3" x2="866.4" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="866.4" y1="353.7" x2="903.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="903.5" y1="339.3" x2="903.5" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="903.5" y1="339.3" x2="940.7" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="940.7" y1="339.3" x2="940.7" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="940.7" y1="353.7" x2="977.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="977.8" y1="339.3" x2="977.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="977.8" y1="339.3" x2="1014.9" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1014.9" y1="339.3" x2="1014.9" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1014.9" y1="353.7" x2="1052.1" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1052.1" y1="339.3" x2="1052.1" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1052.1" y1="339.3" x2="1089.2" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1089.2" y1="339.3" x2="1089.2" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1089.2" y1="353.7" x2="1126.4" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1126.4" y1="339.3" x2="1126.4" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1126.4" y1="339.3" x2="1163.4" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1163.4" y1="339.3" x2="1163.4" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1163.4" y1="353.7" x2="1200.6" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1200.6" y1="339.3" x2="1200.6" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1200.6" y1="339.3" x2="1237.8" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1237.8" y1="339.3" x2="1237.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1237.8" y1="353.7" x2="1274.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1274.8" y1="339.3" x2="1274.8" y2="353.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1274.8" y1="339.3" x2="1297.6" y2="339.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="26.1" x2="49.5" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="49.5" y1="11.7" x2="49.5" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="49.5" y1="11.7" x2="86.7" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="86.7" y1="11.7" x2="86.7" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="86.7" y1="26.1" x2="123.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="123.8" y1="11.7" x2="123.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="123.8" y1="11.7" x2="160.9" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="160.9" y1="11.7" x2="160.9" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="160.9" y1="26.1" x2="198.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="198.1" y1="11.7" x2="198.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="198.1" y1="11.7" x2="235.2" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="235.2" y1="11.7" x2="235.2" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="235.2" y1="26.1" x2="272.3" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="272.3" y1="11.7" x2="272.3" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="272.3" y1="11.7" x2="309.5" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="309.5" y1="11.7" x2="309.5" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="309.5" y1="26.1" x2="346.6" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="346.6" y1="11.7" x2="346.6" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="346.6" y1="11.7" x2="383.7" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="383.7" y1="11.7" x2="383.7" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="383.7" y1="26.1" x2="420.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="420.8" y1="11.7" x2="420.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="420.8" y1="11.7" x2="458" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="458" y1="11.7" x2="458" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="458" y1="26.1" x2="495.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="495.1" y1="11.7" x2="495.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="495.1" y1="11.7" x2="532.2" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="532.2" y1="11.7" x2="532.2" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="532.2" y1="26.1" x2="569.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="569.4" y1="11.7" x2="569.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="569.4" y1="11.7" x2="606.5" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="606.5" y1="11.7" x2="606.5" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="606.5" y1="26.1" x2="643.6" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="643.6" y1="11.7" x2="643.6" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="643.6" y1="11.7" x2="680.8" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="680.8" y1="11.7" x2="680.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="680.8" y1="26.1" x2="717.9" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="717.9" y1="11.7" x2="717.9" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="717.9" y1="11.7" x2="755" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="755" y1="11.7" x2="755" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="755" y1="26.1" x2="792.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="792.1" y1="11.7" x2="792.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="792.1" y1="11.7" x2="829.3" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="829.3" y1="11.7" x2="829.3" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="829.3" y1="26.1" x2="866.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="866.4" y1="11.7" x2="866.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="866.4" y1="11.7" x2="903.5" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="903.5" y1="11.7" x2="903.5" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="903.5" y1="26.1" x2="940.7" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="940.7" y1="11.7" x2="940.7" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="940.7" y1="11.7" x2="977.8" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="977.8" y1="11.7" x2="977.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="977.8" y1="26.1" x2="1014.9" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1014.9" y1="11.7" x2="1014.9" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1014.9" y1="11.7" x2="1052.1" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1052.1" y1="11.7" x2="1052.1" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1052.1" y1="26.1" x2="1089.2" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1089.2" y1="11.7" x2="1089.2" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1089.2" y1="11.7" x2="1126.4" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1126.4" y1="11.7" x2="1126.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1126.4" y1="26.1" x2="1163.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1163.4" y1="11.7" x2="1163.4" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1163.4" y1="11.7" x2="1200.6" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1200.6" y1="11.7" x2="1200.6" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1200.6" y1="26.1" x2="1237.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1237.8" y1="11.7" x2="1237.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1237.8" y1="11.7" x2="1274.8" y2="11.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1274.8" y1="11.7" x2="1274.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1274.8" y1="26.1" x2="1297.6" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="339.3" x2="26.8" y2="315.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="315.8" x2="12.4" y2="315.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="12.4" y1="315.8" x2="12.4" y2="277.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="277.8" x2="12.4" y2="277.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="277.8" x2="26.8" y2="239.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="239.8" x2="12.4" y2="239.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="12.4" y1="239.8" x2="12.4" y2="201.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="201.7" x2="12.4" y2="201.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="201.7" x2="26.8" y2="163.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="163.8" x2="12.4" y2="163.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="12.4" y1="163.8" x2="12.4" y2="125.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="125.8" x2="12.4" y2="125.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="125.8" x2="26.8" y2="87.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="87.8" x2="12.4" y2="87.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="12.4" y1="87.8" x2="12.4" y2="49.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="49.8" x2="12.4" y2="49.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="26.8" y1="49.8" x2="26.8" y2="26.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1297.6" y1="339.3" x2="1297.6" y2="315.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="315.8" x2="1297.6" y2="315.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="315.8" x2="1312" y2="277.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="277.8" x2="1297.6" y2="277.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1297.6" y1="277.8" x2="1297.6" y2="239.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="239.8" x2="1297.6" y2="239.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="239.8" x2="1312" y2="201.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="201.7" x2="1297.6" y2="201.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1297.6" y1="201.7" x2="1297.6" y2="163.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="163.8" x2="1297.6" y2="163.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="163.8" x2="1312" y2="125.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="125.8" x2="1297.6" y2="125.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1297.6" y1="125.8" x2="1297.6" y2="87.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="87.8" x2="1297.6" y2="87.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="87.8" x2="1312" y2="49.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1312" y1="49.8" x2="1297.6" y2="49.8"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1297.6" y1="49.8" x2="1297.6" y2="26.1"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1136.9" cy="181.9" r="136.8"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1245.6" cy="289.2" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1245.6" cy="71.8" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1028.2" cy="289.2" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="1028.2" cy="71.8" r="5.4"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="712.7" x2="1805.1" y2="674.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="674.6" x2="1805.1" y2="674.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="674.6" x2="1790.7" y2="636.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="636.6" x2="1805.1" y2="636.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="636.6" x2="1805.1" y2="598.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="598.6" x2="1805.1" y2="598.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="598.6" x2="1790.7" y2="560.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="560.6" x2="1805.1" y2="560.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="560.6" x2="1805.1" y2="522.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="522.6" x2="1805.1" y2="522.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="522.6" x2="1790.7" y2="484.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="484.6" x2="1805.1" y2="484.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="484.6" x2="1805.1" y2="446.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="446.6" x2="1805.1" y2="446.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="446.6" x2="1790.7" y2="408.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1790.7" y1="408.6" x2="1805.1" y2="408.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="408.6" x2="1805.1" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="712.7" x2="1326.3" y2="674.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="674.6" x2="1355.1" y2="674.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="674.6" x2="1355.1" y2="636.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="636.6" x2="1355.1" y2="636.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="636.6" x2="1326.3" y2="598.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="598.6" x2="1355.1" y2="598.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="598.6" x2="1355.1" y2="560.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="560.6" x2="1355.1" y2="560.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="560.6" x2="1326.3" y2="522.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="522.6" x2="1355.1" y2="522.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="522.6" x2="1355.1" y2="484.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="484.6" x2="1355.1" y2="484.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="484.6" x2="1326.3" y2="446.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="446.6" x2="1355.1" y2="446.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1355.1" y1="446.6" x2="1355.1" y2="408.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="408.6" x2="1355.1" y2="408.6"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1326.3" y1="408.6" x2="1326.3" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="712.7" x2="1768.3" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.3" y1="698.3" x2="1768.3" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.3" y1="698.3" x2="1731.5" y2="698.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="698.3" x2="1731.5" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="712.7" x2="1694.6" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="698.3" x2="1694.6" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="698.3" x2="1657.8" y2="698.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="698.3" x2="1657.8" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="712.7" x2="1620.9" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="698.3" x2="1620.9" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="698.3" x2="1584.1" y2="698.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="698.3" x2="1584.1" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="712.7" x2="1547.3" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="698.3" x2="1547.3" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="698.3" x2="1510.5" y2="698.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="698.3" x2="1510.5" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="712.7" x2="1473.6" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="698.3" x2="1473.6" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="698.3" x2="1436.8" y2="698.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="698.3" x2="1436.8" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="712.7" x2="1400" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="698.3" x2="1400" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="698.3" x2="1363.2" y2="698.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.2" y1="698.3" x2="1363.2" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.2" y1="712.7" x2="1326.3" y2="712.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1805.1" y1="385.1" x2="1768.3" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.3" y1="370.7" x2="1768.3" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1768.3" y1="370.7" x2="1731.5" y2="370.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="370.7" x2="1731.5" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1731.5" y1="385.1" x2="1694.6" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="370.7" x2="1694.6" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1694.6" y1="370.7" x2="1657.8" y2="370.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="370.7" x2="1657.8" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1657.8" y1="385.1" x2="1620.9" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="370.7" x2="1620.9" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1620.9" y1="370.7" x2="1584.1" y2="370.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="370.7" x2="1584.1" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1584.1" y1="385.1" x2="1547.3" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="370.7" x2="1547.3" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1547.3" y1="370.7" x2="1510.5" y2="370.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="370.7" x2="1510.5" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1510.5" y1="385.1" x2="1473.6" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="370.7" x2="1473.6" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1473.6" y1="370.7" x2="1436.8" y2="370.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="370.7" x2="1436.8" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1436.8" y1="385.1" x2="1400" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="370.7" x2="1400" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1400" y1="370.7" x2="1363.2" y2="370.7"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.2" y1="370.7" x2="1363.2" y2="385.1"/>
+	<line fill="none" stroke="#FF0000" stroke-width="3" x1="1363.2" y1="385.1" x2="1326.3" y2="385.1"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="186" cy="182.5" r="136.8"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="294.7" cy="289.8" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="294.7" cy="72.3" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="77.3" cy="289.8" r="5.4"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="3" cx="77.3" cy="72.3" r="5.4"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1684.6,542.8c-0.2,23.1-5.5,44.9-16.9,65
+		c-11.9,21-28.6,37.1-50.1,48.1c-10.5,5.4-21.7,8.9-33.4,10.8c-8.2,1.3-16.5,1.8-24.8,1.3c-22.4-1.4-42.7-8.6-60.8-22
+		c-20.8-15.4-35.3-35.5-44-59.8c-3.2-9-5.4-18.2-6.6-27.6c-1.1-8.5-1.5-17.1-0.9-25.6c2-28.8,11.8-54.4,30.4-76.5
+		c15.8-18.8,35.7-31.4,59.5-37.8c7-1.9,14.2-3,21.4-3.4c16.6-1,32.5,1.9,47.9,7.9c7.5,2.9,14.6,6.4,21.3,10.8
+		c15.4,10.1,27.8,23,37.4,38.7c8.6,14,14.3,29.2,17.3,45.3C1683.9,526.8,1684.6,534.4,1684.6,542.8z M1683,542.6
+		c0-7.9-0.7-15.7-2.1-23.5c-2.9-16-8.4-31-16.9-44.9c-9.5-15.6-21.8-28.6-37.1-38.6c-6.7-4.4-13.9-7.9-21.4-10.8
+		c-10.8-4.1-21.8-6.8-33.3-7.6c-10.3-0.7-20.6,0-30.7,2.3c-22.6,5.1-42,16-57.9,32.7c-22.7,23.9-34,52.6-35.2,85.4
+		c-0.5,12.6,1.1,25,4.3,37.2c6,22.7,17.1,42.5,34,58.9c9.1,8.9,19.4,16.2,30.9,21.7c12.4,6,25.6,9.4,39.4,10.5
+		c8.7,0.7,17.3,0.4,26-0.9c11.8-1.8,23.1-5.3,33.8-10.7c23.5-11.8,40.9-29.7,52.6-53.1C1678.6,582.8,1683,563.2,1683,542.6z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1567.4,423.2c-0.5,0.1-0.9,0.3-1.4,0.4
+		c-13,3.7-23.6,10.8-31.4,21.9c-5,7.1-8.2,15.1-9.5,23.7c-2.1,13.6,0.3,26.5,6.3,38.8c7.7,15.5,19.5,26.9,34.9,34.6
+		c14.7,7.4,26.1,18.3,33.8,32.8c3.9,7.3,6.4,15.1,7.4,23.4c1.4,11.6-0.2,22.8-5.4,33.3c-4,8-10.2,13.8-18.1,17.9
+		c-5.9,3.1-12.2,4.8-18.7,5.8c-5.9,0.9-11.8,1.1-17.8,0.6c-9.2-0.6-18.2-2.5-27-5.6c-0.9-0.3-1.8-0.8-2.7-1.3
+		c-19.8-10.3-35.3-25.3-46.6-44.5c-7.6-12.8-12.6-26.6-15.2-41.2c-1.6-8.8-2.3-17.7-2-26.6c1.3-30.6,11.8-57.5,32.9-80
+		c14.6-15.6,32.4-26,53.1-31.3c8.8-2.2,17.7-3.2,26.8-3.1c0.2,0,0.4,0,0.6,0C1567.4,423.1,1567.4,423.2,1567.4,423.2z M1524.2,516.5
+		c-0.1,0-0.2-0.1-0.2-0.1c-0.3-0.9-0.6-1.9-0.9-2.8c-1.3-4.3-1.8-8.7-2.1-13.2c-0.2-3.4-0.3-6.8-0.5-10.2c-0.1-2-0.3-4.1-0.5-6.1
+		c-0.3-3.1-1.4-6-3-8.6c-1.3-2.1-2.1-4.4-2.5-6.9c-0.6-3.3-1.2-6.6-1.8-9.8c-0.4-2-1-4-2.1-5.8c-0.7-1.2-1.5-2.2-2.8-2.8
+		c-0.8-0.4-1.6-0.5-2.4,0.1c-1.2,0.9-2.5,1.8-3.6,2.8c-2.9,2.6-5.7,5.3-8.5,7.9c-0.7,0.7-1.3,1.4-1.9,2.1c-2,2.6-3.3,5.5-4.6,8.5
+		c-1.5,3.3-2.9,6.7-4.4,10c-0.9,2.1-1.9,4.1-2.7,6.2c-2.3,5.9-4.6,11.8-7.5,17.4c-1.5,2.9-3,5.8-4.4,8.7c-1.8,3.6-2.7,7.4-2.3,11.5
+		c0.2,2.6,0.6,5.1,1,7.6c0.4,3.1,0.7,6.2,1.2,9.4c0.4,2.5,0.9,5,0.9,7.5c0,0.2,0,0.4,0.1,0.6c0.6,0.6,0.2,1.2,0,1.8
+		c-0.4,1.3-0.9,1.4-2,0.8c-0.2-0.1-0.4-0.3-0.6-0.4c-1.1-0.8-1.6-0.7-2.3,0.4c-0.5,0.9-1,1.8-1.3,2.8c-2.1,6.2-2.4,12.5-1.2,18.8
+		c1,5.1,3.2,9.5,7,13.2c1.4,1.4,2.6,3,3.9,4.5c0.2,0.2,0.4,0.5,0.5,0.8c1,2.7,2,5.4,3,8.1c3,8.6,7.9,16.1,14.3,22.6
+		c3.1,3.2,6.4,6.1,9.8,8.9c9.3,7.3,19.4,13.3,30.6,17.2c8.6,3,17.5,4.6,26.7,4.3c8.8-0.2,17.2-2.2,25.3-5.8
+		c7.8-3.5,13.5-9.1,17.3-16.6c2.4-4.8,3.9-10,5-15.3c1.4-6.8,1.4-13.6,0-20.3c-2.1-9.7-6-18.7-11.7-26.8c-3.4-4.8-7.3-9.1-12-12.6
+		c-3.9-2.9-8-5.4-12.4-7.5c-4.3-2.1-8.7-3.9-13.4-4.9c-0.3-0.1-0.7-0.4-0.9-0.6c-4-4.5-8-9.1-11.9-13.6c-2.2-2.5-4-5.1-5.5-8.1
+		c-0.7-1.4-1.5-2.8-2.3-4.1c-1-1.6-2.1-3.2-3.2-4.7c-0.5-0.7-1.2-1.3-1.9-1.8c-1.3-0.9-2.5-0.7-3.3,0.7c-0.4,0.8-0.6,1.7-0.9,2.6
+		C1524.5,515.4,1524.3,516,1524.2,516.5z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1661.1,530.8c0.3,0.7,0.5,1.2,0.6,1.7c0.4,1.6,0.8,3.3,1.2,4.9
+		c0.6,2,1.2,4,1.9,6c0.9,2.7,1.8,5.4,2.8,8.2c0.8,2.1,1.5,4.3,1.8,6.5c0.4,2.6,0,5.1-0.8,7.6c-1.2,3.4-2.3,6.7-3.5,10.1
+		c-1.2,3.6-1.7,7.4-2.4,11.1c-0.4,2.3-1.1,4.6-1.6,7c-0.6,2.8-1.1,5.6-1.7,8.3c-0.2,1-0.5,1.9-0.9,2.9c-0.5,1.3-1.2,2.4-2.2,3.4
+		c-2.5,2.4-4.9,4.8-7.4,7.1c-1.1,1-2.4,1.9-3.7,2.8c-0.5,0.4-1,0.4-1.5,0.1c-0.8-0.4-1.7-0.8-2.3-1.4c-1.5-1.4-2.9-2.8-4.2-4.4
+		c-2.1-2.5-4.1-5.1-6.1-7.7c-1.8-2.3-3.7-4.3-6.1-5.9c-3.3-2.3-5.5-5.4-6.7-9.2c-1.3-4.1-2.6-8.2-4-12.3c-1.3-4-2.8-7.9-5.1-11.4
+		c-0.2-0.3-0.4-0.7-0.6-1.2c-0.2,0.2-0.4,0.4-0.4,0.6c-0.1,0.6-0.2,1.1-0.3,1.7c-0.4,2.8-2.1,3.7-4.5,2.2c-1.5-0.9-2.8-2-4-3.2
+		c-2.1-2.1-4-4.4-6.1-6.6c-1.2-1.3-2.4-2.7-3.7-4c-4.3-4.3-8.1-9-11.7-13.9c-0.6-0.9-1.1-1.9-2-2.5c-0.8-0.6-1.9-0.6-2.9-0.9
+		c-5.1-1.6-9.8-4.2-14.4-7c-12.3-7.5-20.1-18.5-24.7-31.9c-2.1-6.2-3.4-12.5-3.5-19c-0.1-5.4,0.8-10.5,2.3-15.6
+		c2.2-7.1,5.2-13.7,9.7-19.6c6.1-8.1,14.1-13.6,23.6-17.1c6.8-2.5,13.9-3.7,21.1-3.4c9.5,0.4,18.4,3,26.8,7.4
+		c11.4,6,20.9,14.2,28,24.9c3.2,4.8,5.3,10.2,7,15.7c0.6,2.1,1.3,4.2,1.9,6.3c0.9,2.9,2.3,5.5,3.5,8.3c0.8,1.8,2,3.3,3.4,4.7
+		c1.2,1.1,2.4,2.2,3.6,3.2c5.4,4.5,8,10.4,8.5,17.2c0.4,4.6-0.1,9.2-1.7,13.6c-0.4,1.1-0.9,2.1-1.5,3.1c-0.8,1.3-1.5,1.4-2.8,0.6
+		c-0.4-0.2-0.7-0.4-1.1-0.6c-0.9-0.4-1.5-0.2-1.9,0.8C1661.2,530.2,1661.1,530.6,1661.1,530.8z M1647.7,564.4c0.1-0.4,0.2-0.7,0.3-1
+		c0.2-0.9,0.3-1.8,0.5-2.7c0.2-1,0.5-2,0.9-2.9c0.4-0.8,0.7-0.9,1.6-0.5c0.3,0.1,0.7,0.3,1.1,0.4c0.2-0.5,0.3-0.9,0.4-1.3
+		c0.3-1.1,0.4-1.2,1.6-1.3c0.3,0,0.6-0.1,1.2-0.2c-0.4-0.5-0.6-0.9-0.9-1.1c-1.4-0.9-2-2.2-2-3.8c0-0.2-0.1-0.4-0.1-0.6
+		c0-0.8-0.4-1.3-1.1-1.6c-0.7-0.3-1.4-0.6-2.1-1c-0.3-0.2-0.6-0.5-0.9-0.8c0-0.1,0.1-0.2,0.1-0.3c1.6-0.1,2.9,1,4.6,1.1
+		c-0.1-0.7-0.1-1.3-0.1-1.9c-0.1-1.3-0.2-2.7-0.4-4c-0.2-2,0.5-3.6,2-4.9c1-0.9,2-1.9,3.1-2.7c1.1-0.9,1.8-2,1.9-3.4
+		c0.1-0.7,0.2-1.4,0.4-2.2c0.4-1.6,1.5-2.5,3.2-2.4c0.3,0,0.6,0.1,0.9,0.1c1.6,0.2,2,0,2.6-1.6c1.6-3.7,2.1-7.5,1.7-11.5
+		c-0.7-6.4-3.3-11.8-8.6-15.7c-1.5-1.1-3.1-2.2-4.7-3.4c-1.2-0.8-2.2-1.8-3.1-2.9c-3-4.1-7.1-6.1-12-6.6c-1.8-0.2-3.5,0.4-4.8,1.8
+		c-0.5,0.5-1,1-1.4,1.6c-1.1,1.6-2.2,3.2-3.1,4.9c-1.4,2.7-2.7,5.5-4.1,8.3c-0.6,1.2-1.2,2.5-1.9,3.7c-1,1.6-2.4,2.6-4.1,3.1
+		c-1,0.3-1.2,0-1.3-1.1c0,0,0.1-0.1,0.1-0.1c0.1,0,0.2-0.1,0.3-0.1c2.2-0.4,3.6-1.7,4.5-3.7c0.6-1.4,1.2-2.8,1.7-4.1
+		c1.5-3.6,3-7.2,5.1-10.6c1-1.6,2-3.1,3.4-4.3c1.1-1,2.3-1.7,3.7-2c1.9-0.4,3.7-0.3,5.6,0.2c0.4,0.1,0.7,0.1,1,0.2
+		c-0.7-2.3-1.4-4.4-2-6.6c-0.9-3.1-1.2-6.3-2.9-9.2c-0.2-0.3-0.3-0.7,0.2-1.1c0.3,0.4,0.7,0.7,0.9,1.1c1.3,1.9,2,4,2.6,6.2
+		c0.6,2.6,1.7,5.1,3.2,7.4c1.5,2.3,3.4,4.1,5.4,5.9c0-0.3-0.1-0.5-0.2-0.7c-1.4-3.2-2.8-6.4-4.3-9.6c-1.7-3.7-3.4-7.5-5.3-11.1
+		c-3.5-6.3-8.1-11.9-13.3-16.8c-6.4-6.1-13.5-11-21.8-14.1c-7.8-3-15.9-4.2-24.3-3.3c-6.2,0.7-12.1,2.4-17.8,5
+		c-12.2,5.6-21.2,14.3-26.6,26.7c-3.6,8.2-5.1,16.7-3.7,25.6c1.5,9.6,5,18.3,10.4,26.3c0.4,0.6,0.9,1.1,1.3,1.6c1,1.4,1.9,2.8,3,4.1
+		c4.4,5.2,9.5,9.6,15.4,13.1c2.2,1.3,4.5,2.4,7,3.1c0.4,0.1,0.8,0.2,1.4,0.3c-0.3-0.5-0.4-0.7-0.6-0.9c-1.4-1.8-2.8-3.6-4.3-5.2
+		c-5.3-5.7-11.5-10.3-18.1-14.3c-0.5-0.3-1-0.7-1.5-1c-0.1-0.1-0.2-0.3-0.3-0.6c0.8-0.1,1.3,0.2,1.8,0.5c6.5,3.9,13.1,7.8,19.2,12.3
+		c0.2,0.1,0.4,0.2,0.6,0.4c0.1-0.7,0.2-1.4,0.3-2c0.4-2.2,1.7-4.8,5.2-5.3c0.5-0.1,1-0.2,1.5-0.2c2.4-0.2,4.9-0.4,7.4-0.4
+		c3.9-0.1,7.8,0,11.7,0c1,0,2.1-0.1,3.1-0.4c1.3-0.3,2.5-0.9,3.3-2c0.3-0.4,0.7-0.3,1,0c0.3,0.2,0.3,0.5,0,0.8
+		c-1.2,1.4-2.6,2.5-4.5,2.7c-1.1,0.1-2.3,0.2-3.4,0.3c-4.1,0.2-8.2,0.4-12.3,0.7c-2.1,0.1-4.2,0.6-6.2,1.3c-2,0.7-3.2,2.1-3.7,4.1
+		c-0.8,3.2,0,6.1,2.2,8.5c2.5,2.8,4.6,5.9,6.9,8.9c1.9,2.6,3.8,5.2,6.1,7.5c4.5,4.7,9.3,9.2,14.3,13.4c0.6,0.5,1.3,1.1,2,1.6
+		c1.1,0.7,1.7,0.5,1.9-0.8c0.1-0.8,0.2-1.5,0.5-2.2c0.4-1.2,1.2-1.5,2.3-0.8c0.7,0.4,1.3,0.9,2,1.3c1.1,0.6,1.5,0.5,2.1-0.6
+		c1.1-2,1.9-2.2,3.5-0.5c1,1,1.9,2.2,2.9,3.3c0.7,0.8,1.3,1.7,2,2.5c0.2,0.3,0.4,0.7,1,0.5c0-0.4,0-0.8,0-1.3c0-0.7,0-1.5,0-2.2
+		c0-0.5,0.1-1,0.9-1.1c0,0.6,0,1.1-0.1,1.6c-0.2,2.2,0.1,4.3,1.1,6.3c0.4,0.8,0.5,1.5,0.3,2.3c-0.1,0.4-0.1,0.9-0.2,1.3
+		c0.1,0.1,0.2,0.1,0.2,0.2c0.8-1,1.4-2.6,3.2-1.7c0.2-0.7,0.3-1.3,0.5-1.8c0.3-1.4,0.6-1.5,1.7-0.7c0.7,0.4,1.5,0.9,2.2,1.2
+		c0.5,0.3,1,0.1,1.5-0.3c0.3-0.3,0.6-0.8,1-0.9c0.6-0.1,0.7,0.6,0.9,1c0.6,0.8,1.1,0.8,1.7,0c0.3-0.4,0.5-0.9,0.8-1.4
+		c0.6-0.9,1.2-1,2.2-0.5c0.3,0.1,0.5,0.3,0.9,0.4c0.3-0.7,0.5-1.4,0.7-2c0.4-1,0.7-1.2,1.8-1c0.7,0.1,0.8,0,1-0.8
+		c0.1-0.6,0.3-1.2,0.4-1.8c0.2-0.7,0.7-1,1.4-1.1C1647,564.4,1647.3,564.4,1647.7,564.4z M1612.5,567.2c0.6,1.4,1.2,2.6,1.7,3.8
+		c1.2,3.3,2.3,6.6,3.4,9.9c0.8,2.6,1.5,5.1,2.3,7.7c0.6,1.9,1.6,3.5,2.9,5.1c2.1,2.4,4.3,4.7,7,6.5c0.7,0.5,1.4,1.1,2.1,1.6
+		c1.6,1.2,3.1,2.7,4.3,4.3c1.1,1.5,2.3,3.1,3.5,4.6c0.5,0.7,1.1,1.4,1.8,1.9c1.3,1.2,2.9,1.5,4.5,0.7c0.9-0.4,1.8-1,2.6-1.6
+		c1.8-1.5,3.5-3.1,5.3-4.7c1.4-1.3,2.5-2.9,3.2-4.8c0.5-1.5,1-3.1,1.3-4.6c0.8-3.9,1.3-7.9,2.3-11.7c1.6-6,3.1-12,5.3-17.9
+		c0.4-1.1,0.7-2.3,1.1-3.5c0.9-3,0.8-6.1-0.3-9c-0.3-0.8-0.6-1.7-0.9-2.5c-1.1-2.6-2.1-5.3-2.9-8c-1-3.3-2.1-6.6-3.1-9.9
+		c-0.1-0.3-0.2-0.5-0.3-0.9c-0.3,0.3-0.6,0.5-0.8,0.8c-2,1.9-2,1.9-1.5,4.7c0.9,5,1.7,10.1,2.5,15.1c0.3,2.2,0.5,4.4,0.1,6.7
+		c-0.6,3.3-1.3,6.6-1.9,9.8c-0.5,2.5-1.1,4.9-1.2,7.5c0,0.9-0.4,1.7-0.6,2.6c0,0.1-0.1,0.2-0.2,0.3c-0.3-0.2-0.5-0.3-0.8-0.4
+		c-0.7,0.6-0.8,1.3-0.8,2.1c0,0.9,0,1.8,0,2.6c0,0.5,0,1-0.5,1.4c-0.1,0-0.3-0.1-0.5-0.1c-0.8-0.2-1-0.1-1.1,0.7
+		c-0.1,0.4-0.1,0.8-0.1,1.3c-0.2,1.3-0.4,1.4-1.8,1.3c-0.6-0.1-0.8,0-0.9,0.7c-0.1,0.3-0.1,0.6-0.1,0.9c0,0.4,0,0.8-0.1,1.1
+		c-0.2,0.7-0.6,0.8-1.2,0.5c-0.3-0.2-0.5-0.3-0.9-0.6c-0.1,0.5-0.3,0.8-0.3,1.1c-0.1,0.3,0,0.6-0.1,0.9c-0.2,0.9-0.7,1-1.4,0.5
+		c-0.3-0.2-0.6-0.5-1.1-0.8c-0.1,0.4-0.2,0.7-0.2,0.9c-0.1,0.3-0.1,0.6-0.2,0.9c-0.2,0.9-0.7,1.1-1.5,0.6c-0.2-0.1-0.4-0.3-0.8-0.5
+		c-0.1,0.6-0.2,1-0.3,1.4c-0.1,0.8-0.6,1-1.2,0.5c-0.5-0.3-0.8-0.8-1.2-1.2c-0.4-0.4-0.8-0.8-1.1-1.2c-0.3,0.4-0.5,0.7-0.8,1
+		c-0.5-0.4-0.8-0.9-1.3-1.2c-0.5-0.3-1.1-0.4-1.6-0.6c-0.8-0.3-1.3-0.9-1.7-1.7c-0.2-0.4-0.3-0.9-0.5-1.3c-0.1-0.3-0.3-0.6-0.6-0.7
+		c-1-0.3-1.6-1.1-2.3-1.9c-1.9-2.3-3.9-4.6-5.7-7.1c-1.2-1.6-2.2-3.4-3-5.3c-1.8-3.7-3-7.6-4.2-11.5c-0.1-0.3-0.2-0.6-0.4-1
+		c-1,0.8-1.9,1.5-2.8,2.1C1612.7,567,1612.6,567.1,1612.5,567.2z M1637.8,576.4c0.2,1.3,0.3,2.6,0.5,3.8c0.2,1.6,0.5,3.1,0.8,4.6
+		c0.2,1,0.8,1.4,1.8,1.1c1.1-0.3,2.1-0.9,2.8-1.9c0.3-0.4,0.5-0.9,0.3-1.4c-0.7-2.5-1.2-5.1-2-7.6c-0.3-0.8-0.8-1.6-1.4-2.3
+		c-0.6-0.7-1.1-0.7-1.7,0.1c-0.3,0.3-0.5,0.8-0.6,1.2C1638,574.8,1637.9,575.6,1637.8,576.4z M1642.5,573.2c0.2,3.1,1.2,5.9,2.1,8.7
+		c0.3,1,1.1,1.3,2,0.8c1-0.6,1.8-1.5,2.3-2.5c0.5-0.9,0.6-1.9,0.1-2.9c-1-2-1.9-4.1-2.9-6.1c-0.1-0.3-0.3-0.5-0.5-0.8
+		c-1-1-2.1-0.8-2.6,0.5C1642.6,571.7,1642.6,572.5,1642.5,573.2z M1651,558.3c-0.2,0.1-0.4,0.2-0.5,0.3c-1.3,1.7-1.9,3.7-1.6,5.8
+		c0,0.3,0.3,0.8,0.5,1c1.4,0.9,2.2,2.3,3,3.7c0.4,0.7,0.9,1.4,1.4,2c0.3,0.4,0.6,0.8,1.3,0.7c0-0.4,0-0.7,0-1.1
+		c-0.2-1.2-0.3-2.4-0.5-3.6c-0.4-2.3-1-4.5-2-6.6C1652.2,559.7,1651.8,558.9,1651,558.3z M1634,587.7c0.1-0.1,0.2-0.1,0.3-0.2
+		c-0.1-0.6-0.2-1.2-0.3-1.8c-0.4-3-0.9-6.1-0.8-9.2c0.1-1.4-0.6-2.2-1.7-2.7c-0.6-0.3-1.4-0.4-2-0.6c-0.6,0.7-0.5,1.5-0.5,2.3
+		c0.3,3.4,1.3,6.6,2.8,9.7c0.3,0.6,0.7,1.1,1.1,1.6C1633.2,587.2,1633.6,587.4,1634,587.7z M1650.1,577.2c0.3-0.2,0.5-0.2,0.6-0.3
+		c0.6-0.8,1.1-1.6,1.7-2.4c0.7-1,0.6-2.1,0-3.2c-0.8-1.7-2-3.1-3.5-4.2c-0.3-0.2-0.6-0.4-0.9-0.5c-1.1-0.5-1.8,0-1.8,1.2
+		c0,0.6,0.1,1.2,0.3,1.8c0.9,2.2,1.9,4.4,2.9,6.5C1649.5,576.5,1649.8,576.8,1650.1,577.2z M1634,578.6c0,0,0.1,0,0.1,0
+		c0,0.9-0.1,1.8,0,2.6c0.2,1.3,0.4,2.6,0.7,3.8c0.2,1,1,1.5,2,1.5c0.7,0,1.1-0.3,1.2-1c0-0.2,0.1-0.5,0.1-0.7
+		c0.1-3.4-0.6-6.6-1.7-9.8c-0.2-0.6-0.4-1.3-1.2-1.2c-0.7,0.1-0.9,0.9-1,1.5c0,0.1,0,0.2,0,0.2C1634.1,576.6,1634,577.6,1634,578.6z
+		 M1656.4,567.1c0.1,0,0.2-0.1,0.3-0.1c0.2-3.1,0.5-6.2,0.2-9.4c0-0.4-0.1-0.8-0.3-1.1c-0.2-0.3-0.6-0.6-1-0.6
+		c-1.3-0.1-2.7,1.6-2.2,2.8c0.8,2.5,1.7,4.9,2.6,7.4C1656,566.5,1656.2,566.8,1656.4,567.1z M1629.3,585.2c0.1-0.1,0.2-0.1,0.3-0.2
+		c0-0.5,0.1-0.9,0-1.4c-0.4-2.4-0.9-4.7-1.3-7.1c-0.1-0.3-0.2-0.7-0.4-0.9c-0.2-0.2-0.5-0.4-0.8-0.3c-1.4,0.2-2.5,1.7-2,3.1
+		c0.8,2.3,1.9,4.4,3.4,6.2C1628.6,584.9,1629,585,1629.3,585.2z M1656.2,553.6c0.1-0.2,0.2-0.4,0.2-0.6c0.2-1.7,0.2-3.4-0.1-5
+		c-0.1-0.9-0.6-1.3-1.4-1.6c-1-0.3-1.3-0.2-1.2,0.9c0.1,0.8,0.2,1.6-0.4,2.3c-0.1,0.1-0.1,0.4-0.1,0.7
+		C1653.5,551.2,1655.1,553.1,1656.2,553.6z M1648,584.4c-0.9,0.7-1.7,1.2-2.3,1.8c-0.2,0.1-0.2,0.5-0.2,0.7c0.4,1.4,0.9,2.8,1.3,4.2
+		c0.1,0.4,0.3,1,0.9,0.9c0.6-0.1,0.8-0.5,0.9-1.1c0.1-0.3,0.1-0.6,0.1-0.9C1648.8,588.1,1648.4,586.4,1648,584.4z M1642,588.2
+		c0.5,1.3,1,2.4,1.5,3.6c0.2,0.5,0.5,1,0.8,1.4c0.6,0.8,1.2,0.7,1.5-0.2c0.1-0.2,0.1-0.4,0.1-0.7c0-1.9-0.5-3.7-1-5.6
+		C1643.9,587.2,1643,587.6,1642,588.2z M1641.4,588.6c-0.9,0.4-1.7,0.8-2.6,1.2c0.7,1.5,1.2,2.8,1.9,4.2c0.4,0.8,1.1,1,1.7,0.8
+		c0.5-0.2,0.9-0.9,0.7-1.7C1642.7,591.6,1642.1,590.1,1641.4,588.6z M1638.1,590.1c-0.8,0.2-1.6,0.3-2.5,0.5c0.7,1.4,1.3,2.7,2,3.9
+		c0.4,0.7,1,1.2,1.6,1.7c0.2,0.2,0.7,0.3,0.8,0.1c0.2-0.2,0.3-0.6,0.3-0.9c0-0.1,0-0.2,0-0.3
+		C1639.9,593.5,1639.2,591.8,1638.1,590.1z M1650.9,581.3c-0.2,0.1-0.3,0.1-0.4,0.2c-0.5,0.6-1.1,1.2-1.6,1.8
+		c-0.2,0.2-0.3,0.6-0.2,0.8c0.2,1.4,0.4,2.8,0.6,4.2c0.1,0.4,0.3,0.7,0.4,1.1c1.2-0.2,1.3-1,1.4-1.8
+		C1651.3,585.6,1651.2,583.5,1650.9,581.3z M1653.2,577.3c-0.1,0-0.2,0-0.3-0.1c-0.5,0.9-1.1,1.7-1.6,2.6c-0.1,0.1-0.1,0.3-0.1,0.4
+		c0.2,1.3,0.3,2.6,0.6,4c0.1,0.4,0.4,0.8,0.5,1.1c0.8-0.2,0.9-0.8,0.9-1.3c0.1-1.6,0.2-3.3,0.2-4.9
+		C1653.5,578.6,1653.3,578,1653.2,577.3z M1623.4,570.4c-0.9,0-1.5-0.3-1.9-0.8c-0.1-0.2-0.5-0.3-0.7-0.2c-0.2,0.1-0.3,0.4-0.3,0.6
+		c0,0.1,0,0.2,0,0.3c0.5,1.1,0.9,2.2,1.4,3.2c0.2,0.3,0.5,0.6,0.8,0.8c0.3,0.2,0.7,0.3,0.9,0.2c0.2-0.1,0.4-0.6,0.3-0.9
+		C1623.8,572.7,1623.6,571.6,1623.4,570.4z M1655.6,573.5c-0.7,0.9-1.3,1.8-1.9,2.6c-0.1,0.1-0.1,0.3-0.1,0.4c0.2,1,0.5,2,0.8,3
+		c0.1,0.2,0.4,0.4,0.6,0.6C1656.1,579,1656.3,576.2,1655.6,573.5z M1632.2,591.1c0.6,1.4,1.4,2.7,2.9,3.3c0.1,0.1,0.3,0.1,0.4,0.1
+		c0.7,0.1,1.1-0.2,0.8-0.9c-0.2-0.6-0.4-1.2-0.7-1.7C1634.9,590.5,1633.8,590.2,1632.2,591.1z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1475.5,597.2c0.1,0.1,0.2,0.1,0.2,0.2c3.1,4.5,6.7,8.6,9.5,13.3
+		c1.1,1.9,2.6,3.6,4.2,5.2c0.4,0.4,0.8,0.6,1.3,1c0.3-0.7,0-1.1-0.3-1.4c-2.5-2.5-4.2-5.7-5.7-8.8c-1-2-1.9-4-3-6.2
+		c0.5,0.1,0.8,0.1,1.1,0.2c2.6,0.5,5.1,0.6,7.6-0.1c1.3-0.3,2.4-0.9,3.5-1.8c1.5-1.2,2.7-2.7,3.8-4.3c2-2.8,3.6-5.9,5.1-9
+		c0.9-1.9,1.8-3.7,2.7-5.6c0.9-1.9,2.4-3,4.5-3.4c0.2,0,0.4-0.1,0.7-0.2c0.1,0,0.1-0.1,0.2-0.1c-0.3-1.1-0.6-1.2-1.5-0.9
+		c-1.8,0.6-3.4,1.5-4.5,3.1c-0.7,1-1.3,2.1-2,3.2c-1.5,2.6-2.8,5.2-4.4,7.7c-1.1,1.9-2.5,3.6-3.8,5.3c-0.4,0.5-1,1-1.4,1.5
+		c-1.5,1.5-3.4,2.1-5.4,2.1c-3.9-0.1-7.3-1.4-10.2-4c-0.6-0.6-1.2-1.2-1.6-2c-0.8-1.4-1.8-2.6-3-3.6c-0.9-0.7-1.7-1.5-2.6-2.2
+		c-4.5-3.7-6.9-8.5-7.8-14.2c-0.7-4.5-0.5-9,1.1-13.3c0.1-0.1,0.1-0.3,0.2-0.4c0.6-1.7,0.9-1.8,2.7-1.6c1.9,0.2,3-0.6,3.4-2.4
+		c0.2-0.8,0.3-1.6,0.4-2.4c0.2-1.3,0.8-2.3,1.8-3.1c1.4-1.1,2.7-2.3,4-3.5c1.4-1.3,2.2-2.9,2.3-4.9c0.1-1.8,0.3-3.7,0.4-5.5
+		c0-0.3,0.1-0.6,0.2-1c1.6,0.2,2.8,1.4,4.4,1.3c0.2-0.6-0.2-0.9-0.5-1.1c-0.6-0.4-1.2-0.8-1.9-1.1c-0.7-0.3-0.9-0.8-0.9-1.6
+		c0.1-0.7,0.1-1.4,0.2-2.1c0.1-0.9-0.1-1.7-0.8-2.4c-0.4-0.4-0.9-0.9-0.8-1.7c0.3-0.1,0.7-0.2,1-0.2c0.9,0,1.5-0.4,1.8-1.3
+		c0.1-0.4,0.3-0.7,0.5-1c0.3-0.6,0.5-0.6,1.1-0.3c1.1,0.6,1.3,0.6,1.9-0.5c0.7-1.2,1.3-2.5,1.8-3.8c0.4-0.9,0.7-1.9,1.1-2.9
+		c0.2-0.5,0.5-0.9,1.1-0.9c0.9,0,1.5-0.5,1.8-1.2c0.3-0.7,0.6-1.5,0.9-2.2c0.3-0.7,0.4-0.8,1.2-0.6c0.6,0.2,1.1,0,1.4-0.5
+		c0.4-0.6,0.7-1.2,1-1.8c0.2-0.4,0.5-0.8,0.7-1.2c0.2,0.2,0.4,0.2,0.5,0.3c1,0.8,1.5,0.8,2.3-0.2c0.4-0.5,0.7-1,1.1-1.5
+		c0.2-0.2,0.4-0.5,0.6-0.7c0.4-0.4,0.8-0.3,1,0.3c0.2,0.5,0.3,1.1,0.6,1.8c0.5-0.5,0.8-0.7,1.1-1.1c0.7-0.8,1.2-0.9,2-0.2
+		c0.4,0.3,0.7,0.7,1,1.1c0.3,0.3,0.6,0.6,0.9,1c1.1-0.9,1-2.5,1.9-3.5c1.1,0.6,1.8,0,2.4-0.9c0.2-0.3,0.4-0.6,0.6-0.8
+		c0.1,0,0.2,0.1,0.2,0.1c-0.2,0.6-0.5,1.3-0.6,1.9c-0.1,0.6-0.3,1.2-0.2,1.8c0.5,2.7,0.3,5.4-0.4,8.1c-0.1,0.4-0.2,0.9-0.3,1.4
+		c0.8-0.2,0.9-0.7,1-1.1c0.2-1,0.4-2,0.5-2.9c0.1-0.4,0.1-0.7,0.2-1.1c0.6,0,0.7,0.5,0.9,0.8c0.5,1.1,1,2.2,1.5,3.3
+		c0.6,1.3,1.2,2.6,1.9,3.8c1,1.6,1.7,1.5,2.7,0c0.2-0.3,0.3-0.6,0.5-0.9c0.5-0.8,0.9-0.8,1.6-0.2c0.4,0.3,0.7,0.6,1,1
+		c0.3,0.3,0.6,0.6,0.9,0.9c0.7,0.6,1.3,0.5,1.7-0.3c0.3-0.4,0.5-1,0.7-1.5c0.1-0.4,0.2-0.7,0.3-1.1c0.2-0.6,0.1-1.5,0.9-1.6
+		c0.7-0.1,1.1,0.6,1.5,1.1c3.9,5,7.8,10.1,11.7,15.1c3.8,4.8,7.7,9.5,12,13.8c1,1.1,2.2,2.1,3.2,3.1c1.9,1.8,3.2,4,3.3,6.6
+		c0,0.8-0.1,1.7-0.3,2.5c-0.4,1.6-1.4,2.7-3,3.2c-2,0.7-4.2,1.1-6.3,1.3c-4,0.3-8,0.5-12.1,0.7c-1.5,0.1-3,0.1-4.5,0.3
+		c-2.1,0.2-3.9,1.3-5,3c0.6,0.8,0.8,0.9,1.3,0.4c1.5-1.6,3.5-2.1,5.6-2.2c1.3-0.1,2.6-0.1,3.9-0.1c4.5-0.1,9.1-0.1,13.6-0.2
+		c1.8-0.1,3.6-0.3,5.4-0.6c2.8-0.6,4.3-2.4,4.5-5.3c0-0.5,0-1,0-1.7c0.4,0.2,0.6,0.4,0.8,0.5c6.6,4.3,13.5,8,20.4,11.7
+		c0.8,0.4,0.9,0.5,1.9,0.5c-0.2-0.3-0.3-0.5-0.5-0.6c-0.5-0.3-1-0.7-1.6-1c-6.7-3.7-13-7.9-18.7-13c-1.9-1.7-3.6-3.6-5.4-5.5
+		c-0.2-0.2-0.4-0.5-0.7-0.9c0.5-0.1,0.9,0,1.3,0.1c2.5,0.6,4.8,1.6,7.1,2.8c6.3,3.3,12,7.5,17,12.7c1.2,1.2,2.2,2.6,3.3,4
+		c0.4,0.5,0.8,0.9,1.2,1.4c6.5,8.3,11,17.6,13.2,27.9c1.6,7.5,1,14.9-1.1,22.2c-1.1,3.8-2.6,7.4-4.6,10.8
+		c-3.7,6.1-8.8,10.8-15.2,13.8c-6.8,3.2-14,5.2-21.5,6c-9.3,0.9-18.5-0.2-27.4-3.1c-7.4-2.4-14.3-6-20.8-10.3
+		c-9.7-6.3-18.3-13.9-25.7-22.8c-3.8-4.6-6.8-9.7-9.1-15.3c-0.1-0.3-0.2-0.6-0.3-0.9C1475.4,597.3,1475.5,597.2,1475.5,597.2z
+		 M1557.2,606.2c0-6-1.2-9.8-3.6-13.1c-6.2-8.4-17.8-9.2-25-1.8c-6.8,7-6.9,18.9-0.1,26c6.6,6.9,17.1,6.9,23.7,0
+		C1555.6,613.7,1557.2,609.4,1557.2,606.2z M1470.7,569.9c-0.1,0-0.2,0.1-0.3,0.1c0,0.3,0,0.5,0,0.8c0.4,2.1,0.8,4.2,1.4,6.3
+		c0.7,2.6,1.6,5.2,3,7.6c1.3,2.3,3.3,3.4,5.9,3.5c2.7,0.1,5.1-0.6,7.4-1.8c2.4-1.2,4.5-2.8,6.5-4.5c0.4-0.3,0.7-0.7,1-1.1
+		c3.3-4.2,5.6-8.8,7.1-13.8c0.7-2.2,0.3-4.2-1-6.1c-0.9-1.3-1.9-2.4-3.3-3.2c-4-2.3-8.1-4.6-12.1-7c-1.4-0.8-2.6-0.7-3.8,0.3
+		c-1.8,1.5-3.6,3-5.4,4.4c-0.6,0.5-1,1.1-0.8,1.9c0.2,0.9-0.1,1.6-0.6,2.3c-0.6,0.9-1.2,1.9-1.8,2.9c-0.5,0.8-0.6,1.7-0.6,2.7
+		c0.2,1.9,0.3,3.7,0.5,5.6c0.2,2.3,0.4,4.6,0.5,6.9c0,0.4,0.1,0.8-0.3,1.4c-0.7-1.6-1.3-3.1-1.9-4.6
+		C1471.7,572.9,1471.2,571.4,1470.7,569.9z M1533.1,531.1c-0.1,0.1-0.2,0.2-0.2,0.2c0.2,0.3,0.4,0.7,0.7,1c1.7,2,3.5,4.1,5.2,6.1
+		c0.1,0.2,0.3,0.4,0.4,0.5c-0.6-0.3-1.1-0.6-1.6-1c-2.9-2.4-5.8-4.7-8.6-7.1c-1.1-1-2.3-1.5-3.8-1.4c-1.1,0-1.9-0.3-2.3-1.3
+		c-0.3-0.6-0.8-0.6-1.3-0.4c-1.1,0.5-2.2,1-3.3,1.4c-2.3,0.7-3.3,2.3-3.4,4.6c-0.3,5.1-0.6,10.2-0.9,15.3c0,0.6,0,1.2,0.2,1.7
+		c1,3.1,2.9,5.3,6.3,5.9c0.3,0.1,0.7,0.2,1,0.2c4,0.8,8,0.8,12,0.7c3.9-0.1,7.4-1.3,10.6-3.3c1-0.6,1.8-1.4,2.6-2.2
+		c1.6-1.7,2.4-5.1,0.5-7.7c-1.1-1.5-2.2-2.9-3.5-4.3c-3.1-3.2-6.6-6-10.1-8.7C1533.4,531.2,1533.2,531.2,1533.1,531.1z M1505,541.5
+		c0.4-1.1,0.5-2.1,0.5-3c0.1-4.1,0.2-8.2-0.5-12.3c-0.4-2.3-1.1-4.6-1.7-6.9c-0.1-0.3-0.5-0.8-0.8-0.9c-0.3,0-0.7,0.4-1,0.7
+		c-0.5,0.7-0.5,1.5-0.5,2.3c0.2,3.3,0,6.7-0.3,10c-0.1,0.9-0.3,1.9-0.5,3.1c-0.6-0.4-1-0.6-1.2-1c-0.8-0.9-1-2-0.8-3.1
+		c0.2-1.5,0.5-3,0.6-4.4c0.2-2,0.4-4,0.6-6.1c0-0.4,0.2-0.8-0.4-1.1c-0.4,0.3-0.4,0.8-0.4,1.2c0,1.5,0,3.1-0.1,4.6
+		c-0.1,1.5-0.5,3-0.8,4.5c-1.2-0.4-1.7-1.2-2-2.3c-0.3-1.1-0.7-2.3-1.2-3.4c-0.1-0.3-0.2-0.7-0.9-0.5c0,0.3,0,0.7,0.1,1
+		c0.5,1.3,1,2.6,1.5,4c0.2,0.5,0.4,0.9,0.9,1.3c0.5,0.4,0.9,0.9,1.2,1.5c0.8,1.4,0.8,2.9,0.6,4.5c0,0.2-0.2,0.5-0.3,0.7
+		c-0.8,0-1.2-0.5-1.6-0.9c-1.5-1.9-2.5-4-3.1-6.4c-0.1-0.4-0.1-0.8-0.3-1.1c-0.2-0.3-0.5-0.8-0.8-0.9c-0.5-0.2-0.7,0.3-0.9,0.7
+		c-0.2,0.4-0.4,0.9-0.6,1.4c-0.6,2-0.4,4.1,0.3,6c0.8,2.4,1.9,4.6,3.4,6.7c0.9,1.3,1.9,2.5,3.2,3.4c0.4,0.3,0.8,0.5,1.4,0.8
+		c0.1-0.4,0.3-0.7,0.3-1c0.1-0.4,0.1-0.8,0.1-1.3c0.1-1.1,0.3-1.3,1.6-1.5c0.7,1.5,1.4,3.1,2.2,4.6c0.1,0,0.2-0.1,0.2-0.1
+		c-0.1-0.3-0.2-0.6-0.3-0.8c-0.4-1.2-0.8-2.4-1.2-3.6c-0.2-0.6,0-0.9,0.5-1.2c0.6-0.3,1.1-0.4,1.6,0
+		C1504.2,541,1504.5,541.2,1505,541.5z M1534,571.9c0-0.1,0.1-0.2,0.1-0.3c-0.3-0.2-0.6-0.4-0.9-0.6c-3.1-1.6-6.3-2.9-9.6-3.8
+		c-2-0.5-4.1-0.7-6.2-0.5c-2.2,0.2-3.6,1.3-4.3,3.4c-0.2,0.5-0.3,1-0.4,1.6c-0.6,3.7-0.3,7.3,0.2,11c0,0.2,0.2,0.4,0.3,0.6
+		c0.6-0.3,0.5-0.9,0.5-1.3c0-2,0-3.9,0-5.9c0.1-1.7,0.3-3.4,0.8-5c0.5-1.4,1.4-2.2,2.9-2.5c1.8-0.4,3.7-0.2,5.5,0.1
+		c3.3,0.6,6.5,1.6,9.7,2.8C1533.2,571.6,1533.6,571.8,1534,571.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1497.8,480c-0.3-0.4-0.6-0.7-0.9-1c-0.6,0.2-0.9,0.7-1,1.2
+		c-0.3,0.8-0.6,1.6-0.9,2.4c-0.3,0.9-0.5,1-1.5,0.8c-0.5-0.1-0.9,0.1-1.2,0.5c-0.3,0.5-0.6,1.1-0.9,1.7c-0.1,0.2-0.2,0.5-0.3,0.8
+		c-0.5,1.5-0.6,1.5-2.2,1.1c-0.2,0.5-0.5,1-0.7,1.6c-0.4,1.3-0.7,2.7-1.1,4c-0.2,0.8-0.5,1.5-1.3,2c-0.2-0.1-0.4-0.3-0.6-0.5
+		c-0.1,0.1-0.2,0.1-0.3,0.2c-0.4,0.9-0.9,1.8-1.3,2.8c-1.4,3.8-2.8,7.6-4.3,11.4c-0.9,2.4-1.8,4.8-2.8,7.2
+		c-1.5,3.7-2.4,7.6-3.1,11.5c-0.9,5.6-1.7,11.3-2.1,17c0,0.6-0.1,1.2-0.9,1.5c-0.1-0.1-0.1-0.2-0.2-0.3c-0.5-3.4-0.9-6.8-1.3-10.3
+		c-0.4-3-0.9-6-1.4-9c-0.6-3.7-0.3-7.4,1.3-10.8c1.6-3.4,3.3-6.7,5-10.1c2.5-5.3,5-10.5,7.4-15.8c2-4.4,3.9-8.9,5.8-13.4
+		c1.8-4.2,3.8-8.2,6.8-11.7c2.9-3.3,6-6.2,9.4-9c0.6-0.5,1.3-0.9,2-1.3c1.2-0.5,2-0.3,2.9,0.7c0.9,1.1,1.5,2.4,1.7,3.9
+		c0.4,2.3,0.8,4.6,1.1,6.9c0.2,1.7,0.8,3.3,1.5,4.8c0.4,0.9,0.9,1.8,1.4,2.7c1.8,3,3.1,6.3,4.1,9.6c0.4,1.4,0.7,2.9,0.9,4.4
+		c0.2,2,0.2,4.1,0.3,6.1c0.2,5.8,0.4,11.7,1.4,17.4c0.2,0.9,0.3,1.9,0.5,2.8c-0.7,0.4-1.3,0.7-2,1.1c-0.1-0.7-0.3-1.4-0.4-2.1
+		c-0.9-5.4-1.8-10.8-3.2-16c-1.1-3.9-2.4-7.8-3.7-11.6c-0.2-0.6-0.6-1-0.9-1.6c-0.2-0.3-0.3-0.6-0.3-0.9c-0.1-0.6-0.1-1.1-0.1-1.7
+		c0-1-0.4-1.9-1.2-2.5c-0.7-0.6-1.3-1.2-1.1-2.3c-0.1,0-0.2,0-0.3,0c-0.3,0.3-0.5,0.6-0.8,0.9c-0.8-1.1-0.5-2.7-1.5-3.7
+		c-1.1,0.5-0.7,1.9-1.6,2.5c-0.1-0.1-0.1-0.2-0.2-0.2c-0.2-0.3-0.4-0.5-0.6-0.8c-0.3,0.2-0.7,0.4-0.8,0.7c-0.3,0.5-0.4,1-0.6,1.5
+		c-0.1,0.3-0.3,0.7-0.5,1.1c-0.4-0.6-0.7-1.1-1.1-1.7C1498.6,477.2,1498.9,479,1497.8,480z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1496.4,497.4c-0.3,2.5-0.6,5.1-1,7.6c-0.1,0.9-0.6,1.7-1.1,2.5
+		c-0.3,0.5-0.8,1-1.5,0.8c-0.7-0.2-1-0.7-1.1-1.3c-0.1-0.8-0.3-1.6-0.4-2.4c-0.2-1.7-0.4-3.5-0.7-5.3c-0.1-0.8,0-1.5,0.3-2.2
+		c0.7-1.5,1.8-2.8,3.1-3.8c0.1-0.1,0.3-0.2,0.5-0.3c1.1-0.7,1.8-0.3,1.8,1C1496.4,495.1,1496.3,496.3,1496.4,497.4
+		C1496.4,497.4,1496.4,497.4,1496.4,497.4z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1497.8,505.8c-0.9-1.1-1.2-2.3-1.1-3.6c0-1.9,0.2-3.8,0.3-5.7
+		c0-0.9,0.2-1.8,0.2-2.8c0-1.2,0.4-2.2,1.3-2.9c0.7-0.6,1.5-1.2,2.4-1.5c1-0.4,1.5,0.1,1.4,1.1c-0.4,3.9-0.7,7.8-1.7,11.6
+		c-0.2,0.9-0.7,1.8-1.1,2.6C1499.1,505.2,1498.6,505.7,1497.8,505.8z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1483.4,521.7c-0.8-1.2-1-2.5-1.1-3.7c-0.3-3.6-0.1-7.3,0.4-10.9
+		c0.1-0.3,0.2-0.6,0.3-1c0.7,0.1,0.9,0.5,1.1,1c0.3,0.9,0.6,1.8,0.9,2.7c0.4,1.3,0.7,2.7,1.7,3.7c0.3,0.3,0.4,0.9,0.3,1.3
+		c-0.4,2.5-1.4,4.6-3,6.5C1483.9,521.5,1483.7,521.6,1483.4,521.7z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1489.5,499.7c0.6,1.1,0.7,2.2,0.8,3.3c0.2,1.9,0.4,3.9,0.5,5.8
+		c0,0.8-0.1,1.7-0.3,2.5c-0.4,1.2-1.4,1.5-2.3,0.6c-1.9-1.9-2.8-4.3-2.7-7c0-0.2,0-0.3,0.1-0.4c0.9-1.7,1.9-3.3,3.4-4.6
+		C1489.1,499.8,1489.2,499.8,1489.5,499.7z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1507.3,505.4c-0.9-0.3-1.5-0.8-2-1.4c-0.5-0.6-0.7-1.2-0.5-2
+		c1-4.5,1.6-9,2.1-13.5c0-0.2,0.1-0.4,0.1-0.6c0.7,0.1,0.8,0.6,1,1c0.3,1.1,0.6,2.2,0.6,3.3c0.3,3.6,0.3,7.3-0.4,10.9
+		C1508.1,504.3,1508,504.6,1507.3,505.4z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1502.4,504.3c-0.7-0.6-0.7-1.3-0.7-1.9c0-1.6,0-3.3,0.2-4.9
+		c0.3-2.2,0.7-4.3,1.1-6.4c0.1-0.4,0.2-0.8,0.4-1.2c0.2-0.5,0.5-0.9,1.2-0.9c0.5,0,1.1,0.5,1.2,1.1c0.1,0.5,0.1,1,0.1,1.5
+		c-0.1,2.8-0.7,5.6-1.4,8.4c-0.2,0.9-0.5,1.9-0.8,2.8C1503.5,503.3,1503.2,503.9,1502.4,504.3z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1480.4,514c0.2,0.4,0.4,0.8,0.5,1.2c0.3,1.7,0.7,3.5,0.9,5.2
+		c0.1,1.5-0.7,2.7-1.8,3.6c-0.7,0.6-1.3,0.3-1.3-0.6c-0.1-1.1-0.1-2.3,0.1-3.4c0.2-1.6,0.6-3.2,1-4.8c0.1-0.4,0.3-0.8,0.5-1.2
+		C1480.2,514,1480.3,514,1480.4,514z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1510.2,492.9c0.3,0.5,0.5,0.8,0.6,1.1c0.7,2.3,1.1,4.6,0.9,7
+		c-0.1,0.9-0.4,1.6-1.3,2c-0.6,0.3-0.9,0.2-1.1-0.5c-0.1-0.4-0.1-0.8-0.1-1.1c0.1-2.1,0.1-4.2,0.2-6.3
+		C1509.6,494.4,1509.5,493.7,1510.2,492.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1493.8,490.7c0.2-1.2,0.3-2.2,0.5-3.3c0.3-1.5,0.7-3,1.1-4.5
+		c0.2-0.7,0.6-1.3,1.6-1.5c0.1,0.4,0.3,0.8,0.3,1.2c0,1.8-0.1,3.6-0.2,5.4c0,0.2-0.1,0.5-0.2,0.6
+		C1495.9,489.3,1495.1,490.1,1493.8,490.7z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1497.5,488.2c0.2-2.6,0.4-4.9,1-7.1c0.2-0.7,0.5-1.5,1.4-1.8
+		c0.2,0.4,0.4,0.8,0.4,1.2c0.1,1.8,0.2,3.5,0.2,5.3c0,0.3-0.1,0.6-0.3,0.8C1499.5,487.1,1498.6,487.5,1497.5,488.2z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1490,494.5c0.4-1.7,0.7-3.5,1.2-5.2c0.3-1.2,0.7-2.4,1.2-3.6
+		c0.2-0.6,0.6-1.1,1.5-1.3c0,0.4,0.1,0.7,0.1,1.1c-0.3,1.9-0.6,3.8-0.9,5.7c0,0.3-0.2,0.6-0.4,0.8c-0.8,0.9-1.6,1.7-2.4,2.6
+		C1490.2,494.6,1490.1,494.5,1490,494.5z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1504,484.6c-0.9,0.4-1.7,0.8-2.6,1.2c-0.1-0.3-0.2-0.6-0.2-0.8
+		c0-1.6,0-3.2,0.2-4.8c0.1-0.6,0.4-1.2,0.7-1.8c0.1-0.2,0.6-0.5,0.8-0.4c0.3,0.1,0.5,0.5,0.7,0.8c0.1,0.2,0.1,0.4,0.1,0.7
+		C1503.9,481.1,1503.9,482.8,1504,484.6z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1486.5,499.5c0.2-1.1,0.2-2.2,0.5-3.2c0.5-1.7,1-3.5,1.6-5.2
+		c0.2-0.7,0.5-1.3,1.4-1.6c0.1,0.3,0.2,0.6,0.2,0.9c0,2-0.4,4-1,6C1488.9,497.1,1487.1,499.1,1486.5,499.5z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1505.4,476c0.3,0.4,0.6,0.7,0.7,1.1c0.2,0.6,0.4,1.3,0.5,2
+		c0.1,1.6,0.2,3.1,0.3,4.8c-0.7,0.1-1.4,0.2-2,0.3C1504,482.1,1504.2,477.1,1505.4,476z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1483.1,504.1c-0.3-2.6,1.3-7.1,2.7-7.9c0.1,0.4,0.3,0.8,0.3,1.2
+		c0,1-0.1,2.1-0.2,3.1c0,0.2-0.1,0.4-0.2,0.5C1484.9,502,1484,503,1483.1,504.1z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1477.7,528.9c1,0.6,1.4,1.4,1.6,2.3c0.1,0.4,0,1-0.2,1.3
+		c-0.5,0.6-0.7,1.2-0.8,1.9c-0.1,0.7-0.4,0.9-1,0.8c-0.6,0-0.8-0.4-0.8-0.9C1476.4,532.4,1476.8,530.6,1477.7,528.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1513.8,510.6c-0.3-0.7-0.5-1.5-1.5-1.5c0-1.7-0.4-3.4,0.4-5
+		c0.8,0.1,1.1,0.7,1.3,1.2c0.5,1.4,0.6,2.9,0.6,4.4C1514.6,510.3,1514.4,510.6,1513.8,510.6z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1507.1,481.3c0-0.6,0-1.2,0.1-1.7c0.1-0.5,0.6-0.7,1-0.4
+		c0.3,0.3,0.6,0.6,0.8,1c0.3,0.9,0.6,1.9,0.7,2.9c0.1,0.9,0,1-0.7,1.2c-0.8,0.1-1.4-0.1-1.6-0.8
+		C1507.2,482.8,1507.2,482,1507.1,481.3z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1605.4,478.8c-0.1,4.9-1.9,9.6-5.9,13.2
+		c-6.7,6.2-16.6,5.8-22.9-0.8c-6.6-6.9-6.8-18.3-0.4-25.4c7-7.8,18.8-7.4,25.2,0.9C1604.1,470.1,1605.3,474,1605.4,478.8z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1625.6,540.9c1.3,0.4,2.5,1.6,3.6,0c-0.7-1.5-1.4-3.1-2.1-4.7
+		c0.1,0,0.1-0.1,0.2-0.1c0.9,1.4,1.7,2.9,2.6,4.3c1.3-0.3,1.4-0.4,1.4-1.7c0-0.6,0-1.1,0-1.9c0.5,0.2,0.9,0.3,1.2,0.4
+		c0.6,0.4,1.3,0.7,1.8,1.2c3.4,3,5.9,6.5,7.5,10.7c0.5,1.2,0.5,2.4,0.2,3.6c-0.1,0.2-0.1,0.4-0.2,0.7c-0.4,0.9-0.9,1-1.5,0.2
+		c-0.3-0.3-0.5-0.7-0.6-1.1c-0.9-2.1-2.3-3.9-3.9-5.5c-0.6-0.6-1.1-1.2-2-1.3c-0.1,0.2-0.3,0.3-0.3,0.5c-0.1,2.2,0.7,4.6,2.9,5.7
+		c0.4,0.2,0.7,0.5,1,0.9c0.8,1.3,1.6,2.5,2.4,3.8c0.1,0.2,0.2,0.5,0.2,0.8c-0.6,0.3-0.8-0.1-1-0.3c-0.6-1-1.4-1.9-1.8-2.9
+		c-0.5-1.1-1.2-1.7-2.4-2c0,0.2-0.1,0.5-0.1,0.7c-0.2,2.5,0,4.9,0.8,7.3c0.2,0.7,0.2,0.7-0.3,1.4c-0.2-0.5-0.4-0.8-0.5-1.2
+		c-0.6-2.7-0.7-5.5-0.7-8.2c0-0.9-0.1-1.8-0.5-2.7c-0.4-0.9-1.1-1.6-2.2-1.9c-0.5,0.4-0.3,1-0.3,1.5c0.2,3.3,0.6,6.6,1.4,9.8
+		c0.1,0.4,0.3,0.8,0.3,1.2c0,0.5-0.2,1.1-0.5,1.5c-0.4,0.5-0.8,0.5-1.3,0c-0.2-0.2-0.4-0.5-0.5-0.7c-2.3-3.5-3.6-7.3-4.3-11.3
+		c-0.4-2.3-0.5-4.6-0.8-7C1625.5,542,1625.6,541.5,1625.6,540.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1653.3,504.7c0.5,0.9,1.2,1.7,1.3,2.8c0.5,3.2,0.8,6.5,1.3,9.7
+		c0.1,1,0,1.9-0.5,2.7c-0.6,1-1.2,2-1.8,2.9c-0.5,0.7-0.8,1.4-0.6,2.3c0.2,0.9-0.1,1.5-0.8,2.1c-1.7,1.4-3.4,2.8-5.1,4.3
+		c-1.1,0.9-2.2,1-3.4,0.4c-4.5-2.4-9-4.8-13.5-7.3c-2.7-1.5-4.2-5.3-3.6-8.3c1.1-5.2,3.1-10.1,6.3-14.3c3-3.9,6.9-6.7,12-7.6
+		c1.7-0.3,3.5-0.2,5.1,0.4c0.8,0.3,1.6,0.9,2.3,1.5c1.3,1.2,2.2,2.7,3,4.3c1.8,3.6,2.9,7.5,3.8,11.4c0,0.2,0,0.4-0.3,0.6
+		c-0.1-0.2-0.3-0.4-0.4-0.6c-1.2-3.6-3-6.9-4.7-10.2c-0.5-0.9-1-1.7-1.6-2.5c-1.3-1.8-3-2.6-5.2-2.7c-2.1-0.1-4.1,0.3-6,1.3
+		c-3.6,2-6.7,4.5-8.7,8.3c-1.7,3.3-3.2,6.6-3.8,10.2c-0.2,1.3-0.1,2.4,0.5,3.6c0.8,1.7,1.9,3.1,3.6,3.9c3.5,1.8,6.9,3.7,10.3,5.6
+		c1.7,1,3.1,0.8,4.5-0.5c1.3-1.2,2.6-2.2,4-3.3c0.6-0.5,0.8-1,0.6-1.7c-0.2-0.8,0.1-1.5,0.6-2.1c2.2-3.2,2.2-3.2,1.7-7.1
+		c-0.3-2.8-0.7-5.6-1.1-8.3c-0.1-0.5-0.1-1-0.1-1.5C1653.1,504.7,1653.2,504.7,1653.3,504.7z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1597.1,552.2c-0.2-0.1-0.4-0.1-0.6-0.2
+		c-3.6-2.6-7.2-5.3-10.3-8.5c-1-1-1.9-2.1-2.6-3.2c-2-2.9-1.8-6.3,0.5-8.9c0.9-1,2-1.9,3.2-2.6c3-1.9,6.3-3.1,10-3.2
+		c4.2-0.2,8.3,0,12.4,0.8c3.5,0.7,5.5,3,6.5,6.3c0.1,0.4,0.2,0.8,0.2,1.2c0.1,4.5,0.1,8.9,0.2,13.4c0,0.9-0.1,1.8-0.1,2.8
+		c-0.1,1.2-0.6,2-1.7,2.5c-1.6,0.7-3.2,1.4-4.7,2.1c-0.7,0.3-1.2,0.2-1.6-0.4c-0.5-0.8-1.3-1-2.2-0.9c-0.5,0.1-1.1,0-1.6,0
+		c-1-0.1-1.9-0.3-2.7-0.9c-2.3-1.7-4.6-3.2-6.8-5c-1.2-1-2.3-2.2-3.4-3.3c0.1-0.1,0.1-0.2,0.2-0.2c0.5,0.3,1,0.6,1.4,0.9
+		c2.7,1.9,5.4,3.8,8.1,5.8c1.2,0.9,2.5,1.4,4,1.2c1-0.1,1.9,0.1,2.5,1c0.3,0.4,0.7,0.4,1.1,0.2c1.5-0.7,3-1.3,4.5-2
+		c0.9-0.4,1.3-1.3,1.3-2.3c0.1-1.8,0.1-3.7,0.1-5.5c0-2.8-0.1-5.5-0.2-8.3c-0.1-3-2.3-5.9-5.2-6.7c-3.4-0.9-6.8-1.1-10.3-1
+		c-0.9,0-1.8,0.1-2.8,0.2c-3.4,0.4-6.3,1.8-9,3.8c-1.9,1.4-2.9,3.2-2.9,5.6c0,1.1,0.3,2.1,0.9,3c1,1.7,2.3,3,3.7,4.4
+		c0.7,0.6,1.3,1.3,2.1,1.8c2.1,1.6,3.7,3.5,5.5,5.4c0.2,0.2,0.3,0.5,0.5,0.7C1597.2,552.1,1597.2,552.2,1597.1,552.2z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1597.5,510.8c0.4,0.2,0.8,0.3,1.2,0.5c2.8,1.2,5.6,2.2,8.5,2.8
+		c1.8,0.4,3.6,0.5,5.5,0.1c1.4-0.3,2.2-1.1,2.7-2.4c0.6-1.9,0.9-3.8,1-5.8c0.1-1.8,0-3.6,0.1-5.4c0-0.5-0.1-1.1,0.5-1.5
+		c0.1,0.2,0.3,0.4,0.3,0.6c0.4,3.7,0.8,7.5,0.1,11.2c-0.2,0.8-0.4,1.6-0.7,2.4c-0.6,1.5-1.7,2.4-3.3,2.7c-1.9,0.4-3.8,0.2-5.7-0.3
+		c-3.4-0.8-6.5-2.3-9.5-4.1c-0.3-0.2-0.5-0.4-0.7-0.6C1597.4,510.9,1597.5,510.8,1597.5,510.8z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1684.6,187.2c-0.2,23.1-5.5,44.9-16.9,65
+		c-11.9,21-28.6,37.1-50.1,48.1c-10.5,5.4-21.7,8.9-33.4,10.8c-8.2,1.3-16.5,1.8-24.8,1.3c-22.4-1.4-42.7-8.6-60.8-22
+		c-20.8-15.4-35.3-35.5-44-59.8c-3.2-9-5.4-18.2-6.6-27.6c-1.1-8.5-1.5-17.1-0.9-25.6c2-28.8,11.8-54.4,30.4-76.5
+		c15.8-18.8,35.7-31.4,59.5-37.8c7-1.9,14.2-3,21.4-3.4c16.6-1,32.5,1.9,47.9,7.9c7.5,2.9,14.6,6.4,21.3,10.8
+		c15.4,10.1,27.8,23,37.4,38.7c8.6,14,14.3,29.2,17.3,45.3C1683.9,171.2,1684.6,178.8,1684.6,187.2z M1683,187
+		c0-7.9-0.7-15.7-2.1-23.5c-2.9-16-8.4-31-16.9-44.9c-9.5-15.6-21.8-28.6-37.1-38.6c-6.7-4.4-13.9-7.9-21.4-10.8
+		c-10.8-4.1-21.8-6.8-33.3-7.6c-10.3-0.7-20.6,0-30.7,2.3c-22.6,5.1-42,16-57.9,32.7c-22.7,23.9-34,52.6-35.2,85.4
+		c-0.5,12.6,1.1,25,4.3,37.2c6,22.7,17.1,42.5,34,58.9c9.1,8.9,19.4,16.2,30.9,21.7c12.4,6,25.6,9.4,39.4,10.5
+		c8.7,0.7,17.3,0.4,26-0.9c11.8-1.8,23.1-5.3,33.8-10.7c23.5-11.8,40.9-29.7,52.6-53.1C1678.6,227.2,1683,207.6,1683,187z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1567.4,67.6c-0.5,0.1-0.9,0.3-1.4,0.4
+		c-13,3.7-23.6,10.8-31.4,21.9c-5,7.1-8.2,15.1-9.5,23.7c-2.1,13.6,0.3,26.5,6.3,38.8c7.7,15.5,19.5,26.9,34.9,34.6
+		c14.7,7.4,26.1,18.3,33.8,32.8c3.9,7.3,6.4,15.1,7.4,23.4c1.4,11.6-0.2,22.8-5.4,33.3c-4,8-10.2,13.8-18.1,17.9
+		c-5.9,3.1-12.2,4.8-18.7,5.8c-5.9,0.9-11.8,1.1-17.8,0.6c-9.2-0.6-18.2-2.5-27-5.6c-0.9-0.3-1.8-0.8-2.7-1.3
+		c-19.8-10.3-35.3-25.3-46.6-44.5c-7.6-12.8-12.6-26.6-15.2-41.2c-1.6-8.8-2.3-17.7-2-26.6c1.3-30.6,11.8-57.5,32.9-80
+		c14.6-15.6,32.4-26,53.1-31.3c8.8-2.2,17.7-3.2,26.8-3.1c0.2,0,0.4,0,0.6,0C1567.4,67.5,1567.4,67.6,1567.4,67.6z M1524.2,160.9
+		c-0.1,0-0.2-0.1-0.2-0.1c-0.3-0.9-0.6-1.9-0.9-2.8c-1.3-4.3-1.8-8.7-2.1-13.2c-0.2-3.4-0.3-6.8-0.5-10.2c-0.1-2-0.3-4.1-0.5-6.1
+		c-0.3-3.1-1.4-6-3-8.6c-1.3-2.1-2.1-4.4-2.5-6.9c-0.6-3.3-1.2-6.6-1.8-9.8c-0.4-2-1-4-2.1-5.8c-0.7-1.2-1.5-2.2-2.8-2.8
+		c-0.8-0.4-1.6-0.5-2.4,0.1c-1.2,0.9-2.5,1.8-3.6,2.8c-2.9,2.6-5.7,5.3-8.5,7.9c-0.7,0.7-1.3,1.4-1.9,2.1c-2,2.6-3.3,5.5-4.6,8.5
+		c-1.5,3.3-2.9,6.7-4.4,10c-0.9,2.1-1.9,4.1-2.7,6.2c-2.3,5.9-4.6,11.8-7.5,17.4c-1.5,2.9-3,5.8-4.4,8.7c-1.8,3.6-2.7,7.4-2.3,11.5
+		c0.2,2.6,0.6,5.1,1,7.6c0.4,3.1,0.7,6.2,1.2,9.4c0.4,2.5,0.9,5,0.9,7.5c0,0.2,0,0.4,0.1,0.6c0.6,0.6,0.2,1.2,0,1.8
+		c-0.4,1.3-0.9,1.4-2,0.8c-0.2-0.1-0.4-0.3-0.6-0.4c-1.1-0.8-1.6-0.7-2.3,0.4c-0.5,0.9-1,1.8-1.3,2.8c-2.1,6.2-2.4,12.5-1.2,18.8
+		c1,5.1,3.2,9.5,7,13.2c1.4,1.4,2.6,3,3.9,4.5c0.2,0.2,0.4,0.5,0.5,0.8c1,2.7,2,5.4,3,8.1c3,8.6,7.9,16.1,14.3,22.6
+		c3.1,3.2,6.4,6.1,9.8,8.9c9.3,7.3,19.4,13.3,30.6,17.2c8.6,3,17.5,4.6,26.7,4.3c8.8-0.2,17.2-2.2,25.3-5.8
+		c7.8-3.5,13.5-9.1,17.3-16.6c2.4-4.8,3.9-10,5-15.3c1.4-6.8,1.4-13.6,0-20.3c-2.1-9.7-6-18.7-11.7-26.8c-3.4-4.8-7.3-9.1-12-12.6
+		c-3.9-2.9-8-5.4-12.4-7.5c-4.3-2.1-8.7-3.9-13.4-4.9c-0.3-0.1-0.7-0.4-0.9-0.6c-4-4.5-8-9.1-11.9-13.6c-2.2-2.5-4-5.1-5.5-8.1
+		c-0.7-1.4-1.5-2.8-2.3-4.1c-1-1.6-2.1-3.2-3.2-4.7c-0.5-0.7-1.2-1.3-1.9-1.8c-1.3-0.9-2.5-0.7-3.3,0.7c-0.4,0.8-0.6,1.7-0.9,2.6
+		C1524.5,159.8,1524.3,160.3,1524.2,160.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1661.1,175.2c0.3,0.7,0.5,1.2,0.6,1.7c0.4,1.6,0.8,3.3,1.2,4.9
+		c0.6,2,1.2,4,1.9,6c0.9,2.7,1.8,5.4,2.8,8.2c0.8,2.1,1.5,4.3,1.8,6.5c0.4,2.6,0,5.1-0.8,7.6c-1.2,3.4-2.3,6.7-3.5,10.1
+		c-1.2,3.6-1.7,7.4-2.4,11.1c-0.4,2.3-1.1,4.6-1.6,7c-0.6,2.8-1.1,5.6-1.7,8.3c-0.2,1-0.5,1.9-0.9,2.9c-0.5,1.3-1.2,2.4-2.2,3.4
+		c-2.5,2.4-4.9,4.8-7.4,7.1c-1.1,1-2.4,1.9-3.7,2.8c-0.5,0.4-1,0.4-1.5,0.1c-0.8-0.4-1.7-0.8-2.3-1.4c-1.5-1.4-2.9-2.8-4.2-4.4
+		c-2.1-2.5-4.1-5.1-6.1-7.7c-1.8-2.3-3.7-4.3-6.1-5.9c-3.3-2.3-5.5-5.4-6.7-9.2c-1.3-4.1-2.6-8.2-4-12.3c-1.3-4-2.8-7.9-5.1-11.4
+		c-0.2-0.3-0.4-0.7-0.6-1.2c-0.2,0.2-0.4,0.4-0.4,0.6c-0.1,0.6-0.2,1.1-0.3,1.7c-0.4,2.8-2.1,3.7-4.5,2.2c-1.5-0.9-2.8-2-4-3.2
+		c-2.1-2.1-4-4.4-6.1-6.6c-1.2-1.3-2.4-2.7-3.7-4c-4.3-4.3-8.1-9-11.7-13.9c-0.6-0.9-1.1-1.9-2-2.5c-0.8-0.6-1.9-0.6-2.9-0.9
+		c-5.1-1.6-9.8-4.2-14.4-7c-12.3-7.5-20.1-18.5-24.7-31.9c-2.1-6.2-3.4-12.5-3.5-19c-0.1-5.4,0.8-10.5,2.3-15.6
+		c2.2-7.1,5.2-13.7,9.7-19.6c6.1-8.1,14.1-13.6,23.6-17.1c6.8-2.5,13.9-3.7,21.1-3.4c9.5,0.4,18.4,3,26.8,7.4
+		c11.4,6,20.9,14.2,28,24.9c3.2,4.8,5.3,10.2,7,15.7c0.6,2.1,1.3,4.2,1.9,6.3c0.9,2.9,2.3,5.5,3.5,8.3c0.8,1.8,2,3.3,3.4,4.7
+		c1.2,1.1,2.4,2.2,3.6,3.2c5.4,4.5,8,10.4,8.5,17.2c0.4,4.6-0.1,9.2-1.7,13.6c-0.4,1.1-0.9,2.1-1.5,3.1c-0.8,1.3-1.5,1.4-2.8,0.6
+		c-0.4-0.2-0.7-0.4-1.1-0.6c-0.9-0.4-1.5-0.2-1.9,0.8C1661.2,174.6,1661.1,175,1661.1,175.2z M1647.7,208.8c0.1-0.4,0.2-0.7,0.3-1
+		c0.2-0.9,0.3-1.8,0.5-2.7c0.2-1,0.5-2,0.9-2.9c0.4-0.8,0.7-0.9,1.6-0.5c0.3,0.1,0.7,0.3,1.1,0.4c0.2-0.5,0.3-0.9,0.4-1.3
+		c0.3-1.1,0.4-1.2,1.6-1.3c0.3,0,0.6-0.1,1.2-0.2c-0.4-0.5-0.6-0.9-0.9-1.1c-1.4-0.9-2-2.2-2-3.8c0-0.2-0.1-0.4-0.1-0.6
+		c0-0.8-0.4-1.3-1.1-1.6c-0.7-0.3-1.4-0.6-2.1-1c-0.3-0.2-0.6-0.5-0.9-0.8c0-0.1,0.1-0.2,0.1-0.3c1.6-0.1,2.9,1,4.6,1.1
+		c-0.1-0.7-0.1-1.3-0.1-1.9c-0.1-1.3-0.2-2.7-0.4-4c-0.2-2,0.5-3.6,2-4.9c1-0.9,2-1.9,3.1-2.7c1.1-0.9,1.8-2,1.9-3.4
+		c0.1-0.7,0.2-1.4,0.4-2.2c0.4-1.6,1.5-2.5,3.2-2.4c0.3,0,0.6,0.1,0.9,0.1c1.6,0.2,2,0,2.6-1.6c1.6-3.7,2.1-7.5,1.7-11.5
+		c-0.7-6.4-3.3-11.8-8.6-15.7c-1.5-1.1-3.1-2.2-4.7-3.4c-1.2-0.8-2.2-1.8-3.1-2.9c-3-4.1-7.1-6.1-12-6.6c-1.8-0.2-3.5,0.4-4.8,1.8
+		c-0.5,0.5-1,1-1.4,1.6c-1.1,1.6-2.2,3.2-3.1,4.9c-1.4,2.7-2.7,5.5-4.1,8.3c-0.6,1.2-1.2,2.5-1.9,3.7c-1,1.6-2.4,2.6-4.1,3.1
+		c-1,0.3-1.2,0-1.3-1.1c0,0,0.1-0.1,0.1-0.1c0.1,0,0.2-0.1,0.3-0.1c2.2-0.4,3.6-1.7,4.5-3.7c0.6-1.4,1.2-2.8,1.7-4.1
+		c1.5-3.6,3-7.2,5.1-10.6c1-1.6,2-3.1,3.4-4.3c1.1-1,2.3-1.7,3.7-2c1.9-0.4,3.7-0.3,5.6,0.2c0.4,0.1,0.7,0.1,1,0.2
+		c-0.7-2.3-1.4-4.4-2-6.6c-0.9-3.1-1.2-6.3-2.9-9.2c-0.2-0.3-0.3-0.7,0.2-1.1c0.3,0.4,0.7,0.7,0.9,1.1c1.3,1.9,2,4,2.6,6.2
+		c0.6,2.6,1.7,5.1,3.2,7.4c1.5,2.3,3.4,4.1,5.4,5.9c0-0.3-0.1-0.5-0.2-0.7c-1.4-3.2-2.8-6.4-4.3-9.6c-1.7-3.7-3.4-7.5-5.3-11.1
+		c-3.5-6.3-8.1-11.9-13.3-16.8c-6.4-6.1-13.5-11-21.8-14.1c-7.8-3-15.9-4.2-24.3-3.3c-6.2,0.7-12.1,2.4-17.8,5
+		c-12.2,5.6-21.2,14.3-26.6,26.7c-3.6,8.2-5.1,16.7-3.7,25.6c1.5,9.6,5,18.3,10.4,26.3c0.4,0.6,0.9,1.1,1.3,1.6c1,1.4,1.9,2.8,3,4.1
+		c4.4,5.2,9.5,9.6,15.4,13.1c2.2,1.3,4.5,2.4,7,3.1c0.4,0.1,0.8,0.2,1.4,0.3c-0.3-0.5-0.4-0.7-0.6-0.9c-1.4-1.8-2.8-3.6-4.3-5.2
+		c-5.3-5.7-11.5-10.3-18.1-14.3c-0.5-0.3-1-0.7-1.5-1c-0.1-0.1-0.2-0.3-0.3-0.6c0.8-0.1,1.3,0.2,1.8,0.5c6.5,3.9,13.1,7.8,19.2,12.3
+		c0.2,0.1,0.4,0.2,0.6,0.4c0.1-0.7,0.2-1.4,0.3-2c0.4-2.2,1.7-4.8,5.2-5.3c0.5-0.1,1-0.2,1.5-0.2c2.4-0.2,4.9-0.4,7.4-0.4
+		c3.9-0.1,7.8,0,11.7,0c1,0,2.1-0.1,3.1-0.4c1.3-0.3,2.5-0.9,3.3-2c0.3-0.4,0.7-0.3,1,0c0.3,0.2,0.3,0.5,0,0.8
+		c-1.2,1.4-2.6,2.5-4.5,2.7c-1.1,0.1-2.3,0.2-3.4,0.3c-4.1,0.2-8.2,0.4-12.3,0.7c-2.1,0.1-4.2,0.6-6.2,1.3c-2,0.7-3.2,2.1-3.7,4.1
+		c-0.8,3.2,0,6.1,2.2,8.5c2.5,2.8,4.6,5.9,6.9,8.9c1.9,2.6,3.8,5.2,6.1,7.5c4.5,4.7,9.3,9.2,14.3,13.4c0.6,0.5,1.3,1.1,2,1.6
+		c1.1,0.7,1.7,0.5,1.9-0.8c0.1-0.8,0.2-1.5,0.5-2.2c0.4-1.2,1.2-1.5,2.3-0.8c0.7,0.4,1.3,0.9,2,1.3c1.1,0.6,1.5,0.5,2.1-0.6
+		c1.1-2,1.9-2.2,3.5-0.5c1,1,1.9,2.2,2.9,3.3c0.7,0.8,1.3,1.7,2,2.5c0.2,0.3,0.4,0.7,1,0.5c0-0.4,0-0.8,0-1.3c0-0.7,0-1.5,0-2.2
+		c0-0.5,0.1-1,0.9-1.1c0,0.6,0,1.1-0.1,1.6c-0.2,2.2,0.1,4.3,1.1,6.3c0.4,0.8,0.5,1.5,0.3,2.3c-0.1,0.4-0.1,0.9-0.2,1.3
+		c0.1,0.1,0.2,0.1,0.2,0.2c0.8-1,1.4-2.6,3.2-1.7c0.2-0.7,0.3-1.3,0.5-1.8c0.3-1.4,0.6-1.5,1.7-0.7c0.7,0.4,1.5,0.9,2.2,1.2
+		c0.5,0.3,1,0.1,1.5-0.3c0.3-0.3,0.6-0.8,1-0.9c0.6-0.1,0.7,0.6,0.9,1c0.6,0.8,1.1,0.8,1.7,0c0.3-0.4,0.5-0.9,0.8-1.4
+		c0.6-0.9,1.2-1,2.2-0.5c0.3,0.1,0.5,0.3,0.9,0.4c0.3-0.7,0.5-1.4,0.7-2c0.4-1,0.7-1.2,1.8-1c0.7,0.1,0.8,0,1-0.8
+		c0.1-0.6,0.3-1.2,0.4-1.8c0.2-0.7,0.7-1,1.4-1.1C1647,208.8,1647.3,208.8,1647.7,208.8z M1612.5,211.6c0.6,1.4,1.2,2.6,1.7,3.8
+		c1.2,3.3,2.3,6.6,3.4,9.9c0.8,2.6,1.5,5.1,2.3,7.7c0.6,1.9,1.6,3.5,2.9,5.1c2.1,2.4,4.3,4.7,7,6.5c0.7,0.5,1.4,1.1,2.1,1.6
+		c1.6,1.2,3.1,2.7,4.3,4.3c1.1,1.5,2.3,3.1,3.5,4.6c0.5,0.7,1.1,1.4,1.8,1.9c1.3,1.2,2.9,1.5,4.5,0.7c0.9-0.4,1.8-1,2.6-1.6
+		c1.8-1.5,3.5-3.1,5.3-4.7c1.4-1.3,2.5-2.9,3.2-4.8c0.5-1.5,1-3.1,1.3-4.6c0.8-3.9,1.3-7.9,2.3-11.7c1.6-6,3.1-12,5.3-17.9
+		c0.4-1.1,0.7-2.3,1.1-3.5c0.9-3,0.8-6.1-0.3-9c-0.3-0.8-0.6-1.7-0.9-2.5c-1.1-2.6-2.1-5.3-2.9-8c-1-3.3-2.1-6.6-3.1-9.9
+		c-0.1-0.3-0.2-0.5-0.3-0.9c-0.3,0.3-0.6,0.5-0.8,0.8c-2,1.9-2,1.9-1.5,4.7c0.9,5,1.7,10.1,2.5,15.1c0.3,2.2,0.5,4.4,0.1,6.7
+		c-0.6,3.3-1.3,6.6-1.9,9.8c-0.5,2.5-1.1,4.9-1.2,7.5c0,0.9-0.4,1.7-0.6,2.6c0,0.1-0.1,0.2-0.2,0.3c-0.3-0.2-0.5-0.3-0.8-0.4
+		c-0.7,0.6-0.8,1.3-0.8,2.1c0,0.9,0,1.8,0,2.6c0,0.5,0,1-0.5,1.4c-0.1,0-0.3-0.1-0.5-0.1c-0.8-0.2-1-0.1-1.1,0.7
+		c-0.1,0.4-0.1,0.8-0.1,1.3c-0.2,1.3-0.4,1.4-1.8,1.3c-0.6-0.1-0.8,0-0.9,0.7c-0.1,0.3-0.1,0.6-0.1,0.9c0,0.4,0,0.8-0.1,1.1
+		c-0.2,0.7-0.6,0.8-1.2,0.5c-0.3-0.2-0.5-0.3-0.9-0.6c-0.1,0.5-0.3,0.8-0.3,1.1c-0.1,0.3,0,0.6-0.1,0.9c-0.2,0.9-0.7,1-1.4,0.5
+		c-0.3-0.2-0.6-0.5-1.1-0.8c-0.1,0.4-0.2,0.7-0.2,0.9c-0.1,0.3-0.1,0.6-0.2,0.9c-0.2,0.9-0.7,1.1-1.5,0.6c-0.2-0.1-0.4-0.3-0.8-0.5
+		c-0.1,0.6-0.2,1-0.3,1.4c-0.1,0.8-0.6,1-1.2,0.5c-0.5-0.3-0.8-0.8-1.2-1.2c-0.4-0.4-0.8-0.8-1.1-1.2c-0.3,0.4-0.5,0.7-0.8,1
+		c-0.5-0.4-0.8-0.9-1.3-1.2c-0.5-0.3-1.1-0.4-1.6-0.6c-0.8-0.3-1.3-0.9-1.7-1.7c-0.2-0.4-0.3-0.9-0.5-1.3c-0.1-0.3-0.3-0.6-0.6-0.7
+		c-1-0.3-1.6-1.1-2.3-1.9c-1.9-2.3-3.9-4.6-5.7-7.1c-1.2-1.6-2.2-3.4-3-5.3c-1.8-3.7-3-7.6-4.2-11.5c-0.1-0.3-0.2-0.6-0.4-1
+		c-1,0.8-1.9,1.5-2.8,2.1C1612.7,211.4,1612.6,211.5,1612.5,211.6z M1637.8,220.8c0.2,1.3,0.3,2.6,0.5,3.8c0.2,1.6,0.5,3.1,0.8,4.6
+		c0.2,1,0.8,1.4,1.8,1.1c1.1-0.3,2.1-0.9,2.8-1.9c0.3-0.4,0.5-0.9,0.3-1.4c-0.7-2.5-1.2-5.1-2-7.6c-0.3-0.8-0.8-1.6-1.4-2.3
+		c-0.6-0.7-1.1-0.7-1.7,0.1c-0.3,0.3-0.5,0.8-0.6,1.2C1638,219.2,1637.9,220,1637.8,220.8z M1642.5,217.6c0.2,3.1,1.2,5.9,2.1,8.7
+		c0.3,1,1.1,1.3,2,0.8c1-0.6,1.8-1.5,2.3-2.5c0.5-0.9,0.6-1.9,0.1-2.9c-1-2-1.9-4.1-2.9-6.1c-0.1-0.3-0.3-0.5-0.5-0.8
+		c-1-1-2.1-0.8-2.6,0.5C1642.6,216.1,1642.6,216.9,1642.5,217.6z M1651,202.7c-0.2,0.1-0.4,0.2-0.5,0.3c-1.3,1.7-1.9,3.7-1.6,5.8
+		c0,0.3,0.3,0.8,0.5,1c1.4,0.9,2.2,2.3,3,3.7c0.4,0.7,0.9,1.4,1.4,2c0.3,0.4,0.6,0.8,1.3,0.7c0-0.4,0-0.7,0-1.1
+		c-0.2-1.2-0.3-2.4-0.5-3.6c-0.4-2.3-1-4.5-2-6.6C1652.2,204.1,1651.8,203.3,1651,202.7z M1634,232.1c0.1-0.1,0.2-0.1,0.3-0.2
+		c-0.1-0.6-0.2-1.2-0.3-1.8c-0.4-3-0.9-6.1-0.8-9.2c0.1-1.4-0.6-2.2-1.7-2.7c-0.6-0.3-1.4-0.4-2-0.6c-0.6,0.7-0.5,1.5-0.5,2.3
+		c0.3,3.4,1.3,6.6,2.8,9.7c0.3,0.6,0.7,1.1,1.1,1.6C1633.2,231.6,1633.6,231.8,1634,232.1z M1650.1,221.6c0.3-0.2,0.5-0.2,0.6-0.3
+		c0.6-0.8,1.1-1.6,1.7-2.4c0.7-1,0.6-2.1,0-3.2c-0.8-1.7-2-3.1-3.5-4.2c-0.3-0.2-0.6-0.4-0.9-0.5c-1.1-0.5-1.8,0-1.8,1.2
+		c0,0.6,0.1,1.2,0.3,1.8c0.9,2.2,1.9,4.4,2.9,6.5C1649.5,220.9,1649.8,221.2,1650.1,221.6z M1634,223c0,0,0.1,0,0.1,0
+		c0,0.9-0.1,1.8,0,2.6c0.2,1.3,0.4,2.6,0.7,3.8c0.2,1,1,1.5,2,1.5c0.7,0,1.1-0.3,1.2-1c0-0.2,0.1-0.5,0.1-0.7
+		c0.1-3.4-0.6-6.6-1.7-9.8c-0.2-0.6-0.4-1.3-1.2-1.2c-0.7,0.1-0.9,0.9-1,1.5c0,0.1,0,0.2,0,0.2C1634.1,221,1634,222,1634,223z
+		 M1656.4,211.5c0.1,0,0.2-0.1,0.3-0.1c0.2-3.1,0.5-6.2,0.2-9.4c0-0.4-0.1-0.8-0.3-1.1c-0.2-0.3-0.6-0.6-1-0.6
+		c-1.3-0.1-2.7,1.6-2.2,2.8c0.8,2.5,1.7,4.9,2.6,7.4C1656,210.9,1656.2,211.2,1656.4,211.5z M1629.3,229.6c0.1-0.1,0.2-0.1,0.3-0.2
+		c0-0.5,0.1-0.9,0-1.4c-0.4-2.4-0.9-4.7-1.3-7.1c-0.1-0.3-0.2-0.7-0.4-0.9c-0.2-0.2-0.5-0.4-0.8-0.3c-1.4,0.2-2.5,1.7-2,3.1
+		c0.8,2.3,1.9,4.4,3.4,6.2C1628.6,229.2,1629,229.4,1629.3,229.6z M1656.2,198c0.1-0.2,0.2-0.4,0.2-0.6c0.2-1.7,0.2-3.4-0.1-5
+		c-0.1-0.9-0.6-1.3-1.4-1.6c-1-0.3-1.3-0.2-1.2,0.9c0.1,0.8,0.2,1.6-0.4,2.3c-0.1,0.1-0.1,0.4-0.1,0.7
+		C1653.5,195.6,1655.1,197.5,1656.2,198z M1648,228.8c-0.9,0.7-1.7,1.2-2.3,1.8c-0.2,0.1-0.2,0.5-0.2,0.7c0.4,1.4,0.9,2.8,1.3,4.2
+		c0.1,0.4,0.3,1,0.9,0.9c0.6-0.1,0.8-0.5,0.9-1.1c0.1-0.3,0.1-0.6,0.1-0.9C1648.8,232.5,1648.4,230.8,1648,228.8z M1642,232.6
+		c0.5,1.3,1,2.4,1.5,3.6c0.2,0.5,0.5,1,0.8,1.4c0.6,0.8,1.2,0.7,1.5-0.2c0.1-0.2,0.1-0.4,0.1-0.7c0-1.9-0.5-3.7-1-5.6
+		C1643.9,231.6,1643,232,1642,232.6z M1641.4,233c-0.9,0.4-1.7,0.8-2.6,1.2c0.7,1.5,1.2,2.8,1.9,4.2c0.4,0.8,1.1,1,1.7,0.8
+		c0.5-0.2,0.9-0.9,0.7-1.7C1642.7,236,1642.1,234.5,1641.4,233z M1638.1,234.5c-0.8,0.2-1.6,0.3-2.5,0.5c0.7,1.4,1.3,2.7,2,3.9
+		c0.4,0.7,1,1.2,1.6,1.7c0.2,0.2,0.7,0.3,0.8,0.1c0.2-0.2,0.3-0.6,0.3-0.9c0-0.1,0-0.2,0-0.3
+		C1639.9,237.9,1639.2,236.2,1638.1,234.5z M1650.9,225.7c-0.2,0.1-0.3,0.1-0.4,0.2c-0.5,0.6-1.1,1.2-1.6,1.8
+		c-0.2,0.2-0.3,0.6-0.2,0.8c0.2,1.4,0.4,2.8,0.6,4.2c0.1,0.4,0.3,0.7,0.4,1.1c1.2-0.2,1.3-1,1.4-1.8
+		C1651.3,230,1651.2,227.9,1650.9,225.7z M1653.2,221.7c-0.1,0-0.2,0-0.3-0.1c-0.5,0.9-1.1,1.7-1.6,2.6c-0.1,0.1-0.1,0.3-0.1,0.4
+		c0.2,1.3,0.3,2.6,0.6,4c0.1,0.4,0.4,0.8,0.5,1.1c0.8-0.2,0.9-0.8,0.9-1.3c0.1-1.6,0.2-3.3,0.2-4.9
+		C1653.5,223,1653.3,222.4,1653.2,221.7z M1623.4,214.8c-0.9,0-1.5-0.3-1.9-0.8c-0.1-0.2-0.5-0.3-0.7-0.2c-0.2,0.1-0.3,0.4-0.3,0.6
+		c0,0.1,0,0.2,0,0.3c0.5,1.1,0.9,2.2,1.4,3.2c0.2,0.3,0.5,0.6,0.8,0.8c0.3,0.2,0.7,0.3,0.9,0.2c0.2-0.1,0.4-0.6,0.3-0.9
+		C1623.8,217,1623.6,216,1623.4,214.8z M1655.6,217.9c-0.7,0.9-1.3,1.8-1.9,2.6c-0.1,0.1-0.1,0.3-0.1,0.4c0.2,1,0.5,2,0.8,3
+		c0.1,0.2,0.4,0.4,0.6,0.6C1656.1,223.4,1656.3,220.6,1655.6,217.9z M1632.2,235.5c0.6,1.4,1.4,2.7,2.9,3.3c0.1,0.1,0.3,0.1,0.4,0.1
+		c0.7,0.1,1.1-0.2,0.8-0.9c-0.2-0.6-0.4-1.2-0.7-1.7C1634.9,234.9,1633.8,234.5,1632.2,235.5z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1475.5,241.6c0.1,0.1,0.2,0.1,0.2,0.2c3.1,4.5,6.7,8.6,9.5,13.3
+		c1.1,1.9,2.6,3.6,4.2,5.2c0.4,0.4,0.8,0.6,1.3,1c0.3-0.7,0-1.1-0.3-1.4c-2.5-2.5-4.2-5.7-5.7-8.8c-1-2-1.9-4-3-6.2
+		c0.5,0.1,0.8,0.1,1.1,0.2c2.6,0.5,5.1,0.6,7.6-0.1c1.3-0.3,2.4-0.9,3.5-1.8c1.5-1.2,2.7-2.7,3.8-4.3c2-2.8,3.6-5.9,5.1-9
+		c0.9-1.9,1.8-3.7,2.7-5.6c0.9-1.9,2.4-3,4.5-3.4c0.2,0,0.4-0.1,0.7-0.2c0.1,0,0.1-0.1,0.2-0.1c-0.3-1.1-0.6-1.2-1.5-0.9
+		c-1.8,0.6-3.4,1.5-4.5,3.1c-0.7,1-1.3,2.1-2,3.2c-1.5,2.6-2.8,5.2-4.4,7.7c-1.1,1.9-2.5,3.6-3.8,5.3c-0.4,0.5-1,1-1.4,1.5
+		c-1.5,1.5-3.4,2.1-5.4,2.1c-3.9-0.1-7.3-1.4-10.2-4c-0.6-0.6-1.2-1.2-1.6-2c-0.8-1.4-1.8-2.6-3-3.6c-0.9-0.7-1.7-1.5-2.6-2.2
+		c-4.5-3.7-6.9-8.5-7.8-14.2c-0.7-4.5-0.5-9,1.1-13.3c0.1-0.1,0.1-0.3,0.2-0.4c0.6-1.7,0.9-1.8,2.7-1.6c1.9,0.2,3-0.6,3.4-2.4
+		c0.2-0.8,0.3-1.6,0.4-2.4c0.2-1.3,0.8-2.3,1.8-3.1c1.4-1.1,2.7-2.3,4-3.5c1.4-1.3,2.2-2.9,2.3-4.9c0.1-1.8,0.3-3.7,0.4-5.5
+		c0-0.3,0.1-0.6,0.2-1c1.6,0.2,2.8,1.4,4.4,1.3c0.2-0.6-0.2-0.9-0.5-1.1c-0.6-0.4-1.2-0.8-1.9-1.1c-0.7-0.3-0.9-0.8-0.9-1.6
+		c0.1-0.7,0.1-1.4,0.2-2.1c0.1-0.9-0.1-1.7-0.8-2.4c-0.4-0.4-0.9-0.9-0.8-1.7c0.3-0.1,0.7-0.2,1-0.2c0.9,0,1.5-0.4,1.8-1.3
+		c0.1-0.4,0.3-0.7,0.5-1c0.3-0.6,0.5-0.6,1.1-0.3c1.1,0.6,1.3,0.6,1.9-0.5c0.7-1.2,1.3-2.5,1.8-3.8c0.4-0.9,0.7-1.9,1.1-2.9
+		c0.2-0.5,0.5-0.9,1.1-0.9c0.9,0,1.5-0.5,1.8-1.2c0.3-0.7,0.6-1.5,0.9-2.2c0.3-0.7,0.4-0.8,1.2-0.6c0.6,0.2,1.1,0,1.4-0.5
+		c0.4-0.6,0.7-1.2,1-1.8c0.2-0.4,0.5-0.8,0.7-1.2c0.2,0.2,0.4,0.2,0.5,0.3c1,0.8,1.5,0.8,2.3-0.2c0.4-0.5,0.7-1,1.1-1.5
+		c0.2-0.2,0.4-0.5,0.6-0.7c0.4-0.4,0.8-0.3,1,0.3c0.2,0.5,0.3,1.1,0.6,1.8c0.5-0.5,0.8-0.7,1.1-1.1c0.7-0.8,1.2-0.9,2-0.2
+		c0.4,0.3,0.7,0.7,1,1.1c0.3,0.3,0.6,0.6,0.9,1c1.1-0.9,1-2.5,1.9-3.5c1.1,0.6,1.8,0,2.4-0.9c0.2-0.3,0.4-0.6,0.6-0.8
+		c0.1,0,0.2,0.1,0.2,0.1c-0.2,0.6-0.5,1.3-0.6,1.9c-0.1,0.6-0.3,1.2-0.2,1.8c0.5,2.7,0.3,5.4-0.4,8.1c-0.1,0.4-0.2,0.9-0.3,1.4
+		c0.8-0.2,0.9-0.7,1-1.1c0.2-1,0.4-2,0.5-2.9c0.1-0.4,0.1-0.7,0.2-1.1c0.6,0,0.7,0.5,0.9,0.8c0.5,1.1,1,2.2,1.5,3.3
+		c0.6,1.3,1.2,2.6,1.9,3.8c1,1.6,1.7,1.5,2.7,0c0.2-0.3,0.3-0.6,0.5-0.9c0.5-0.8,0.9-0.8,1.6-0.2c0.4,0.3,0.7,0.6,1,1
+		c0.3,0.3,0.6,0.6,0.9,0.9c0.7,0.6,1.3,0.5,1.7-0.3c0.3-0.4,0.5-1,0.7-1.5c0.1-0.4,0.2-0.7,0.3-1.1c0.2-0.6,0.1-1.5,0.9-1.6
+		c0.7-0.1,1.1,0.6,1.5,1.1c3.9,5,7.8,10.1,11.7,15.1c3.8,4.8,7.7,9.5,12,13.8c1,1.1,2.2,2.1,3.2,3.1c1.9,1.8,3.2,4,3.3,6.6
+		c0,0.8-0.1,1.7-0.3,2.5c-0.4,1.6-1.4,2.7-3,3.2c-2,0.7-4.2,1.1-6.3,1.3c-4,0.3-8,0.5-12.1,0.7c-1.5,0.1-3,0.1-4.5,0.3
+		c-2.1,0.2-3.9,1.3-5,3c0.6,0.8,0.8,0.9,1.3,0.4c1.5-1.6,3.5-2.1,5.6-2.2c1.3-0.1,2.6-0.1,3.9-0.1c4.5-0.1,9.1-0.1,13.6-0.2
+		c1.8-0.1,3.6-0.3,5.4-0.6c2.8-0.6,4.3-2.4,4.5-5.3c0-0.5,0-1,0-1.7c0.4,0.2,0.6,0.4,0.8,0.5c6.6,4.3,13.5,8,20.4,11.7
+		c0.8,0.4,0.9,0.5,1.9,0.5c-0.2-0.3-0.3-0.5-0.5-0.6c-0.5-0.3-1-0.7-1.6-1c-6.7-3.7-13-7.9-18.7-13c-1.9-1.7-3.6-3.6-5.4-5.5
+		c-0.2-0.2-0.4-0.5-0.7-0.9c0.5-0.1,0.9,0,1.3,0.1c2.5,0.6,4.8,1.6,7.1,2.8c6.3,3.3,12,7.5,17,12.7c1.2,1.2,2.2,2.6,3.3,4
+		c0.4,0.5,0.8,0.9,1.2,1.4c6.5,8.3,11,17.6,13.2,27.9c1.6,7.5,1,14.9-1.1,22.2c-1.1,3.8-2.6,7.4-4.6,10.8
+		c-3.7,6.1-8.8,10.8-15.2,13.8c-6.8,3.2-14,5.2-21.5,6c-9.3,0.9-18.5-0.2-27.4-3.1c-7.4-2.4-14.3-6-20.8-10.3
+		c-9.7-6.3-18.3-13.9-25.7-22.8c-3.8-4.6-6.8-9.7-9.1-15.3c-0.1-0.3-0.2-0.6-0.3-0.9C1475.4,241.7,1475.5,241.6,1475.5,241.6z
+		 M1557.2,250.6c0-6-1.2-9.8-3.6-13.1c-6.2-8.4-17.8-9.2-25-1.8c-6.8,7-6.9,18.9-0.1,26c6.6,6.9,17.1,6.9,23.7,0
+		C1555.6,258.1,1557.2,253.8,1557.2,250.6z M1470.7,214.3c-0.1,0-0.2,0.1-0.3,0.1c0,0.3,0,0.5,0,0.8c0.4,2.1,0.8,4.2,1.4,6.3
+		c0.7,2.6,1.6,5.2,3,7.6c1.3,2.3,3.3,3.4,5.9,3.5c2.7,0.1,5.1-0.6,7.4-1.8c2.4-1.2,4.5-2.8,6.5-4.5c0.4-0.3,0.7-0.7,1-1.1
+		c3.3-4.2,5.6-8.8,7.1-13.8c0.7-2.2,0.3-4.2-1-6.1c-0.9-1.3-1.9-2.4-3.3-3.2c-4-2.3-8.1-4.6-12.1-7c-1.4-0.8-2.6-0.7-3.8,0.3
+		c-1.8,1.5-3.6,3-5.4,4.4c-0.6,0.5-1,1.1-0.8,1.9c0.2,0.9-0.1,1.6-0.6,2.3c-0.6,0.9-1.2,1.9-1.8,2.9c-0.5,0.8-0.6,1.7-0.6,2.7
+		c0.2,1.9,0.3,3.7,0.5,5.6c0.2,2.3,0.4,4.6,0.5,6.9c0,0.4,0.1,0.8-0.3,1.4c-0.7-1.6-1.3-3.1-1.9-4.6
+		C1471.7,217.3,1471.2,215.8,1470.7,214.3z M1533.1,175.4c-0.1,0.1-0.2,0.2-0.2,0.2c0.2,0.3,0.4,0.7,0.7,1c1.7,2,3.5,4.1,5.2,6.1
+		c0.1,0.2,0.3,0.4,0.4,0.5c-0.6-0.3-1.1-0.6-1.6-1c-2.9-2.4-5.8-4.7-8.6-7.1c-1.1-1-2.3-1.5-3.8-1.4c-1.1,0-1.9-0.3-2.3-1.3
+		c-0.3-0.6-0.8-0.6-1.3-0.4c-1.1,0.5-2.2,1-3.3,1.4c-2.3,0.7-3.3,2.3-3.4,4.6c-0.3,5.1-0.6,10.2-0.9,15.3c0,0.6,0,1.2,0.2,1.7
+		c1,3.1,2.9,5.3,6.3,5.9c0.3,0.1,0.7,0.2,1,0.2c4,0.8,8,0.8,12,0.7c3.9-0.1,7.4-1.3,10.6-3.3c1-0.6,1.8-1.4,2.6-2.2
+		c1.6-1.7,2.4-5.1,0.5-7.7c-1.1-1.5-2.2-2.9-3.5-4.3c-3.1-3.2-6.6-6-10.1-8.7C1533.4,175.6,1533.2,175.5,1533.1,175.4z M1505,185.9
+		c0.4-1.1,0.5-2.1,0.5-3c0.1-4.1,0.2-8.2-0.5-12.3c-0.4-2.3-1.1-4.6-1.7-6.9c-0.1-0.3-0.5-0.8-0.8-0.9c-0.3,0-0.7,0.4-1,0.7
+		c-0.5,0.7-0.5,1.5-0.5,2.3c0.2,3.3,0,6.7-0.3,10c-0.1,0.9-0.3,1.9-0.5,3.1c-0.6-0.4-1-0.6-1.2-1c-0.8-0.9-1-2-0.8-3.1
+		c0.2-1.5,0.5-3,0.6-4.4c0.2-2,0.4-4,0.6-6.1c0-0.4,0.2-0.8-0.4-1.1c-0.4,0.3-0.4,0.8-0.4,1.2c0,1.5,0,3.1-0.1,4.6
+		c-0.1,1.5-0.5,3-0.8,4.5c-1.2-0.4-1.7-1.2-2-2.3c-0.3-1.1-0.7-2.3-1.2-3.4c-0.1-0.3-0.2-0.7-0.9-0.5c0,0.3,0,0.7,0.1,1
+		c0.5,1.3,1,2.6,1.5,4c0.2,0.5,0.4,0.9,0.9,1.3c0.5,0.4,0.9,0.9,1.2,1.5c0.8,1.4,0.8,2.9,0.6,4.5c0,0.2-0.2,0.5-0.3,0.7
+		c-0.8,0-1.2-0.5-1.6-0.9c-1.5-1.9-2.5-4-3.1-6.4c-0.1-0.4-0.1-0.8-0.3-1.1c-0.2-0.3-0.5-0.8-0.8-0.9c-0.5-0.2-0.7,0.3-0.9,0.7
+		c-0.2,0.4-0.4,0.9-0.6,1.4c-0.6,2-0.4,4.1,0.3,6c0.8,2.4,1.9,4.6,3.4,6.7c0.9,1.3,1.9,2.5,3.2,3.4c0.4,0.3,0.8,0.5,1.4,0.8
+		c0.1-0.4,0.3-0.7,0.3-1c0.1-0.4,0.1-0.8,0.1-1.3c0.1-1.1,0.3-1.3,1.6-1.5c0.7,1.5,1.4,3.1,2.2,4.6c0.1,0,0.2-0.1,0.2-0.1
+		c-0.1-0.3-0.2-0.6-0.3-0.8c-0.4-1.2-0.8-2.4-1.2-3.6c-0.2-0.6,0-0.9,0.5-1.2c0.6-0.3,1.1-0.4,1.6,0
+		C1504.2,185.4,1504.5,185.6,1505,185.9z M1534,216.3c0-0.1,0.1-0.2,0.1-0.3c-0.3-0.2-0.6-0.4-0.9-0.6c-3.1-1.6-6.3-2.9-9.6-3.8
+		c-2-0.5-4.1-0.7-6.2-0.5c-2.2,0.2-3.6,1.3-4.3,3.4c-0.2,0.5-0.3,1-0.4,1.6c-0.6,3.7-0.3,7.3,0.2,11c0,0.2,0.2,0.4,0.3,0.6
+		c0.6-0.3,0.5-0.9,0.5-1.3c0-2,0-3.9,0-5.9c0.1-1.7,0.3-3.4,0.8-5c0.5-1.4,1.4-2.2,2.9-2.5c1.8-0.4,3.7-0.2,5.5,0.1
+		c3.3,0.6,6.5,1.6,9.7,2.8C1533.2,216,1533.6,216.1,1534,216.3z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1497.8,124.4c-0.3-0.4-0.6-0.7-0.9-1c-0.6,0.2-0.9,0.7-1,1.2
+		c-0.3,0.8-0.6,1.6-0.9,2.4c-0.3,0.9-0.5,1-1.5,0.8c-0.5-0.1-0.9,0.1-1.2,0.5c-0.3,0.5-0.6,1.1-0.9,1.7c-0.1,0.2-0.2,0.5-0.3,0.8
+		c-0.5,1.5-0.6,1.5-2.2,1.1c-0.2,0.5-0.5,1-0.7,1.6c-0.4,1.3-0.7,2.7-1.1,4c-0.2,0.8-0.5,1.5-1.3,2c-0.2-0.1-0.4-0.3-0.6-0.5
+		c-0.1,0.1-0.2,0.1-0.3,0.2c-0.4,0.9-0.9,1.8-1.3,2.8c-1.4,3.8-2.8,7.6-4.3,11.4c-0.9,2.4-1.8,4.8-2.8,7.2
+		c-1.5,3.7-2.4,7.6-3.1,11.5c-0.9,5.6-1.7,11.3-2.1,17c0,0.6-0.1,1.2-0.9,1.5c-0.1-0.1-0.1-0.2-0.2-0.3c-0.5-3.4-0.9-6.8-1.3-10.3
+		c-0.4-3-0.9-6-1.4-9c-0.6-3.7-0.3-7.4,1.3-10.8c1.6-3.4,3.3-6.7,5-10.1c2.5-5.3,5-10.5,7.4-15.8c2-4.4,3.9-8.9,5.8-13.4
+		c1.8-4.2,3.8-8.2,6.8-11.7c2.9-3.3,6-6.2,9.4-9c0.6-0.5,1.3-0.9,2-1.3c1.2-0.5,2-0.3,2.9,0.7c0.9,1.1,1.5,2.4,1.7,3.9
+		c0.4,2.3,0.8,4.6,1.1,6.9c0.2,1.7,0.8,3.3,1.5,4.8c0.4,0.9,0.9,1.8,1.4,2.7c1.8,3,3.1,6.3,4.1,9.6c0.4,1.4,0.7,2.9,0.9,4.4
+		c0.2,2,0.2,4.1,0.3,6.1c0.2,5.8,0.4,11.7,1.4,17.4c0.2,0.9,0.3,1.9,0.5,2.8c-0.7,0.4-1.3,0.7-2,1.1c-0.1-0.7-0.3-1.4-0.4-2.1
+		c-0.9-5.4-1.8-10.8-3.2-16c-1.1-3.9-2.4-7.8-3.7-11.6c-0.2-0.6-0.6-1-0.9-1.6c-0.2-0.3-0.3-0.6-0.3-0.9c-0.1-0.6-0.1-1.1-0.1-1.7
+		c0-1-0.4-1.9-1.2-2.5c-0.7-0.6-1.3-1.2-1.1-2.3c-0.1,0-0.2,0-0.3,0c-0.3,0.3-0.5,0.6-0.8,0.9c-0.8-1.1-0.5-2.7-1.5-3.7
+		c-1.1,0.5-0.7,1.9-1.6,2.5c-0.1-0.1-0.1-0.2-0.2-0.2c-0.2-0.3-0.4-0.5-0.6-0.8c-0.3,0.2-0.7,0.4-0.8,0.7c-0.3,0.5-0.4,1-0.6,1.5
+		c-0.1,0.3-0.3,0.7-0.5,1.1c-0.4-0.6-0.7-1.1-1.1-1.7C1498.6,121.6,1498.9,123.4,1497.8,124.4z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1496.4,141.8c-0.3,2.5-0.6,5.1-1,7.6c-0.1,0.9-0.6,1.7-1.1,2.5
+		c-0.3,0.5-0.8,1-1.5,0.8c-0.7-0.2-1-0.7-1.1-1.3c-0.1-0.8-0.3-1.6-0.4-2.4c-0.2-1.7-0.4-3.5-0.7-5.3c-0.1-0.8,0-1.5,0.3-2.2
+		c0.7-1.5,1.8-2.8,3.1-3.8c0.1-0.1,0.3-0.2,0.5-0.3c1.1-0.7,1.8-0.3,1.8,1C1496.4,139.5,1496.3,140.7,1496.4,141.8
+		C1496.4,141.8,1496.4,141.8,1496.4,141.8z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1497.8,150.2c-0.9-1.1-1.2-2.3-1.1-3.6c0-1.9,0.2-3.8,0.3-5.7
+		c0-0.9,0.2-1.8,0.2-2.8c0-1.2,0.4-2.2,1.3-2.9c0.7-0.6,1.5-1.2,2.4-1.5c1-0.4,1.5,0.1,1.4,1.1c-0.4,3.9-0.7,7.8-1.7,11.6
+		c-0.2,0.9-0.7,1.8-1.1,2.6C1499.1,149.6,1498.6,150.1,1497.8,150.2z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1483.4,166.1c-0.8-1.2-1-2.5-1.1-3.7c-0.3-3.6-0.1-7.3,0.4-10.9
+		c0.1-0.3,0.2-0.6,0.3-1c0.7,0.1,0.9,0.5,1.1,1c0.3,0.9,0.6,1.8,0.9,2.7c0.4,1.3,0.7,2.7,1.7,3.7c0.3,0.3,0.4,0.9,0.3,1.3
+		c-0.4,2.5-1.4,4.6-3,6.5C1483.9,165.9,1483.7,165.9,1483.4,166.1z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1489.5,144.1c0.6,1.1,0.7,2.2,0.8,3.3c0.2,1.9,0.4,3.9,0.5,5.8
+		c0,0.8-0.1,1.7-0.3,2.5c-0.4,1.2-1.4,1.5-2.3,0.6c-1.9-1.9-2.8-4.3-2.7-7c0-0.2,0-0.3,0.1-0.4c0.9-1.7,1.9-3.3,3.4-4.6
+		C1489.1,144.2,1489.2,144.2,1489.5,144.1z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1507.3,149.8c-0.9-0.3-1.5-0.8-2-1.4c-0.5-0.6-0.7-1.2-0.5-2
+		c1-4.5,1.6-9,2.1-13.5c0-0.2,0.1-0.4,0.1-0.6c0.7,0.1,0.8,0.6,1,1c0.3,1.1,0.6,2.2,0.6,3.3c0.3,3.6,0.3,7.3-0.4,10.9
+		C1508.1,148.7,1508,149,1507.3,149.8z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1502.4,148.7c-0.7-0.6-0.7-1.3-0.7-1.9c0-1.6,0-3.3,0.2-4.9
+		c0.3-2.2,0.7-4.3,1.1-6.4c0.1-0.4,0.2-0.8,0.4-1.2c0.2-0.5,0.5-0.9,1.2-0.9c0.5,0,1.1,0.5,1.2,1.1c0.1,0.5,0.1,1,0.1,1.5
+		c-0.1,2.8-0.7,5.6-1.4,8.4c-0.2,0.9-0.5,1.9-0.8,2.8C1503.5,147.6,1503.2,148.3,1502.4,148.7z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1480.4,158.4c0.2,0.4,0.4,0.8,0.5,1.2c0.3,1.7,0.7,3.5,0.9,5.2
+		c0.1,1.5-0.7,2.7-1.8,3.6c-0.7,0.6-1.3,0.3-1.3-0.6c-0.1-1.1-0.1-2.3,0.1-3.4c0.2-1.6,0.6-3.2,1-4.8c0.1-0.4,0.3-0.8,0.5-1.2
+		C1480.2,158.4,1480.3,158.4,1480.4,158.4z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1510.2,137.3c0.3,0.5,0.5,0.8,0.6,1.1c0.7,2.3,1.1,4.6,0.9,7
+		c-0.1,0.9-0.4,1.6-1.3,2c-0.6,0.3-0.9,0.2-1.1-0.5c-0.1-0.4-0.1-0.8-0.1-1.1c0.1-2.1,0.1-4.2,0.2-6.3
+		C1509.6,138.8,1509.5,138.1,1510.2,137.3z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1493.8,135.1c0.2-1.2,0.3-2.2,0.5-3.3c0.3-1.5,0.7-3,1.1-4.5
+		c0.2-0.7,0.6-1.3,1.6-1.5c0.1,0.4,0.3,0.8,0.3,1.2c0,1.8-0.1,3.6-0.2,5.4c0,0.2-0.1,0.5-0.2,0.6
+		C1495.9,133.7,1495.1,134.5,1493.8,135.1z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1497.5,132.6c0.2-2.6,0.4-4.9,1-7.1c0.2-0.7,0.5-1.5,1.4-1.8
+		c0.2,0.4,0.4,0.8,0.4,1.2c0.1,1.8,0.2,3.5,0.2,5.3c0,0.3-0.1,0.6-0.3,0.8C1499.5,131.5,1498.6,131.9,1497.5,132.6z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1490,138.9c0.4-1.7,0.7-3.5,1.2-5.2c0.3-1.2,0.7-2.4,1.2-3.6
+		c0.2-0.6,0.6-1.1,1.5-1.3c0,0.4,0.1,0.7,0.1,1.1c-0.3,1.9-0.6,3.8-0.9,5.7c0,0.3-0.2,0.6-0.4,0.8c-0.8,0.9-1.6,1.7-2.4,2.6
+		C1490.2,139,1490.1,138.9,1490,138.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1504,129c-0.9,0.4-1.7,0.8-2.6,1.2c-0.1-0.3-0.2-0.6-0.2-0.8
+		c0-1.6,0-3.2,0.2-4.8c0.1-0.6,0.4-1.2,0.7-1.8c0.1-0.2,0.6-0.5,0.8-0.4c0.3,0.1,0.5,0.5,0.7,0.8c0.1,0.2,0.1,0.4,0.1,0.7
+		C1503.9,125.5,1503.9,127.2,1504,129z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1486.5,143.9c0.2-1.1,0.2-2.2,0.5-3.2c0.5-1.7,1-3.5,1.6-5.2
+		c0.2-0.7,0.5-1.3,1.4-1.6c0.1,0.3,0.2,0.6,0.2,0.9c0,2-0.4,4-1,6C1488.9,141.5,1487.1,143.5,1486.5,143.9z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1505.4,120.4c0.3,0.4,0.6,0.7,0.7,1.1c0.2,0.6,0.4,1.3,0.5,2
+		c0.1,1.6,0.2,3.1,0.3,4.8c-0.7,0.1-1.4,0.2-2,0.3C1504,126.5,1504.2,121.5,1505.4,120.4z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1483.1,148.5c-0.3-2.6,1.3-7.1,2.7-7.9c0.1,0.4,0.3,0.8,0.3,1.2
+		c0,1-0.1,2.1-0.2,3.1c0,0.2-0.1,0.4-0.2,0.5C1484.9,146.4,1484,147.4,1483.1,148.5z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1477.7,173.3c1,0.6,1.4,1.4,1.6,2.3c0.1,0.4,0,1-0.2,1.3
+		c-0.5,0.6-0.7,1.2-0.8,1.9c-0.1,0.7-0.4,0.9-1,0.8c-0.6,0-0.8-0.4-0.8-0.9C1476.4,176.7,1476.8,175,1477.7,173.3z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1513.8,155c-0.3-0.7-0.5-1.5-1.5-1.5c0-1.7-0.4-3.4,0.4-5
+		c0.8,0.1,1.1,0.7,1.3,1.2c0.5,1.4,0.6,2.9,0.6,4.4C1514.6,154.7,1514.4,155,1513.8,155z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1507.1,125.7c0-0.6,0-1.2,0.1-1.7c0.1-0.5,0.6-0.7,1-0.4
+		c0.3,0.3,0.6,0.6,0.8,1c0.3,0.9,0.6,1.9,0.7,2.9c0.1,0.9,0,1-0.7,1.2c-0.8,0.1-1.4-0.1-1.6-0.8
+		C1507.2,127.2,1507.2,126.4,1507.1,125.7z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1605.4,123.2c-0.1,4.9-1.9,9.6-5.9,13.2
+		c-6.7,6.2-16.6,5.8-22.9-0.8c-6.6-6.9-6.8-18.3-0.4-25.4c7-7.8,18.8-7.4,25.2,0.9C1604.1,114.5,1605.3,118.4,1605.4,123.2z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1625.6,185.3c1.3,0.4,2.5,1.6,3.6,0c-0.7-1.5-1.4-3.1-2.1-4.7
+		c0.1,0,0.1-0.1,0.2-0.1c0.9,1.4,1.7,2.9,2.6,4.3c1.3-0.3,1.4-0.4,1.4-1.7c0-0.6,0-1.1,0-1.9c0.5,0.2,0.9,0.3,1.2,0.4
+		c0.6,0.4,1.3,0.7,1.8,1.2c3.4,3,5.9,6.5,7.5,10.7c0.5,1.2,0.5,2.4,0.2,3.6c-0.1,0.2-0.1,0.4-0.2,0.7c-0.4,0.9-0.9,1-1.5,0.2
+		c-0.3-0.3-0.5-0.7-0.6-1.1c-0.9-2.1-2.3-3.9-3.9-5.5c-0.6-0.6-1.1-1.2-2-1.3c-0.1,0.2-0.3,0.3-0.3,0.5c-0.1,2.2,0.7,4.6,2.9,5.7
+		c0.4,0.2,0.7,0.5,1,0.9c0.8,1.3,1.6,2.5,2.4,3.8c0.1,0.2,0.2,0.5,0.2,0.8c-0.6,0.3-0.8-0.1-1-0.3c-0.6-1-1.4-1.9-1.8-2.9
+		c-0.5-1.1-1.2-1.7-2.4-2c0,0.2-0.1,0.5-0.1,0.7c-0.2,2.5,0,4.9,0.8,7.3c0.2,0.7,0.2,0.7-0.3,1.4c-0.2-0.5-0.4-0.8-0.5-1.2
+		c-0.6-2.7-0.7-5.5-0.7-8.2c0-0.9-0.1-1.8-0.5-2.7c-0.4-0.9-1.1-1.6-2.2-1.9c-0.5,0.4-0.3,1-0.3,1.5c0.2,3.3,0.6,6.6,1.4,9.8
+		c0.1,0.4,0.3,0.8,0.3,1.2c0,0.5-0.2,1.1-0.5,1.5c-0.4,0.5-0.8,0.5-1.3,0c-0.2-0.2-0.4-0.5-0.5-0.7c-2.3-3.5-3.6-7.3-4.3-11.3
+		c-0.4-2.3-0.5-4.6-0.8-7C1625.5,186.4,1625.6,185.9,1625.6,185.3z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1653.3,149.1c0.5,0.9,1.2,1.7,1.3,2.8c0.5,3.2,0.8,6.5,1.3,9.7
+		c0.1,1,0,1.9-0.5,2.7c-0.6,1-1.2,2-1.8,2.9c-0.5,0.7-0.8,1.4-0.6,2.3c0.2,0.9-0.1,1.5-0.8,2.1c-1.7,1.4-3.4,2.8-5.1,4.3
+		c-1.1,0.9-2.2,1-3.4,0.4c-4.5-2.4-9-4.8-13.5-7.3c-2.7-1.5-4.2-5.3-3.6-8.3c1.1-5.2,3.1-10.1,6.3-14.3c3-3.9,6.9-6.7,12-7.6
+		c1.7-0.3,3.5-0.2,5.1,0.4c0.8,0.3,1.6,0.9,2.3,1.5c1.3,1.2,2.2,2.7,3,4.3c1.8,3.6,2.9,7.5,3.8,11.4c0,0.2,0,0.4-0.3,0.6
+		c-0.1-0.2-0.3-0.4-0.4-0.6c-1.2-3.6-3-6.9-4.7-10.2c-0.5-0.9-1-1.7-1.6-2.5c-1.3-1.8-3-2.6-5.2-2.7c-2.1-0.1-4.1,0.3-6,1.3
+		c-3.6,2-6.7,4.5-8.7,8.3c-1.7,3.3-3.2,6.6-3.8,10.2c-0.2,1.3-0.1,2.4,0.5,3.6c0.8,1.7,1.9,3.1,3.6,3.9c3.5,1.8,6.9,3.7,10.3,5.6
+		c1.7,1,3.1,0.8,4.5-0.5c1.3-1.2,2.6-2.2,4-3.3c0.6-0.5,0.8-1,0.6-1.7c-0.2-0.8,0.1-1.5,0.6-2.1c2.2-3.2,2.2-3.2,1.7-7.1
+		c-0.3-2.8-0.7-5.6-1.1-8.3c-0.1-0.5-0.1-1-0.1-1.5C1653.1,149.1,1653.2,149.1,1653.3,149.1z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1597.1,196.6c-0.2-0.1-0.4-0.1-0.6-0.2
+		c-3.6-2.6-7.2-5.3-10.3-8.5c-1-1-1.9-2.1-2.6-3.2c-2-2.9-1.8-6.3,0.5-8.9c0.9-1,2-1.9,3.2-2.6c3-1.9,6.3-3.1,10-3.2
+		c4.2-0.2,8.3,0,12.4,0.8c3.5,0.7,5.5,3,6.5,6.3c0.1,0.4,0.2,0.8,0.2,1.2c0.1,4.5,0.1,8.9,0.2,13.4c0,0.9-0.1,1.8-0.1,2.8
+		c-0.1,1.2-0.6,2-1.7,2.5c-1.6,0.7-3.2,1.4-4.7,2.1c-0.7,0.3-1.2,0.2-1.6-0.4c-0.5-0.8-1.3-1-2.2-0.9c-0.5,0.1-1.1,0-1.6,0
+		c-1-0.1-1.9-0.3-2.7-0.9c-2.3-1.7-4.6-3.2-6.8-5c-1.2-1-2.3-2.2-3.4-3.3c0.1-0.1,0.1-0.2,0.2-0.2c0.5,0.3,1,0.6,1.4,0.9
+		c2.7,1.9,5.4,3.8,8.1,5.8c1.2,0.9,2.5,1.4,4,1.2c1-0.1,1.9,0.1,2.5,1c0.3,0.4,0.7,0.4,1.1,0.2c1.5-0.7,3-1.3,4.5-2
+		c0.9-0.4,1.3-1.3,1.3-2.3c0.1-1.8,0.1-3.7,0.1-5.5c0-2.8-0.1-5.5-0.2-8.3c-0.1-3-2.3-5.9-5.2-6.7c-3.4-0.9-6.8-1.1-10.3-1
+		c-0.9,0-1.8,0.1-2.8,0.2c-3.4,0.4-6.3,1.8-9,3.8c-1.9,1.4-2.9,3.2-2.9,5.6c0,1.1,0.3,2.1,0.9,3c1,1.7,2.3,3,3.7,4.4
+		c0.7,0.6,1.3,1.3,2.1,1.8c2.1,1.6,3.7,3.5,5.5,5.4c0.2,0.2,0.3,0.5,0.5,0.7C1597.2,196.5,1597.2,196.6,1597.1,196.6z"/>
+	<path fill="#FFFFFF" stroke="#0000FF" stroke-miterlimit="10" d="M1597.5,155.2c0.4,0.2,0.8,0.3,1.2,0.5c2.8,1.2,5.6,2.2,8.5,2.8
+		c1.8,0.4,3.6,0.5,5.5,0.1c1.4-0.3,2.2-1.1,2.7-2.4c0.6-1.9,0.9-3.8,1-5.8c0.1-1.8,0-3.6,0.1-5.4c0-0.5-0.1-1.1,0.5-1.5
+		c0.1,0.2,0.3,0.4,0.3,0.6c0.4,3.7,0.8,7.5,0.1,11.2c-0.2,0.8-0.4,1.6-0.7,2.4c-0.6,1.5-1.7,2.4-3.3,2.7c-1.9,0.4-3.8,0.2-5.7-0.3
+		c-3.4-0.8-6.5-2.3-9.5-4.1c-0.3-0.2-0.5-0.4-0.7-0.6C1597.4,155.3,1597.5,155.2,1597.5,155.2z"/>
+</g>
 </svg>
