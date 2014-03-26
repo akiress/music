@@ -1,0 +1,12 @@
+#N canvas 32 31 1397 588 36;
+#X floatatom 19 89 5 0 0 0 - - -;
+#X obj 19 -51 loadbang;
+#X msg 19 9 0.707;
+#X text 224 -56 Sends a bang when patch first loaded.;
+#X text 18 -154 One way to implement a preset value in number box;
+#X text 150 7 Value is stored in a message box (value saved with patch)
+;
+#X text 141 66 Number box will receive the value when message box gets
+banged.;
+#X connect 1 0 2 0;
+#X connect 2 0 0 0;

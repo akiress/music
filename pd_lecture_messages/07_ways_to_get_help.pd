@@ -1,0 +1,18 @@
+#N canvas 81 145 686 306 24;
+#X obj 11 93 cnv 15 600 75 empty empty empty 20 12 0 14 -4034 -66577
+0;
+#X text 8 55 comment;
+#X obj 11 6 cnv 15 600 75 empty empty empty 20 12 0 14 -257985 -66577
+0;
+#X text 15 18 Right-click on any object and choose help to learn more
+about that object.;
+#X text 17 96 Right click on an empty part of the canvas and choose
+help. A list of the basic pd objects will show up. You can also right-click
+these objects.;
+#X obj 10 183 cnv 15 660 110 empty empty empty 20 12 0 14 -159808 -66577
+0;
+#X text 65 246 Help | Pd Help Browser... | Pure Data | 2.control.examples
+;
+#X text 18 198 For many more patches about processing using messages
+\, make the following selections starting from the pull-down menus:
+;

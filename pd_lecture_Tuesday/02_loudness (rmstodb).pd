@@ -1,0 +1,27 @@
+#N canvas 27 95 977 630 36;
+#X obj 352 438 dac~;
+#X obj 335 252 osc~ 440;
+#X obj 576 72 hsl 128 15 20 105 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X floatatom 573 97 5 0 0 0 - - -;
+#X text 693 95 dB;
+#X obj 573 155 dbtorms;
+#X obj 387 353 *~;
+#X msg 573 213 \$1 50;
+#X obj 573 272 line~;
+#X obj -165 324 output~;
+#X obj -142 235 osc~ 440;
+#X obj -160 -75 cnv 15 250 75 empty empty empty 20 12 0 14 -159808
+-66577 0;
+#X text -162 1 The subjectively perceived strength of a sound.;
+#X text -140 -64 loudness;
+#X connect 1 0 6 0;
+#X connect 2 0 3 0;
+#X connect 3 0 5 0;
+#X connect 5 0 7 0;
+#X connect 6 0 0 0;
+#X connect 6 0 0 1;
+#X connect 7 0 8 0;
+#X connect 8 0 6 1;
+#X connect 10 0 9 0;
+#X connect 10 0 9 1;

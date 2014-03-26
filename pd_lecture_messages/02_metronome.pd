@@ -1,0 +1,72 @@
+#N canvas 241 55 1050 433 24;
+#X obj 15 16 cnv 15 500 400 empty empty empty 20 12 0 14 -114208 -66577
+0;
+#X obj 96 115 tgl 40 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 96 164 metro 1000;
+#X obj 95 369 print metroobject;
+#X floatatom 203 131 5 10 10000 0 - - -;
+#X text 264 131 To change the period;
+#X text 50 81 The period of a metronome is set in ms;
+#X obj 244 241 bng 40 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
+-1;
+#N canvas 1561 494 398 340 bang-me-to-make-sound1 0;
+#X obj 80 297 dac~;
+#X obj 75 14 inlet;
+#X obj 104 179 *~;
+#X obj 104 257 *~ 0.2;
+#X obj 75 138 line~;
+#X obj 104 219 onepole~ 600 Hz;
+#X msg 75 104 1 \, 0 150;
+#X obj 255 127 osc~ 300;
+#X connect 1 0 6 0;
+#X connect 2 0 5 0;
+#X connect 3 0 0 1;
+#X connect 4 0 2 0;
+#X connect 5 0 3 0;
+#X connect 6 0 4 0;
+#X connect 7 0 2 1;
+#X restore 198 294 pd bang-me-to-make-sound1;
+#X obj 50 202 bng 40 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
+-1;
+#X obj 532 16 cnv 15 500 400 empty empty empty 20 12 0 14 -4032 -66577
+0;
+#X floatatom 704 114 5 10 10000 0 - - -;
+#X text 765 114 To change the period;
+#X obj 756 225 bng 40 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
+-1;
+#N canvas 1561 494 398 340 bang-me-to-make-sound2 0;
+#X obj 80 297 dac~;
+#X obj 75 14 inlet;
+#X obj 104 179 *~;
+#X obj 104 257 *~ 0.2;
+#X obj 75 138 line~;
+#X obj 104 219 onepole~ 600 Hz;
+#X obj 255 127 osc~ 400;
+#X msg 75 104 1 \, 0 250;
+#X connect 1 0 7 0;
+#X connect 2 0 5 0;
+#X connect 3 0 0 0;
+#X connect 4 0 2 0;
+#X connect 5 0 3 0;
+#X connect 6 0 2 1;
+#X connect 7 0 4 0;
+#X restore 710 278 pd bang-me-to-make-sound2;
+#X text 560 30 A metronome can also be made with a delay;
+#X text 559 52 (or pipe);
+#X text 553 361 This metronome doesn't stop once you start it.;
+#X text 554 385 How could you use spigot to change that?;
+#X obj 608 148 delay 750;
+#X obj 640 100 bng 40 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
+-1;
+#X obj 608 333 print manualmetro;
+#X connect 1 0 2 0;
+#X connect 2 0 9 0;
+#X connect 2 0 3 0;
+#X connect 4 0 2 1;
+#X connect 7 0 8 0;
+#X connect 11 0 19 1;
+#X connect 13 0 14 0;
+#X connect 19 0 20 0;
+#X connect 19 0 21 0;
+#X connect 20 0 19 0;

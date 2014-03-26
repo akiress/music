@@ -1,0 +1,50 @@
+#N canvas 238 117 1134 682 24;
+#X obj 469 416 scope~ 130 130 256 3 40 -1 1 0 0 0 0 102 255 51 135
+135 135 0;
+#X obj 9 290 osc~ 30;
+#X obj 5 588 print~;
+#X obj 5 531 bng 50 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X msg 469 381 bufsize 40;
+#X obj 146 372 *~ 0.8;
+#X msg 185 336 0.3;
+#X msg 249 336 0.9;
+#X text 60 555 <-- Click me to show some of the most recent audio samples.
+;
+#X obj 131 650 dac~;
+#X text 8 207 Try hooking up some of the signal generators to the *~.
+;
+#X floatatom 9 259 5 0 40 0 - - -;
+#X obj 469 347 loadbang;
+#X obj 287 284 square~ 20;
+#X obj 152 610 *~ 0.05;
+#X floatatom 287 251 5 0 40 0 - - -;
+#X floatatom 146 256 5 0 40 0 - - -;
+#X obj 146 288 phasor~ 20;
+#X floatatom 425 250 5 0 40 0 - - -;
+#X text 785 634 Patch by Edgar Berdahl \, 2014;
+#X obj 425 282 rand~;
+#X text 610 454 In pd \, scope~ only actually works accurate with low
+frequencies (e.g. 20Hz and below) ...;
+#X text 9 3 In pd \, the best way to debug audio signals in patches
+is by listening \; however \, there are a few visual things you can
+do.;
+#X text 8 91 The frequencies in this patch are so low \, you might
+not even be able to hear them using headphones. 20Hz is approximately
+the lowest frequency that we can hear \, but many stereo systems cannot
+reproduce such low frequencies.;
+#X connect 1 0 5 0;
+#X connect 3 0 2 0;
+#X connect 4 0 0 0;
+#X connect 5 0 0 0;
+#X connect 5 0 2 0;
+#X connect 5 0 14 0;
+#X connect 6 0 5 1;
+#X connect 7 0 5 1;
+#X connect 11 0 1 0;
+#X connect 12 0 4 0;
+#X connect 14 0 9 0;
+#X connect 14 0 9 1;
+#X connect 15 0 13 0;
+#X connect 16 0 17 0;
+#X connect 18 0 20 0;

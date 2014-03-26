@@ -1,0 +1,11 @@
+#N canvas 283 141 951 539 36;
+#X obj 36 376 dac~;
+#X obj 40 272 *~ 0.05;
+#X obj 39 188 osc~ \$1;
+#X text 33 9 Here the frequency is set;
+#X text 30 56 by the first argument to the;
+#X text 27 107 object as-abstraction-argument~;
+#X text 31 478 One pure tone/sinusoid for additive synthesis;
+#X connect 1 0 0 0;
+#X connect 1 0 0 1;
+#X connect 2 0 1 0;

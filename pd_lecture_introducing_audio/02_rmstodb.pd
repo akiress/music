@@ -1,0 +1,28 @@
+#N canvas 1858 28 1187 718 36;
+#X obj 162 598 dac~;
+#X obj 197 297 osc~ 440;
+#X floatatom 197 235 10 0 0 0 - - -;
+#X floatatom 197 109 5 0 0 0 - - -;
+#X obj 197 172 mtof;
+#X text 431 231 Hz;
+#X text 327 112 MIDI note number;
+#X obj 563 262 hsl 128 15 20 100 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X floatatom 560 287 5 0 0 0 - - -;
+#X text 680 285 dB;
+#X floatatom 561 404 5 0 0 0 - - -;
+#X obj 561 345 dbtorms;
+#X text 24 1 Controlling volume using dbtorms;
+#X obj 197 513 *~ 0;
+#X text 305 509 (It would be better to use line~ to;
+#X text 328 543 prevent clicking when adjusting volume.);
+#X connect 1 0 13 0;
+#X connect 2 0 1 0;
+#X connect 3 0 4 0;
+#X connect 4 0 2 0;
+#X connect 7 0 8 0;
+#X connect 8 0 11 0;
+#X connect 10 0 13 1;
+#X connect 11 0 10 0;
+#X connect 13 0 0 0;
+#X connect 13 0 0 1;

@@ -1,0 +1,101 @@
+#N canvas 502 41 800 742 10;
+#X obj 526 93 soundfiler;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X array mysound 663392 float 2;
+#X coords 0 1 663392 -1 200 140 1;
+#X restore 526 201 graph;
+#X floatatom 526 115 10 0 0 0 - - -;
+#X obj 526 138 s samplelength;
+#X obj 22 62 r samplelength;
+#X floatatom 22 84 10 0 0 0 - - -;
+#X text 90 84 Length of loaded sound in samples;
+#X obj 131 217 * 1000;
+#X floatatom 131 240 10 0 0 0 - - -;
+#X text 200 241 Length of loaded sound in ms;
+#X text 173 216 <-- To convert seconds to ms;
+#X obj 22 314 pack 0 0;
+#X obj 22 106 t f f;
+#X obj 22 504 line~;
+#X obj 22 337 prepend set;
+#N canvas 796 299 147 133 convert-audio-to-events 0;
+#X obj 16 81 snapshot~;
+#X obj 74 9 loadbang;
+#X obj 74 31 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1 1
+;
+#X obj 74 51 metro 30;
+#X obj 16 103 outlet;
+#X obj 16 25 inlet~;
+#X connect 0 0 4 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 3 0 0 0;
+#X connect 5 0 0 0;
+#X restore 267 612 pd convert-audio-to-events;
+#X floatatom 267 634 8 0 0 0 - - -;
+#X msg 22 379 663392 15042.9;
+#X obj 11 715 dac~;
+#X obj 22 690 *~ 0.05;
+#X obj 22 427 t a b;
+#X msg 49 449 0;
+#X text 82 433 This just makes it so that each time a list comes through
+\, first the message "0" gets sent to line (to reset its output to
+zero) \, and then the incoming list is passed along to control the
+sound.;
+#X text 112 377 <-- Click on me to hear the sound!;
+#X text 20 6 The trick in using tabread4~ to play back audio in a table
+(in this case the table called "mysample") is to calculate what messages
+to send to a line~ object connected to tabread4~.;
+#X text 242 560 <--- The output from line~/the input to tabread4~ is
+an audio signal representing the audio sample that should curently
+be played back out of the the table.;
+#X text 606 713 Patch made by Edgar Berdahl;
+#X text 511 21 audio WAV file into the table called mysample;
+#X text 512 8 First click on a message box below to load an;
+#X text 591 114 Size of loaded sound in samples;
+#N canvas 176 394 468 127 get-sampling-rate 0;
+#X floatatom 9 11 8 0 0 0 - - -;
+#X text 64 11 Samples/sec;
+#X obj 9 35 outlet;
+#X obj 9 -12 samplerate~;
+#X obj 9 -33 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 9 -55 r pd;
+#X obj 43 -55 loadbang;
+#X text 126 -58 Recheck what the sampling rate is when the patch is
+originally opened and whenever the message "pd" is sent.;
+#X connect 0 0 2 0;
+#X connect 3 0 0 0;
+#X connect 4 0 3 0;
+#X connect 5 0 4 0;
+#X connect 6 0 4 0;
+#X restore 170 150 pd get-sampling-rate;
+#X floatatom 170 173 5 0 0 0 - - -;
+#X msg 506 49 read -resize johnshort.wav mysound;
+#X msg 526 71 read -resize breaking-saucer.wav mysound;
+#X obj 22 667 tabread4~ mysound;
+#X obj 131 194 / 44100;
+#X connect 0 0 2 0;
+#X connect 2 0 3 0;
+#X connect 4 0 5 0;
+#X connect 5 0 12 0;
+#X connect 7 0 8 0;
+#X connect 8 0 11 1;
+#X connect 11 0 14 0;
+#X connect 12 0 11 0;
+#X connect 12 1 35 0;
+#X connect 13 0 15 0;
+#X connect 13 0 34 0;
+#X connect 14 0 17 0;
+#X connect 15 0 16 0;
+#X connect 17 0 20 0;
+#X connect 19 0 18 0;
+#X connect 19 0 18 1;
+#X connect 20 0 13 0;
+#X connect 20 1 21 0;
+#X connect 21 0 13 0;
+#X connect 30 0 31 0;
+#X connect 31 0 35 1;
+#X connect 32 0 0 0;
+#X connect 33 0 0 0;
+#X connect 34 0 19 0;
+#X connect 35 0 7 0;
