@@ -1,4 +1,4 @@
-#N canvas 1912 0 1920 997 10;
+#N canvas 147 40 1378 791 10;
 #X floatatom 119 131 0 0 120 0 - - -;
 #X text 160 131 level \, dB;
 #X floatatom 154 153 0 0 100 0 - - -;
@@ -13,10 +13,10 @@
 #X obj 96 63 osc~;
 #X obj 95 37 *~ 0.35;
 #X obj 98 -76 hsl 128 15 0 1 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 4200 1;
+-1 -1 0 1;
 #X obj 95 -50 * 1500;
 #X obj 392 -13 hsl 128 15 0 1 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 4200 1;
+-1 -1 0 1;
 #X text 413 14 comment;
 #X floatatom 389 68 5 0 0 0 - - -;
 #X obj 389 40 int;
@@ -29,8 +29,8 @@
 #X floatatom 552 179 0 0 100 0 - - -;
 #X text 565 154 crossover frequency \, Hz.;
 #X text 588 181 HF damping \, percent;
-#X obj 68 336 hsl 128 15 0 90 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 7500 1;
+#X obj 70 336 hsl 128 15 0 90 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
 #X obj 14 174 / 127;
 #X obj 389 160 *~ 0;
 #X obj 477 250 rev3~ 0 0 0 0;
@@ -44,7 +44,7 @@
 #X obj 84 294 r vol;
 #X obj 915 335 dac~;
 #X obj 722 327 hsl 128 15 0 90 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 7100 1;
+-1 -1 0 1;
 #X obj 789 284 / 127;
 #X obj 741 170 *~ 0;
 #X floatatom 943 -61 5 0 0 0 - - -;
@@ -62,27 +62,14 @@
 #X text 1115 224 crossover frequency \, Hz.;
 #X text 1138 251 HF damping \, percent;
 #X obj 927 275 rev3~ 100 90 3000 20;
-#X text 1134 24 The creation arguments (level \, liveness \, crossover
-frequency \, HF damping) may also be supplied in four inlets as shown.
-The "liveness" (actually the internal feedback percentage) should be
-100 for infinite reverb \, 90 for longish \, and 80 for short. The
-crossover frequency and HF damping work together: at frequencies above
-crossover \, the feedback is diminished by the "damping" as a percentage.
-So zero HF damping means equal reverb time at all frequencies \, and
-100% damping means almost nothing above the crossover frequency gets
-through.;
 #X text 866 -150 comment;
 #X obj 944 -93 hsl 128 15 0 1 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 2000 1;
+-1 -1 0 1;
 #X obj 909 673 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 12700 1;
+-1 -1 0 1;
 #X obj 906 698 / 127;
 #X obj 844 425 hsl 128 15 0 1 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 3200 1;
-#X floatatom 1511 511 5 0 0 0 - - -;
-#X obj 1511 538 == 1;
-#X obj 1511 562 select 1;
-#X obj 1394 452 expr $f1 \; if ($f1 > 0.1 \, 1 \, 0) \;;
+-1 -1 0 1;
 #X floatatom 841 454 5 0 0 0 - - -;
 #X floatatom 841 535 5 0 0 0 - - -;
 #X obj 841 507 int;
@@ -107,6 +94,50 @@ through.;
 #X obj 932 535 osc~;
 #X obj 932 475 * 1000;
 #X obj 965 448 random 2000;
+#X obj 1310 340 cos~;
+#X obj 1310 374 *~;
+#X obj 1310 441 *~;
+#X obj 1308 129 vline~;
+#X floatatom 1310 43 5 0 0 0 - - -;
+#X obj 1309 470 -~;
+#X msg 1310 103 1 0.5 \, 0 186 0.5;
+#X obj 1310 496 hip~ 5;
+#X obj 1313 6 hsl 128 15 0 1000 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 1310 24 / 1000;
+#X obj 1310 62 * 1000;
+#X obj 1310 318 phasor~;
+#X floatatom 1348 265 5 0 0 0 - - -;
+#X obj 1309 257 pow~;
+#X obj 1331 237 *~;
+#X floatatom 1363 223 5 0 0 0 - - -;
+#X obj 1363 197 / 12;
+#X floatatom 1363 175 5 0 0 0 - - -;
+#X obj 1461 191 cos~;
+#X obj 1462 146 *~ 0.25;
+#X obj 1462 166 -~ 0.25;
+#X obj 1546 21 hsl 128 15 0 1000 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X floatatom 1543 136 5 0 0 0 - - -;
+#X floatatom 1597 136 5 0 0 0 - - -;
+#X obj 1543 41 / 1000;
+#X obj 1448 295 dbtorms;
+#X obj 1390 530 dac~;
+#X floatatom 1472 375 0 0 120 0 - - -;
+#X text 1513 375 level \, dB;
+#X floatatom 1507 397 0 0 100 0 - - -;
+#X text 1548 397 liveness \, 0-100;
+#X floatatom 1542 421 4 0 5000 0 - - -;
+#X floatatom 1577 444 0 0 100 0 - - -;
+#X text 1590 419 crossover frequency \, Hz.;
+#X text 1613 446 HF damping \, percent;
+#X obj 1402 470 rev3~ 100 90 3000 20;
+#X obj 1668 213 lop~ 60;
+#X obj 1543 64 expr $f1 \; if ($f1 > 0 && $f1 < 0.5 \, 110 \, 130)
+\;;
+#X obj 716 282 r vol;
+#X obj 955 640 r vol;
+#X obj 1310 290 *~ 200;
 #X connect 0 0 8 2;
 #X connect 2 0 8 3;
 #X connect 4 0 8 4;
@@ -146,6 +177,7 @@ through.;
 #X connect 45 0 44 0;
 #X connect 46 0 42 0;
 #X connect 47 0 45 0;
+#X connect 47 0 95 0;
 #X connect 48 0 46 0;
 #X connect 49 0 57 2;
 #X connect 51 0 57 3;
@@ -153,31 +185,70 @@ through.;
 #X connect 54 0 57 5;
 #X connect 57 0 39 0;
 #X connect 57 1 39 1;
-#X connect 60 0 43 0;
-#X connect 61 0 62 0;
-#X connect 62 0 83 1;
-#X connect 63 0 68 0;
-#X connect 63 0 90 0;
-#X connect 64 0 65 0;
-#X connect 65 0 66 0;
-#X connect 67 1 64 0;
-#X connect 68 0 84 0;
-#X connect 69 0 85 0;
-#X connect 70 0 69 0;
-#X connect 72 0 80 2;
-#X connect 74 0 80 3;
-#X connect 76 0 80 4;
-#X connect 77 0 80 5;
-#X connect 80 0 71 0;
-#X connect 80 1 71 1;
-#X connect 81 0 82 0;
-#X connect 82 0 83 0;
-#X connect 83 0 80 0;
-#X connect 84 0 70 0;
-#X connect 85 0 81 0;
-#X connect 86 0 82 1;
-#X connect 87 0 86 0;
+#X connect 59 0 43 0;
+#X connect 59 0 13 0;
+#X connect 59 0 62 0;
+#X connect 60 0 61 0;
+#X connect 61 0 78 1;
+#X connect 62 0 63 0;
+#X connect 62 0 85 0;
+#X connect 63 0 79 0;
+#X connect 64 0 80 0;
+#X connect 65 0 64 0;
+#X connect 67 0 75 2;
+#X connect 69 0 75 3;
+#X connect 71 0 75 4;
+#X connect 72 0 75 5;
+#X connect 75 0 66 0;
+#X connect 75 1 66 1;
+#X connect 76 0 77 0;
+#X connect 77 0 78 0;
+#X connect 78 0 75 0;
+#X connect 79 0 65 0;
+#X connect 80 0 76 0;
+#X connect 81 0 77 1;
+#X connect 82 0 81 0;
+#X connect 83 0 84 0;
+#X connect 84 0 82 0;
+#X connect 85 0 83 0;
+#X connect 86 0 85 1;
+#X connect 87 0 88 0;
 #X connect 88 0 89 0;
-#X connect 89 0 87 0;
-#X connect 90 0 88 0;
-#X connect 91 0 90 1;
+#X connect 89 0 92 0;
+#X connect 90 0 101 0;
+#X connect 90 0 106 0;
+#X connect 90 0 100 0;
+#X connect 91 0 97 0;
+#X connect 92 0 94 0;
+#X connect 93 0 90 0;
+#X connect 94 0 123 0;
+#X connect 95 0 96 0;
+#X connect 95 0 108 0;
+#X connect 96 0 91 0;
+#X connect 97 0 93 0;
+#X connect 98 0 87 0;
+#X connect 99 0 127 1;
+#X connect 100 0 127 0;
+#X connect 101 0 100 1;
+#X connect 102 0 101 1;
+#X connect 103 0 102 0;
+#X connect 104 0 103 0;
+#X connect 105 0 88 1;
+#X connect 106 0 107 0;
+#X connect 107 0 105 0;
+#X connect 108 0 111 0;
+#X connect 110 0 112 0;
+#X connect 111 0 124 0;
+#X connect 112 0 89 1;
+#X connect 114 0 122 2;
+#X connect 116 0 122 3;
+#X connect 118 0 122 4;
+#X connect 119 0 122 5;
+#X connect 122 0 113 0;
+#X connect 122 1 113 1;
+#X connect 123 0 122 0;
+#X connect 124 0 109 0;
+#X connect 124 1 110 0;
+#X connect 125 0 40 0;
+#X connect 126 0 60 0;
+#X connect 127 0 98 0;
