@@ -1,0 +1,46 @@
+#N canvas 27 95 1098 649 36;
+#X obj 438 502 dac~;
+#X obj 662 136 hsl 128 15 20 105 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 6700 1;
+#X floatatom 659 161 5 0 0 0 - - -;
+#X text 779 159 dB;
+#X obj 659 219 dbtorms;
+#X obj 473 417 *~;
+#X msg 659 277 \$1 50;
+#X obj 659 336 line~;
+#X text -172 -65 At each test frequency \, adjust the volume in dB
+to get;
+#X text -175 -25 the same subjective loudness.;
+#X obj -153 523 dac~;
+#X floatatom 68 182 5 60 60.0001 0 - - -;
+#X text 188 180 dB;
+#X obj 68 240 dbtorms;
+#X obj -118 438 *~;
+#X msg 68 298 \$1 50;
+#X obj 68 357 line~;
+#X obj -170 337 osc~ 1000;
+#X obj 68 68 loadbang;
+#X text -27 426 Reference tone;
+#X text -29 458 at 1kHz.;
+#X obj 421 316 osc~ 400;
+#X msg 68 125 60;
+#X obj 326 34 cnv 15 550 75 empty empty empty 20 12 0 14 -257985 -66577
+0;
+#X text 396 44 about equal loudness;
+#X connect 1 0 2 0;
+#X connect 2 0 4 0;
+#X connect 4 0 6 0;
+#X connect 5 0 0 0;
+#X connect 5 0 0 1;
+#X connect 6 0 7 0;
+#X connect 7 0 5 1;
+#X connect 11 0 13 0;
+#X connect 13 0 15 0;
+#X connect 14 0 10 0;
+#X connect 14 0 10 1;
+#X connect 15 0 16 0;
+#X connect 16 0 14 1;
+#X connect 17 0 14 0;
+#X connect 18 0 22 0;
+#X connect 21 0 5 0;
+#X connect 22 0 11 0;

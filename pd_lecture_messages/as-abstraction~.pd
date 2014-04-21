@@ -1,0 +1,12 @@
+#N canvas 446 114 986 596 36;
+#X obj 52 410 dac~;
+#X obj 52 306 *~ 0.05;
+#X obj 51 222 osc~;
+#X obj 51 147 inlet;
+#X text 53 26 Frequency is set by input;
+#X text 51 70 number into inlet.;
+#X text 42 529 One pure tone/sinusoid for additive synthesis;
+#X connect 1 0 0 0;
+#X connect 1 0 0 1;
+#X connect 2 0 1 0;
+#X connect 3 0 2 0;

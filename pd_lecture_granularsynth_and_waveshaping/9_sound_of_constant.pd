@@ -1,0 +1,14 @@
+#N canvas 0 22 561 253 24;
+#X obj 18 151 sig~;
+#X obj 18 198 dac~;
+#X msg 18 62 1;
+#X msg 41 98 0;
+#X text 82 97 <-------- send a zero;
+#X text 59 59 <-------- send a float of 1;
+#X text 71 198 <-------- output the signal to soundcard;
+#X text 71 152 <-------- instantly convert to constant signal;
+#X text 120 5 What is the sound of a constant?;
+#X connect 0 0 1 0;
+#X connect 0 0 1 1;
+#X connect 2 0 0 0;
+#X connect 3 0 0 0;

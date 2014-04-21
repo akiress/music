@@ -1,0 +1,5 @@
+#N canvas 1531 32 1371 786 36;
+#X text 830 -16 Harmonic tone;
+#X obj 416 415 as-abstraction~;
+#X obj 364 552 as-abstraction~;
+#X obj 374 562 as-abstraction~;

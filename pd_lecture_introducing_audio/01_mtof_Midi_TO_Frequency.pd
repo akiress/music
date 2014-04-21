@@ -1,0 +1,18 @@
+#N canvas 1858 28 1187 718 36;
+#X obj 162 652 dac~;
+#X obj 197 431 osc~ 440;
+#X floatatom 197 369 10 0 0 0 - - -;
+#X floatatom 197 243 5 0 0 0 - - -;
+#X obj 197 306 mtof;
+#X text 431 365 Hz;
+#X text 327 246 MIDI note number;
+#X text 25 48 mtof is helpful for tuning frequencies.;
+#X text 22 7 Human range of hearing is 20Hz to 20kHz.;
+#X obj 197 567 *~ 0.05;
+#X text 374 567 Constant volume;
+#X connect 1 0 9 0;
+#X connect 2 0 1 0;
+#X connect 3 0 4 0;
+#X connect 4 0 2 0;
+#X connect 9 0 0 0;
+#X connect 9 0 0 1;
