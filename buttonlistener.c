@@ -7,7 +7,7 @@ typedef struct _buttonlistener
 {
 	t_object x_obj;
 	t_clock *x_clock;
-	int defaultButtonState; //some buttons close switch when pressed, others open it, might as well make the code neutral.
+	int defaultButtonState;
 	int buttonState;
 	int pinNum;
 } t_buttonlistener;
