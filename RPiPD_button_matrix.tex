@@ -1,0 +1,75 @@
+\documentclass{nime-alternate}
+\usepackage{hyperref}
+\hypersetup{colorlinks,urlcolor=blue}
+\makeatletter
+\DeclareUrlCommand\ULurl@@{%
+  \def\UrlFont{\ttfamily\color{blue}}%
+  \def\UrlLeft{\uline\bgroup}%
+  \def\UrlRight{\egroup}}
+\def\ULurl@#1{\hyper@linkurl{\ULurl@@{#1}}{#1}}
+\DeclareRobustCommand*\ULurl{\hyper@normalise\ULurl@}
+\makeatother
+\usepackage{minted}
+\begin{document}
+
+\conferenceinfo{NIME'15,}{2015, Louisiana State University, USA.}
+
+\title{Integrating internet resources and inexpensive materials to evolve a 
+Raspberry Pi into a digital button sound machine. }
+
+\numberofauthors{1}
+
+\author{
+\alignauthor
+Benjamin Guitreau\\
+\affaddr{Center for Communication and Technology}\\
+\affaddr{Baton Rouge, Louisiana}\\
+\email{bguitr1@tigers.lsu.edu}
+}
+
+\date{10 May 2014}
+
+\maketitle
+\begin{abstract}
+The goal of this paper is to provide the details involved in designing and building 
+a digital musical enclosure that uses a button matrix as the keys. The materials 
+in the construction are inexpensive and accessible from online retailers, while 
+the design is straight-forward and easily reproducable or modified.. The basic 
+programming to get the instrument working is minimal which allows for anyone to 
+be able to write the code, while allowing for more advanced users to create complex 
+scores. 
+\end{abstract}
+
+\keywords{NIME, proceedings, Raspberry Pi, Sparkfun}
+
+\section{Introduction}
+
+\section{Design}
+
+\subsection{Hardware}
+The design of the box is based upon an enclosure built by Berdahl\cite{Berdahl:2014:Misc}. Using BoxMaker\cite{Bhargava:2013:Misc}, the builder is able to initiate the design process by inputting the dimensions and material thickness of the box. Using the downloaded design, the builder is able to edit the design with either Inkscape, CorelDraw, or Adobe Illustrator which allows for the creation of a project that can then be uploaded to Ponoko\cite{Ponoko}. Depending upon the material of choice, Ponoko will cut the pieces for the box and ship them to the builder.
+\subsection{Software}
+
+\section{Conclusions}
+%\end{document}  % This is where a 'short' article might terminate
+
+%ACKNOWLEDGMENTS are optional
+\section{Acknowledgments}
+This section is optional; it is a location for you
+to acknowledge grants, funding, editing assistance and
+what have you.  In the present case, for example, the
+authors would like to thank Gerald Murray of ACM for
+his help in codifying this \textit{Author's Guide}
+and the \textbf{.cls} and \textbf{.tex} files that it describes.
+
+%
+% The following two commands are all you need in the
+% initial runs of your .tex file to
+% produce the bibliography for the citations in your paper.
+\bibliographystyle{abbrv}
+\bibliography{RPiPD_button_matrix}
+
+%%% Place this command where you want to balance the columns on the last page. 
+%\balancecolumns 
+
+\end{document}

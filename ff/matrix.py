@@ -12,41 +12,41 @@ class ButtonMatrix():
         GPIO.setmode(GPIO.BCM)
     
     def buttonPressed(self):
-        for j in range(len(self.COLUMN)):
-            GPIO.setup(self.COLUMN[j], GPIO.OUT)
-            GPIO.output(self.COLUMN[j], GPIO.LOW)
+        for i in range(len(self.COLUMN)):
+            GPIO.setup(self.COLUMN[i], GPIO.OUT)
+            GPIO.output(self.COLUMN[i], GPIO.LOW)
         
         for i in range(len(self.ROW)):
             GPIO.setup(self.ROW[i], GPIO.IN, pull_up_down=GPIO.PUD_UP)
         
-        rowVal = -1
+        row_value = None
         for i in range(len(self.ROW)):
-            tmpRead = GPIO.input(self.ROW[i])
-            if tmpRead == 0:
-                rowVal = i
+            gpio_read_value = GPIO.input(self.ROW[i])
+            if gpio_read_value == 0:
+                row_value = i
                 
-        if rowVal < 0 or rowVal > 3:
+        if row_value < 0 or row_value > 3:
             self.exit()
             return
         
-        for j in range(len(self.COLUMN)):
-                GPIO.setup(self.COLUMN[j], GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+        for i in range(len(self.COLUMN)):
+            GPIO.setup(self.COLUMN[i], GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
         
-        GPIO.setup(self.ROW[rowVal], GPIO.OUT)
-        GPIO.output(self.ROW[rowVal], GPIO.HIGH)
+        GPIO.setup(self.ROW[row_value], GPIO.OUT)
+        GPIO.output(self.ROW[row_value], GPIO.HIGH)
 
-        colVal = -1
-        for j in range(len(self.COLUMN)):
-            tmpRead = GPIO.input(self.COLUMN[j])
-            if tmpRead == 1:
-                colVal=j
+        column_value = None
+        for i in range(len(self.COLUMN)):
+            gpio_read_value = GPIO.input(self.COLUMN[i])
+            if gpio_read_value == 1:
+                column_value=i
                 
-        if colVal < 0 or colVal > 3:
+        if column_value < 0 or column_value > 3:
             self.exit()
             return
 
         self.exit()
-        return self.BUTTON_MATRIX[rowVal][colVal]
+        return self.BUTTON_MATRIX[row_value][column_value]
         
     def exit(self):
         for i in range(len(self.ROW)):
@@ -55,15 +55,14 @@ class ButtonMatrix():
                 GPIO.setup(self.COLUMN[j], GPIO.IN, pull_up_down=GPIO.PUD_UP)
         
 if __name__ == '__main__':
-    key = ButtonMatrix()
-    temp = None
+    Button = ButtonMatrix()
     while True:
-        button = key.buttonPressed()
-        if button is not None:
-            if button == 15 or button == 16 or button == 13:
-                os.system("echo ' %d;' | pdsend 3000" % (button))
+        button_value = Button.buttonPressed()
+        if button_value is not None:
+            if button_value == 15 or button_value == 16 or button_value == 13:
+                os.system("echo ' %d;' | pdsend 3000" % (button_value))
                 time.sleep(0.05)
             else:
-                os.system("echo ' %d;' | pdsend 3000" % (button))
+                os.system("echo ' %d;' | pdsend 3000" % (button_value))
                 time.sleep(0.25)
-        button = None
+        button_value = None

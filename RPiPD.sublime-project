@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "file_exclude_patterns": [
+        "*.pdf", "*.aux", "*.dvi", "*.lis", "*.blg", "*.bbl", "*.toc",
+        "*.idx", "*.ind", "*.ilg", "*.thm", "*.out", "*.fdb_latexmk",
+        "*.fls", "*.synctex.gz", "*.nav", "*.snm", "*.htm", "*.pd", "*.cdr",
+        "*.jpg", "*.7z", "*.zip", "*.doc", "*.zsh", "*.ai"
+        ]
+    }
+  ],
+  "settings": {
+    "TEXroot": "RPiPD_button_matrix.tex"
+  }
+}
