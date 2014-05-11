@@ -7,62 +7,20 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "\\documentclass{nime-alternate}\n\n\\begin{document}\n\n\\conferenceinfo{NIME'15,}{2015, Louisiana State University, USA.}\n\n\\title{Integrating internet resources and inexpensive materials to evolve a \nRaspberry Pi into a digital button sound machine. }\n\n\\numberofauthors{1}\n\n\\author{\n\\alignauthor\nBenjamin Guitreau\\\\\n\\affaddr{Center for Communication and Technology}\\\\\n\\affaddr{Baton Rouge, Louisiana}\\\\\n\\email{bguitr1@tigers.lsu.edu}\n}\n\n\\date{10 May 2014}\n\n\\maketitle\n\\begin{abstract}\nThe goal of this paper is to provide the details involved in designing and building \na digital musical instrument that uses a button matrix as the keys. The materials \nin the construction are inexpensive and accessible from online retailers, while \nthe design is straight-forward and easily reproducable or modified.. The basic \nprogramming to get the instrument working is minimal which allows for anyone to \nbe able to write the code, while allowing for more advanced users to create complex \nscores. \n\\end{abstract}\n\n\\keywords{NIME, proceedings, Raspberry Pi, Sparkfun}\n\n\\section{Introduction}\n\n\\section{The {\\secit Body} of The Paper}\nTypically, the body of a paper is organized\ninto a hierarchical structure, with numbered or unnumbered\nheadings for sections, subsections, sub-subsections, and even\nsmaller sections.  The command \\texttt{{\\char'134}section} that\nprecedes this paragraph is part of such a\nhierarchy.\\footnote{This is the second footnote.  It\nstarts a series of three footnotes that add nothing\ninformational, but just give an idea of how footnotes work\nand look. It is a wordy one, just so you see\nhow a longish one plays out.} \\LaTeX\\ handles the numbering\nand placement of these headings for you, when you use\nthe appropriate heading commands around the titles\nof the headings.  If you want a sub-subsection or\nsmaller part to be unnumbered in your output, simply append an\nasterisk to the command name.  Examples of both\nnumbered and unnumbered headings will appear throughout the\nbalance of this sample document.\n\nBecause the entire article is contained in\nthe \\textbf{document} environment, you can indicate the\nstart of a new paragraph with a blank line in your\ninput file; that is why this sentence forms a separate paragraph.\n\n\\subsection{Type Changes and {\\subsecit Special} Characters}\nWe have already seen several typeface changes in this sample.  You\ncan indicate italicized words or phrases in your text with\nthe command \\texttt{{\\char'134}textit}; emboldening with the\ncommand \\texttt{{\\char'134}textbf}\nand typewriter-style (for instance, for computer code) with\n\\texttt{{\\char'134}texttt}.  But remember, you do not\nhave to indicate typestyle changes when such changes are\npart of the \\textit{structural} elements of your\narticle; for instance, the heading of this subsection will\nbe in a sans serif\\footnote{A third footnote, here.\nLet's make this a rather short one to\nsee how it looks.} typeface, but that is handled by the\ndocument class file. Take care with the use\nof\\footnote{A fourth, and last, footnote.}\nthe curly braces in typeface changes; they mark\nthe beginning and end of\nthe text that is to be in the different typeface.\n\nYou can use whatever symbols, accented characters, or\nnon-English characters you need anywhere in your document;\nyou can find a complete list of what is\navailable in the \\textit{\\LaTeX\\\nUser's Guide}\\cite{Lamport:LaTeX}.\n\n\n\\subsection{Tables}\nBecause tables cannot be split across pages, the best\nplacement for them is typically the top of the page\nnearest their initial cite.  To\nensure this proper ``floating'' placement of tables, use the\nenvironment \\textbf{table} to enclose the table's contents and\nthe table caption.  The contents of the table itself must go\nin the \\textbf{tabular} environment, to\nbe aligned properly in rows and columns, with the desired\nhorizontal and vertical rules.  Again, detailed instructions\non \\textbf{tabular} material\nis found in the \\textit{\\LaTeX\\ User's Guide}.\n\nImmediately following this sentence is the point at which\nTable~\\ref{tab:frequency} is included in the input file; compare the\nplacement of the table here with the table in the printed\ndvi output of this document. \n\nTo get correct numbering of tables, please use the \\textbf{label} command inside the \\textbf{table} environment and a corresponding \\textbf{ref} in the text.\n\n\\begin{table}\n\\centering\n\\caption{Frequency of Special Characters}\n\\begin{tabular}{|c|c|l|} \\hline\nNon-English or Math&Frequency&Comments\\\\ \\hline\n\\O & 1 in 1,000& For Swedish names\\\\ \\hline\n$\\pi$ & 1 in 5& Common in math\\\\ \\hline\n\\$ & 4 in 5 & Used in business\\\\ \\hline\n$\\Psi^2_1$ & 1 in 40,000& Unexplained usage\\\\\n\\hline\\end{tabular}\n\\label{tab:frequency}\n\\end{table}\n\nTo set a wider table, which takes up the whole width of\nthe page's live area, use the environment\n\\textbf{table*} to enclose the table's contents and\nthe table caption.  As with a single-column table, this wide\ntable will ``float\" to a location deemed more desirable.\nImmediately following this sentence is the point at which\nTable 2 is included in the input file; again, it is\ninstructive to compare the placement of the\ntable here with the table in the printed dvi\noutput of this document.\n\n\n\\begin{table*}[htbp]\n\\centering\n\\caption{Some Typical Commands}\n\\begin{tabular}{|c|c|l|} \\hline\nCommand&A Number&Comments\\\\ \\hline\n\\texttt{{\\char'134}alignauthor} & 100& Author alignment\\\\ \\hline\n\\texttt{{\\char'134}numberofauthors}& 200& Author enumeration\\\\ \\hline\n\\texttt{{\\char'134}table}& 300 & For tables\\\\ \\hline\n\\texttt{{\\char'134}table*}& 400& For wider tables\\\\ \\hline\\end{tabular}\n\\end{table*}\n% end the environment with {table*}, NOTE not {table}!\n\n\\subsection{Figures}\nLike tables, figures cannot be split across pages; the best placement for them is typically the top or the bottom of the page nearest their initial cite. To ensure this proper ``floating'' placement of figures, use the environment \\textbf{figure} to enclose the figure and its caption. Optionally, for small figures that you want to place inline with the text, you can use the \\textbf{htbp} options to \\textbf{figure} to see whether there is space for placing it inline with the text.\n\nThis sample document contains examples of \\textbf{.pdf} (Figure~\\ref{fig:BlockDiagram1}) and \\textbf{.jpg} files to be displayable with \\LaTeX. More details on each of these is found in the \\textit{Author's Guide}.\n\n\\begin{figure}[htbp]\n\\centering\n\\includegraphics[width=1\\columnwidth]{BlockDiagram1}\n\\caption{A sample image in PDF format.}\n\\label{fig:BlockDiagram1}\n\\end{figure}\n\nAs was the case with tables, you may want a figure that spans two columns (Figure~~\\ref{fig:BlockDiagram2}). To do this, and still to ensure proper ``floating'' placement of tables, use the environment \\textbf{figure*} to enclose the figure and its caption. And don't forget to end the environment with {figure*}, not {figure}!\n\n\\begin{figure*}[htbp]\n\\centering\n\\includegraphics[width=1\\textwidth]{BlockDiagram2}\n\\caption{A sample black and white graphic (.jpg format) that needs to span two columns of text.}\n\\label{fig:BlockDiagram2}\n\\end{figure*}\n\n\\subsection{Math Equations}\nYou may want to display math equations in three distinct styles:\ninline, numbered or non-numbered display.  Each of\nthe three are discussed in the next sections.\n\n\\subsubsection{Inline (In-text) Equations}\nA formula that appears in the running text is called an\ninline or in-text formula.  It is produced by the\n\\textbf{math} environment, which can be\ninvoked with the usual \\texttt{{\\char'134}begin. . .{\\char'134}end}\nconstruction or with the short form \\texttt{\\$. . .\\$}. You\ncan use any of the symbols and structures,\nfrom $\\alpha$ to $\\omega$, available in\n\\LaTeX\\cite{Lamport:LaTeX}; this section will simply show a\nfew examples of in-text equations in context. Notice how\nthis equation: \\begin{math}\\lim_{n\\rightarrow \\infty}x=0\\end{math},\nset here in in-line math style, looks slightly different when\nset in display style.  (See next section).\n\n\\subsubsection{Display Equations}\nA numbered display equation -- one set off by vertical space\nfrom the text and centered horizontally -- is produced\nby the \\textbf{equation} environment. An unnumbered display\nequation is produced by the \\textbf{displaymath} environment.\n\nAgain, in either environment, you can use any of the symbols\nand structures available in \\LaTeX; this section will just\ngive a couple of examples of display equations in context.\nFirst, consider the equation, shown as an inline equation above:\n\\begin{equation}\\lim_{n\\rightarrow \\infty}x=0\\end{equation}\nNotice how it is formatted somewhat differently in\nthe \\textbf{displaymath}\nenvironment.  Now, we'll enter an unnumbered equation:\n\\begin{displaymath}\\sum_{i=0}^{\\infty} x + 1\\end{displaymath}\nand follow it with another numbered equation:\n\\begin{equation}\\sum_{i=0}^{\\infty}x_i=\\int_{0}^{\\pi+2} f\\end{equation}\njust to demonstrate \\LaTeX's able handling of numbering.\n\n\n\n\\subsection{Theorem-like Constructs}\nOther common constructs that may occur in your article are\nthe forms for logical constructs like theorems, axioms,\ncorollaries and proofs.  There are\ntwo forms, one produced by the\ncommand \\texttt{{\\char'134}newtheorem} and the\nother by the command \\texttt{{\\char'134}newdef}; perhaps\nthe clearest and easiest way to distinguish them is\nto compare the two in the output of this sample document:\n\nThis uses the \\textbf{theorem} environment, created by\nthe\\linebreak\\texttt{{\\char'134}newtheorem} command:\n\\newtheorem{theorem}{Theorem}\n\\begin{theorem}\nLet $f$ be continuous on $[a,b]$.  If $G$ is\nan antiderivative for $f$ on $[a,b]$, then\n\\begin{displaymath}\\int^b_af(t)dt = G(b) - G(a).\\end{displaymath}\n\\end{theorem}\n\nThe other uses the \\textbf{definition} environment, created\nby the \\texttt{{\\char'134}newdef} command:\n\\newdef{definition}{Definition}\n\\begin{definition}\nIf $z$ is irrational, then by $e^z$ we mean the\nunique number which has\nlogarithm $z$: \\begin{displaymath}{\\log e^z = z}\\end{displaymath}\n\\end{definition}\n\nTwo lists of constructs that use one of these\nforms is given in the\n\\textit{Author's  Guidelines}.\n\nThere is one other similar construct environment, which is\nalready set up\nfor you; i.e. you must \\textit{not} use\na \\texttt{{\\char'134}newdef} command to\ncreate it: the \\textbf{proof} environment.  Here\nis a example of its use:\n\\begin{proof}\nSuppose on the contrary there exists a real number $L$ such that\n\\begin{displaymath}\n\\lim_{x\\rightarrow\\infty} \\frac{f(x)}{g(x)} = L.\n\\end{displaymath}\nThen\n\\begin{displaymath}\nl=\\lim_{x\\rightarrow c} f(x)\n= \\lim_{x\\rightarrow c}\n\\left[ g{x} \\cdot \\frac{f(x)}{g(x)} \\right ]\n= \\lim_{x\\rightarrow c} g(x) \\cdot \\lim_{x\\rightarrow c}\n\\frac{f(x)}{g(x)} = 0\\cdot L = 0,\n\\end{displaymath}\nwhich contradicts our assumption that $l\\neq 0$.\n\\end{proof}\n\nComplete rules about using these environments and using the\ntwo different creation commands are in the\n\\textit{Author's Guide}; please consult it for more\ndetailed instructions.  If you need to use another construct,\nnot listed therein, which you want to have the same\nformatting as the Theorem\nor the Definition\\cite{salas:calculus} shown above,\nuse the \\texttt{{\\char'134}newtheorem} or the\n\\texttt{{\\char'134}newdef} command,\nrespectively, to create it.\n\n\\subsection{A {\\secit Caveat} for the \\TeX\\ Expert}\nBecause you have just been given permission to\nuse the \\texttt{{\\char'134}newdef} command to create a\nnew form, you might think you can\nuse \\TeX's \\texttt{{\\char'134}def} to create a\nnew command: \\textit{Please refrain from doing this!}\nRemember that your \\LaTeX\\ source code is primarily intended\nto create camera-ready copy, but may be converted\nto other forms -- e.g. HTML. If you inadvertently omit\nsome or all of the \\texttt{{\\char'134}def}s recompilation will\nbe, to say the least, problematic.\n\n\n\n\\subsection{Citations}\nCitations to articles \\cite{bowman:reasoning,\nclark:pct, braams:babel, herlihy:methodology},\nconference proceedings \\cite{clark:pct} or\nbooks \\cite{salas:calculus, Lamport:LaTeX} listed\nin the Bibliography section of your\narticle will occur throughout the text of your article.\nYou should use BibTeX to automatically produce this bibliography;\nyou simply need to insert one of several citation commands with\na key of the item cited in the proper location in\nthe \\texttt{.tex} file \\cite{Lamport:LaTeX}.\nThe key is a short reference you invent to uniquely\nidentify each work; in this sample document, the key is\nthe first author's surname and a\nword from the title.  This identifying key is included\nwith each item in the \\texttt{.bib} file for your article.\n\nThe details of the construction of the \\texttt{.bib} file\nare beyond the scope of this sample document, but more\ninformation can be found in the \\textit{Author's Guide},\nand exhaustive details in the \\textit{\\LaTeX\\ User's\nGuide}\\cite{Lamport:LaTeX} and in various online source.\\footnote{See e.g. \\url{http://www.bibtex.org/}.}\n\nThis article shows only the plainest form\nof the citation command, using \\texttt{{\\char'134}cite}.\nThis is what is stipulated in the SIGS style specifications.\nNo other citation format is endorsed or supported.\n\n\n\\subsection{Links}\n\nLinks to URLs can be included using the \\texttt{{\\char'134}url} command. This will generate a clickable link like this: \\url{http://www.nime2013.org}.\n\n\n\\section{Conclusions}\nThis paragraph will end the body of this sample document.\nRemember that you might still have Acknowledgments or\nAppendices; brief samples of these\nfollow.  There is still the Bibliography to deal with; and\nwe will make a disclaimer about that here: with the exception\nof the reference to the \\LaTeX\\ book, the citations in\nthis paper are to articles which have nothing to\ndo with the present subject and are used as\nexamples only.\n%\\end{document}  % This is where a 'short' article might terminate\n\n%ACKNOWLEDGMENTS are optional\n\\section{Acknowledgments}\nThis section is optional; it is a location for you\nto acknowledge grants, funding, editing assistance and\nwhat have you.  In the present case, for example, the\nauthors would like to thank Gerald Murray of ACM for\nhis help in codifying this \\textit{Author's Guide}\nand the \\textbf{.cls} and \\textbf{.tex} files that it describes.\n\n%\n% The following two commands are all you need in the\n% initial runs of your .tex file to\n% produce the bibliography for the citations in your paper.\n\\bibliographystyle{abbrv}\n\\bibliography{nime-references}  % sigproc.bib is the name of the Bibliography in this case\n% You must have a proper \".bib\" file\n%  and remember to run:\n% latex bibtex latex latex\n% to resolve all references\n%\n% ACM needs 'a single self-contained file'!\n%\n%APPENDICES are optional\n\\appendix\n%Appendix A\n\\section{Headings in Appendices}\nThe rules about hierarchical headings discussed above for\nthe body of the article are different in the appendices.\nIn the \\textbf{appendix} environment, the command\n\\textbf{section} is used to\nindicate the start of each Appendix, with alphabetic order\ndesignation (i.e. the first is A, the second B, etc.) and\na title (if you include one).  So, if you need\nhierarchical structure\n\\textit{within} an Appendix, start with \\textbf{subsection} as the\nhighest level. Here is an outline of the body of this\ndocument in Appendix-appropriate form:\n\\subsection{Introduction}\n\\subsection{The Body of the Paper}\n\\subsubsection{Type Changes and  Special Characters}\n\\subsubsection{Math Equations}\n\\paragraph{Inline (In-text) Equations}\n\\paragraph{Display Equations}\n\\subsubsection{Citations}\n\\subsubsection{Tables}\n\\subsubsection{Figures}\n\\subsubsection{Theorem-like Constructs}\n\\subsubsection*{A Caveat for the \\TeX\\ Expert}\n\\subsection{Conclusions}\n\\subsection{Acknowledgments}\n\\subsection{Additional Authors}\nThis section is inserted by \\LaTeX; you do not insert it.\nYou just add the names and information in the\n\\texttt{{\\char'134}additionalauthors} command at the start\nof the document.\n\\subsection{References}\nGenerated by bibtex from your ~.bib file.  Run latex,\nthen bibtex, then latex twice (to resolve references)\nto create the ~.bbl file.  Insert that ~.bbl file into\nthe .tex source file and comment out\nthe command \\texttt{{\\char'134}thebibliography}.\n\n% This next section command marks the start of\n% Appendix B, and does not continue the present hierarchy\n\\section{More Help for the Hardy}\nThe sig-alternate.cls file itself is chock-full of succinct\nand helpful comments.  If you consider yourself a moderately\nexperienced to expert user of \\LaTeX, you may find reading\nit useful but please remember not to change it.\n\n%%% Place this command where you want to balance the columns on the last page. \n%\\balancecolumns \n\n% That's all folks!\n\\end{document}\n",
-			"file": "RPiPD_button_matrix.tex",
-			"file_size": 17757,
-			"file_write_time": 130442661321887459,
-			"settings":
-			{
-				"buffer_size": 16667,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "import RPi.GPIO as GPIO\nimport os\nimport time\n\nclass ButtonMatrix():\n    BUTTON_MATRIX = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]]\n    ROW = [22,27,18,17]\n    COLUMN = [10,9,11,23]\n    \n    def __init__(self):\n        GPIO.setwarnings(False)\n        GPIO.setmode(GPIO.BCM)\n    \n    def buttonPressed(self):\n        for i in range(len(self.COLUMN)):\n            GPIO.setup(self.COLUMN[i], GPIO.OUT)\n            GPIO.output(self.COLUMN[i], GPIO.LOW)\n        \n        for i in range(len(self.ROW)):\n            GPIO.setup(self.ROW[i], GPIO.IN, pull_up_down=GPIO.PUD_UP)\n        \n        row_value = None\n        for i in range(len(self.ROW)):\n            gpio_read_value = GPIO.input(self.ROW[i])\n            if gpio_read_value == 0:\n                row_value = i\n                \n        if row_value < 0 or row_value > 3:\n            self.exit()\n            return\n        \n        for i in range(len(self.COLUMN)):\n            GPIO.setup(self.COLUMN[i], GPIO.IN, pull_up_down=GPIO.PUD_DOWN)\n        \n        GPIO.setup(self.ROW[row_value], GPIO.OUT)\n        GPIO.output(self.ROW[row_value], GPIO.HIGH)\n\n        column_value = None\n        for i in range(len(self.COLUMN)):\n            gpio_read_value = GPIO.input(self.COLUMN[i])\n            if gpio_read_value == 1:\n                column_value=i\n                \n        if column_value < 0 or column_value > 3:\n            self.exit()\n            return\n\n        self.exit()\n        return self.BUTTON_MATRIX[row_value][column_value]\n        \n    def exit(self):\n        for i in range(len(self.ROW)):\n                GPIO.setup(self.ROW[i], GPIO.IN, pull_up_down=GPIO.PUD_UP) \n        for j in range(len(self.COLUMN)):\n                GPIO.setup(self.COLUMN[j], GPIO.IN, pull_up_down=GPIO.PUD_UP)\n        \nif __name__ == '__main__':\n    Button = ButtonMatrix()\n    while True:\n        button_value = Button.buttonPressed()\n        if button_value is not None:\n            if button_value == 15 or button_value == 16 or button_value == 13:\n                os.system(\"echo ' %d;' | pdsend 3000\" % (button_value))\n                time.sleep(0.05)\n            else:\n                os.system(\"echo ' %d;' | pdsend 3000\" % (button_value))\n                time.sleep(0.25)\n        button_value = None\n",
-			"file": "ff/matrix.py",
-			"file_size": 2300,
-			"file_write_time": 130442659025976282,
-			"settings":
-			{
-				"buffer_size": 2256,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "",
-			"file": "ff/matrix.c",
-			"file_size": 10,
-			"file_write_time": 130442659817861517,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows",
-				"name": "matrix.c"
-			}
-		},
-		{
-			"file": "/C/Users/akiress/Downloads/NIME-template-LaTeX/NIME template - LaTeX/nime-template.tex",
-			"settings":
-			{
-				"buffer_size": 22019,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 219.0,
+		"height": 58.0,
 		"selected_items":
 		[
 			[
-				"latex",
-				"Set Syntax: LaTeXSQ"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeXSQ"
 			],
 			[
 				"remove",
@@ -99,6 +57,15 @@
 	},
 	"file_history":
 	[
+		"/C/Users/akiress/git/music/RPiPD_button_matrix.tex",
+		"/C/Users/akiress/Downloads/NIME-template-LaTeX/NIME template - LaTeX/nime-template.tex",
+		"/C/Users/akiress/git/music/ff/matrix.py",
+		"/C/Users/akiress/git/music/button.py",
+		"/C/texlive/2013/texmf.cnf",
+		"/C/Users/akiress/git/music/ff/matrix.c",
+		"/C/Users/akiress/AppData/Roaming/Sublime Text 3/Packages/LaTeXSQ/LaTeXSQ.sublime-settings",
+		"/C/Users/akiress/AppData/Roaming/Sublime Text 3/Packages/LaTeXSQ/support/Default (Windows).sublime-keymap",
+		"/C/Users/akiress/git/music/RPiPD.sublime-project",
 		"/C/Users/akiress/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
 		"/C/Users/akiress/git/music/NIME template - LaTeX/nime-template.tex",
 		"/C/Users/akiress/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/Default.sublime-keymap",
@@ -111,7 +78,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -125,6 +92,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"we",
+			"references",
+			"perl",
 			"temp_read",
 			"tmpRead",
 			"-1",
@@ -155,134 +125,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "RPiPD_button_matrix.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								450,
-								450
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/LaTeXSQ/support/LaTeXSQ.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 162.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "ff/matrix.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2256,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								784,
-								784
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 378.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "ff/matrix.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "matrix.c",
-							"incomplete_sync": null,
-							"syntax": "Packages/C Improved/C Improved.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/akiress/Downloads/NIME-template-LaTeX/NIME template - LaTeX/nime-template.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22019,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								351,
-								441
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
-							"tab_size": 7,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -317,6 +161,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0

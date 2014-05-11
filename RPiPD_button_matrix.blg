@@ -1,5 +1,9 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: RPiPD_button_matrix.aux
 The style file: abbrv.bst
 Database file #1: RPiPD_button_matrix.bib
-Warning--to sort, need author or key in Ponoko
-(There was 1 warning)
+You're missing a field part---line 51 of file RPiPD_button_matrix.bib
+ : howpublished=
+ :              (\url{https://www.sparkfun.com}}
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in SF
+(There was 1 error message)

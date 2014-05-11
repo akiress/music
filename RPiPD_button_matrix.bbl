@@ -1,8 +1,7 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{Ponoko}
-Ponoko.
-\newblock \url{http://www.ponoko.com/make-and-sell/how-it-works}.
+\bibitem{SF}
+Sparkfun.
 
 \bibitem{Berdahl:2014:Misc}
 E.~Berdahl.
@@ -15,5 +14,45 @@ E.~Berdahl.
 R.~Bhargava.
 \newblock Boxmaker.
 \newblock \url{http://boxmaker.rahulbotics.com/}, 2013.
+
+\bibitem{RPi.GPIO}
+B.~Croston.
+\newblock Rpi.gpio.
+\newblock \url{https://pypi.python.org/pypi/RPi.GPIO}, 2014.
+
+\bibitem{BH}
+Sparkfun.
+\newblock Break away headers - straight.
+\newblock \url{https://www.sparkfun.com/products/116}.
+
+\bibitem{PCB}
+Sparkfun.
+\newblock Button pad 4x4 - breakout pcb.
+\newblock \url{https://www.sparkfun.com/products/8033}.
+
+\bibitem{BP}
+Sparkfun.
+\newblock Button pad 4x4 - led compatible.
+\newblock \url{https://www.sparkfun.com/products/7835}.
+
+\bibitem{DIO}
+Sparkfun.
+\newblock Diode small signal - 1n4148.
+\newblock \url{https://www.sparkfun.com/products/8588}.
+
+\bibitem{Jumper}
+Sparkfun.
+\newblock Jumper wires premium 6" f/f pack of 10.
+\newblock \url{https://www.sparkfun.com/products/8430}.
+
+\bibitem{Ponoko}
+Sparkfun.
+\newblock Ponoko.
+\newblock \url{http://www.ponoko.com/make-and-sell/how-it-works}.
+
+\bibitem{RPi}
+Sparkfun.
+\newblock Raspberry pi - model b.
+\newblock \url{https://www.sparkfun.com/products/11546}.
 
 \end{thebibliography}
